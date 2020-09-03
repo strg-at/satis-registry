@@ -1,0 +1,14 @@
+{
+    "name": "strgat/satis",
+    "description": "Satis Registry Generator",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hannes Hofstätter",
+            "email": "hannes.hofstaetter@strg.at"
+        }
+    ],
+    "require": {
+        "composer/satis": "^1.0"
+    }
+}
