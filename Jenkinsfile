@@ -12,7 +12,9 @@ node {
             }
         }
         stage('Build') {
-            sh 'composer build'
+            sshagent(['git_bitbucket.strg.at']) {
+                sh 'composer build'
+            }
         }
         stage('Deploying') {
             sshagent(["satis_rsync"]) {
