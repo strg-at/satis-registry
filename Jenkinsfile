@@ -1,5 +1,5 @@
 node {
-    properties([disableConcurrentBuilds()])
+    properties([disableConcurrentBuilds(), pipelineTriggers([cron('H 1 * * *')])])
     try {
         stage('Initialize') {
             sh 'composer --version'
