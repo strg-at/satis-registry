@@ -10,5 +10,8 @@
     ],
     "require": {
         "composer/satis": "^1.0"
+    },
+    "scripts": {
+        "build": "vendor/bin/satis build repositories.json output"
     }
 }
