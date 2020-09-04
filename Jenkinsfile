@@ -18,9 +18,7 @@ node {
         }
         stage('Deploying') {
             sshagent(["satis_rsync"]) {
-                for (String host : config.HOSTS) {
-                    sh "rsync -a --delete --exclude=.git* --delete-excluded output/* satis@srv-registry.strg.at:/home/satis/"
-                }
+                sh "rsync -a --delete --exclude=.git* --delete-excluded output/* satis@srv-registry.strg.at:/home/satis/"
             }
         }
     } catch (all) {
