@@ -376,6 +376,7 @@
     "directory": "dist",
     "format": "zip",
     "prefix-url": "https://composer.strg.at",
-    "skip-dev": true
+    "skip-dev": true,
+    "checksum": false
   }
 }
