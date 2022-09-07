@@ -4,15 +4,9 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "ssh://git@github.com/strg-at/spunq3.git"
+      "url": "https://github.com/strg-at/spunq3"
     }
   ],
   "require-all": true,
-  "archive": {
-    "directory": "dist",
-    "format": "zip",
-    "prefix-url": "https://composer.strg.at",
-    "skip-dev": true,
-    "checksum": false
-  }
+  "providers": true
 }
