@@ -1,6 +1,6 @@
 {
   "name": "strgat/satis",
-  "homepage": "https://composer.strg.at",
+  "homepage": "https://strg-at.github.io/composer-test/output/",
   "repositories": [
     {
       "type": "vcs",

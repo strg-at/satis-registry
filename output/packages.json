@@ -1,6 +1,6 @@
 {
     "packages": [],
-    "providers-url": "/p/%package%$%hash%.json",
+    "providers-url": "/composer-test/output/p/%package%$%hash%.json",
     "providers": {
         "strg/spunq3": {
             "sha256": "20b6a60c18b0c84fecaba02883f78c83b206252f72dd1e713ef454b1c0c8f3a2"
