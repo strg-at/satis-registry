@@ -5,4 +5,5 @@
 composer install
 composer build
 rsync -av output/* <server>
+something
 ```
