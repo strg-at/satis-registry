@@ -1,0 +1,375 @@
+{
+    "packages": {
+        "strg/spunq3": [
+            {
+                "name": "strg/spunq3",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "e3c404ce15853fb0b001318af9210647e4d07d8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/e3c404ce15853fb0b001318af9210647e4d07d8f",
+                    "reference": "e3c404ce15853fb0b001318af9210647e4d07d8f",
+                    "shasum": ""
+                },
+                "time": "2022-04-14T10:30:11+00:00",
+                "default-branch": true,
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.6",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 52
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/INPRO-45-gelf-logger",
+                "version_normalized": "dev-feature/INPRO-45-gelf-logger",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "25fad90470ef3d272fa12e0521a44e15979137c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/25fad90470ef3d272fa12e0521a44e15979137c6",
+                    "reference": "25fad90470ef3d272fa12e0521a44e15979137c6",
+                    "shasum": ""
+                },
+                "time": "2020-02-19T12:53:49+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/INPRO-45-gelf-logger",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 53
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/INPRO-957-php81",
+                "version_normalized": "dev-feature/INPRO-957-php81",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "0dcbd4d26edf09deac453f6fd425a9404e971b29"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/0dcbd4d26edf09deac453f6fd425a9404e971b29",
+                    "reference": "0dcbd4d26edf09deac453f6fd425a9404e971b29",
+                    "shasum": ""
+                },
+                "time": "2022-10-24T14:58:06+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/INPRO-957-php81",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 54
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/NOENT-678-file-delete-problem",
+                "version_normalized": "dev-feature/NOENT-678-file-delete-problem",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "0a982672dfa07ea687bac1437b908213e5cb8143"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/0a982672dfa07ea687bac1437b908213e5cb8143",
+                    "reference": "0a982672dfa07ea687bac1437b908213e5cb8143",
+                    "shasum": ""
+                },
+                "time": "2020-10-05T15:59:54+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/NOENT-678-file-delete-problem",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 55
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/NOENW-1233653-tmp-file-cleanup",
+                "version_normalized": "dev-feature/NOENW-1233653-tmp-file-cleanup",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "939adbc256ab5f6d29e3ba8434efd5da3b737ce8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/939adbc256ab5f6d29e3ba8434efd5da3b737ce8",
+                    "reference": "939adbc256ab5f6d29e3ba8434efd5da3b737ce8",
+                    "shasum": ""
+                },
+                "time": "2018-11-27T08:48:29+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/NOENW-1233653-tmp-file-cleanup",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 56
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/hh-repeating-fields-value",
+                "version_normalized": "dev-feature/hh-repeating-fields-value",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "491eb9d8c329f0e69fc7362d2b65314b1ae440f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/491eb9d8c329f0e69fc7362d2b65314b1ae440f8",
+                    "reference": "491eb9d8c329f0e69fc7362d2b65314b1ae440f8",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:18:05+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/hh-repeating-fields-value",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 57
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/hh-trait-support",
+                "version_normalized": "dev-feature/hh-trait-support",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "5191dde9046b72a24a2a098f22742b95a5bbebb1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/5191dde9046b72a24a2a098f22742b95a5bbebb1",
+                    "reference": "5191dde9046b72a24a2a098f22742b95a5bbebb1",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:18:05+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/hh-trait-support",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 58
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/hh-version0-improvements",
+                "version_normalized": "dev-feature/hh-version0-improvements",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "dea4c7625811037f081741be6b3b09f723635fe9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/dea4c7625811037f081741be6b3b09f723635fe9",
+                    "reference": "dea4c7625811037f081741be6b3b09f723635fe9",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:18:05+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/hh-version0-improvements",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 59
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/nb-request-methods",
+                "version_normalized": "dev-feature/nb-request-methods",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "1bdab4e3b38905d4d948f280402cefafd302685f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/1bdab4e3b38905d4d948f280402cefafd302685f",
+                    "reference": "1bdab4e3b38905d4d948f280402cefafd302685f",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:18:05+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/nb-request-methods",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 60
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/rector-updates",
+                "version_normalized": "dev-feature/rector-updates",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "ed863d0f4c3884df80394095f2fc535045a8920d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/ed863d0f4c3884df80394095f2fc535045a8920d",
+                    "reference": "ed863d0f4c3884df80394095f2fc535045a8920d",
+                    "shasum": ""
+                },
+                "time": "2019-02-06T13:42:03+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/rector-updates",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 61
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-feature/version-0-slugified-url-manager",
+                "version_normalized": "dev-feature/version-0-slugified-url-manager",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "7f5e3f77aa86acd6ba1e801896b455c696926b52"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/7f5e3f77aa86acd6ba1e801896b455c696926b52",
+                    "reference": "7f5e3f77aa86acd6ba1e801896b455c696926b52",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:18:05+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/version-0-slugified-url-manager",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 62
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "6f738170cc5ed4a3b6a903f338da079f1d3b1120"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/6f738170cc5ed4a3b6a903f338da079f1d3b1120",
+                    "reference": "6f738170cc5ed4a3b6a903f338da079f1d3b1120",
+                    "shasum": ""
+                },
+                "time": "2022-04-14T12:50:09+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.7",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 63
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-master-oe24",
+                "version_normalized": "dev-master-oe24",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "85c2f86ddcfabab9b207a3ab9b4037143ccdc68c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/85c2f86ddcfabab9b207a3ab9b4037143ccdc68c",
+                    "reference": "85c2f86ddcfabab9b207a3ab9b4037143ccdc68c",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:18:06+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/master-oe24",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 64
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-support/3.0.x",
+                "version_normalized": "dev-support/3.0.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "642d38fdbaa0155537a028446fd9796fe7b80568"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/642d38fdbaa0155537a028446fd9796fe7b80568",
+                    "reference": "642d38fdbaa0155537a028446fd9796fe7b80568",
+                    "shasum": ""
+                },
+                "time": "2022-07-11T15:07:52+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.38",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 65
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-support/3.0.x-php5",
+                "version_normalized": "dev-support/3.0.x-php5",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "efe39c7afb7e8e3d53871ebad09e182e983dacf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/efe39c7afb7e8e3d53871ebad09e182e983dacf3",
+                    "reference": "efe39c7afb7e8e3d53871ebad09e182e983dacf3",
+                    "shasum": ""
+                },
+                "time": "2022-07-11T14:58:17+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.37-RC2",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 66
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-support/4.x",
+                "version_normalized": "dev-support/4.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "642d38fdbaa0155537a028446fd9796fe7b80568"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/642d38fdbaa0155537a028446fd9796fe7b80568",
+                    "reference": "642d38fdbaa0155537a028446fd9796fe7b80568",
+                    "shasum": ""
+                },
+                "time": "2022-07-11T15:07:52+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.38",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 67
+            }
+        ]
+    }
+}

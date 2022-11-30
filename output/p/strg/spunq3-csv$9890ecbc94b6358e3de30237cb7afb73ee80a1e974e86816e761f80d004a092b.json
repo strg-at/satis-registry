@@ -1,0 +1,99 @@
+{
+    "packages": {
+        "strg/spunq3-csv": {
+            "1.0.0": {
+                "name": "strg/spunq3-csv",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-csv.git",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:49+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 105
+            },
+            "3.0.0": {
+                "name": "strg/spunq3-csv",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-csv.git",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:49+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 106
+            },
+            "dev-develop": {
+                "name": "strg/spunq3-csv",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-csv.git",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:49+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 107
+            },
+            "dev-main": {
+                "name": "strg/spunq3-csv",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-csv.git",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "reference": "293aefa2e4cf0cbb5fecc86aea768b399dddb0c2",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:49+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 108
+            }
+        }
+    }
+}

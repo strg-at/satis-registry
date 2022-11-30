@@ -1,0 +1,121 @@
+{
+    "packages": {
+        "strg/spunq3-locking": [
+            {
+                "name": "strg/spunq3-locking",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-locking.git",
+                    "reference": "cc60db53d447453d17fc73a10ecf73825faaa4d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/cc60db53d447453d17fc73a10ecf73825faaa4d7",
+                    "reference": "cc60db53d447453d17fc73a10ecf73825faaa4d7",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:00+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 154
+            },
+            {
+                "name": "strg/spunq3-locking",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-locking.git",
+                    "reference": "29b8b46a96622832609baaa29e175d21ecac14fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/29b8b46a96622832609baaa29e175d21ecac14fa",
+                    "reference": "29b8b46a96622832609baaa29e175d21ecac14fa",
+                    "shasum": ""
+                },
+                "time": "2018-08-13T12:30:56+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/3.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 155
+            },
+            {
+                "name": "strg/spunq3-locking",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-locking.git",
+                    "reference": "cfd2a57e19ebbf3a0fd501e422713a328f3238ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/cfd2a57e19ebbf3a0fd501e422713a328f3238ac",
+                    "reference": "cfd2a57e19ebbf3a0fd501e422713a328f3238ac",
+                    "shasum": ""
+                },
+                "time": "2021-05-18T14:55:23+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/1.1.1",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 156
+            },
+            {
+                "name": "strg/spunq3-locking",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-locking.git",
+                    "reference": "cc60db53d447453d17fc73a10ecf73825faaa4d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/cc60db53d447453d17fc73a10ecf73825faaa4d7",
+                    "reference": "cc60db53d447453d17fc73a10ecf73825faaa4d7",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:00+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 157
+            },
+            {
+                "name": "strg/spunq3-locking",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-locking.git",
+                    "reference": "29b8b46a96622832609baaa29e175d21ecac14fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/29b8b46a96622832609baaa29e175d21ecac14fa",
+                    "reference": "29b8b46a96622832609baaa29e175d21ecac14fa",
+                    "shasum": ""
+                },
+                "time": "2018-08-13T12:30:56+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/3.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 158
+            }
+        ]
+    }
+}
