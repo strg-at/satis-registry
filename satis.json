@@ -1,5 +1,5 @@
 {
-  "name": "STRG. Composer Registry",
+  "name": "strgat/satis",
   "homepage": "https://strg-at.github.io/composer-test/output",
   "repositories": [
     { "type": "vcs", "url": "https://github.com/strg-at/composer-installers" },
