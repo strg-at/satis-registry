@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-cron/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-cron/issues"
                 },
-                "uid": 103
+                "uid": 109
             },
             {
                 "name": "strg/spunq3-cron",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-cron/tree/1.1.3",
                     "issues": "https://github.com/strg-at/spunq3-cron/issues"
                 },
-                "uid": 104
+                "uid": 110
             }
         ]
     }

@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "strg/spunq3-spunqfs": {
+            "dev-develop": {
+                "name": "strg/spunq3-spunqfs",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-spunqfs.git",
+                    "reference": "b2b0bce588dce16b5014179637f5de2ef402508c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-spunqfs/zipball/b2b0bce588dce16b5014179637f5de2ef402508c",
+                    "reference": "b2b0bce588dce16b5014179637f5de2ef402508c",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:13+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-spunqfs/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
+                },
+                "uid": 227
+            },
+            "dev-main": {
+                "name": "strg/spunq3-spunqfs",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-spunqfs.git",
+                    "reference": "b2b0bce588dce16b5014179637f5de2ef402508c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-spunqfs/zipball/b2b0bce588dce16b5014179637f5de2ef402508c",
+                    "reference": "b2b0bce588dce16b5014179637f5de2ef402508c",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:13+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-spunqfs/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
+                },
+                "uid": 228
+            }
+        }
+    }
+}
