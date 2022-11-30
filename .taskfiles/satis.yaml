@@ -1,0 +1,21 @@
+---
+version: "3"
+
+tasks:
+  build:
+    desc: build
+    dir: .
+    cmds:
+      - |
+        docker run --rm --init -it \
+          --user $(id -u):$(id -g) \
+          --volume $(pwd):/build \
+          --volume $(pwd)/.composer:/composer \
+          composer/satis build satis.json
+
+  serve:
+    desc: start a local webserver on port 8000
+    dir: output
+    cmds:
+      - |
+        python3 -m http.server --bind 0.0.0.0 8000
