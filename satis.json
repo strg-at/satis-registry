@@ -1,6 +1,6 @@
 {
   "name": "strg-at.github.io/composer-test",
-  "homepage": "https://strg-at.github.io/composer-test/output/",
+  "homepage": "https://strg-at.github.io/composer-test/",
   "repositories": [
     { "type": "vcs", "url": "https://github.com/strg-at/composer-installers" },
     { "type": "vcs", "url": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle" },
@@ -38,5 +38,5 @@
   ],
   "require-all": true,
   "providers": true,
-  "output-dir": "output"
+  "output-dir": "docs"
 }

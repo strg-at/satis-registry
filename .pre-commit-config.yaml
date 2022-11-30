@@ -27,6 +27,7 @@ repos:
       - id: trailing-whitespace
         args:
           - --markdown-linebreak-ext=md
+        files: \^(?!docs$).*$
 
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.28.0
