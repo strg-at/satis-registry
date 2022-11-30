@@ -2,6 +2,8 @@
   "name": "strg-at.github.io/composer-test",
   "homepage": "https://strg-at.github.io/composer-test/output/",
   "repositories": [
+    { "type": "vcs", "url": "https://github.com/strg-at/composer-installers" },
+    { "type": "vcs", "url": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-lucene" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-ckeditor" },
