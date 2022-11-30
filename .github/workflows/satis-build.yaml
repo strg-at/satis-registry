@@ -1,7 +1,7 @@
 ---
 # Schedule composer build
 
-name: satis build
+name: satis-build
 
 on:
   schedule:
@@ -22,14 +22,14 @@ jobs:
       - name: Setup GIT
         uses: oleksiyrudenko/gha-git-credentials@v2.1
         with:
-          token: ${{ secrets.SATIS_PAT }}
+          token: ${{ secrets.GH_PUSH }}
           email: ${{ secrets.STRG_AUTOMATION_USER_EMAIL }}
           name: STRG Automation
 
       # https://github.com/marketplace/actions/satis-build-composer-repository
       - uses: tyriis/satis-build@v1.6
         with:
-          token: ${{ secrets.SATIS_PAT }}
+          token: ${{ secrets.GH_PUSH }}
 
       - name: GIT Commit Changes
         run: "git add . && git commit -m 'chore: satis build'"
