@@ -27,7 +27,7 @@ jobs:
           name: STRG Automation
 
       # https://github.com/marketplace/actions/satis-build-composer-repository
-      - uses: tyriis/satis-build@v1.3
+      - uses: tyriis/satis-build@v1.4
         with:
           token: ${{ secrets.SATIS_PAT }}
 
