@@ -6,6 +6,7 @@
 [![pre-commit][pre-commit-shield]][pre-commit-url]
 [![taskfile][taskfile-shield]][taskfile-url]
 
+[![satis-build](https://github.com/strg-at/satis-registry/actions/workflows/satis-build.yaml/badge.svg?branch=main)](https://github.com/strg-at/satis-registry/actions/workflows/satis-build.yaml)
 <!-- TITLE AND DESCRIPTION -->
 
 # composer.strg.at
