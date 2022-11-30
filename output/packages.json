@@ -3,7 +3,131 @@
     "providers-url": "/composer-test/output/p/%package%$%hash%.json",
     "providers": {
         "strg/spunq3": {
-            "sha256": "20b6a60c18b0c84fecaba02883f78c83b206252f72dd1e713ef454b1c0c8f3a2"
+            "sha256": "b6503b650134e22edc834e04bc275ee141f8eb06124cc4586f70aa4a8441f56d"
+        },
+        "strg/spunq3-ckeditor": {
+            "sha256": "22523b1641c29a9a82762962768db764359967a60b07361d22cfb2b3c1662f35"
+        },
+        "strg/spunq3-comment": {
+            "sha256": "5d5dd7e472030c2d6849fb692e02e6d07788fdd29ef71ab6bdc88a9ea4ef86ca"
+        },
+        "strg/spunq3-compressors": {
+            "sha256": "9bfc56bcd844f843d2b2143b36eda62596224c858364197d5c77830937eca8e8"
+        },
+        "strg/spunq3-contentobject": {
+            "sha256": "19f23c5e0bf6a38cfa2cb5dca25152f2350bfe2e2a12d75fd3cd6117f283e7e5"
+        },
+        "strg/spunq3-cron": {
+            "sha256": "2dca9c692558740dc7917bd69626960274b9c13a431de699da2d8b8f672af3a3"
+        },
+        "strg/spunq3-csv": {
+            "sha256": "9890ecbc94b6358e3de30237cb7afb73ee80a1e974e86816e761f80d004a092b"
+        },
+        "strg/spunq3-db": {
+            "sha256": "86e224d4cf2a58f974c473be9cbd7ea79fb2ab6e9b9c908438a3104099667778"
+        },
+        "strg/spunq3-dbcache": {
+            "sha256": "19cb0084048a0101b42a5c339c5f923f651fda9ab8dbd854f86a5c6237bf28cd"
+        },
+        "strg/spunq3-ftp": {
+            "sha256": "ab074eacd407dff9e4b122067a133d0655047cffdc129ccb42e213782d4c3bd3"
+        },
+        "strg/spunq3-geoservice": {
+            "sha256": "f057914390f7eb91c0aeef6f31087d7ac4edaede626064ebbf36d667614b7adf"
+        },
+        "strg/spunq3-jira": {
+            "sha256": "28e689563454ac50c2a907e36b852f74cc0b6269fd336d688ecacf24c8ec36e9"
+        },
+        "strg/spunq3-jquery": {
+            "sha256": "6e9cb492fa5d20ef96c36de7abc25e1585096b13c0539acae522aea2ade37ddd"
+        },
+        "strg/spunq3-jslib": {
+            "sha256": "ee7846d69c623383e17f9e45f0084f563cf94acc1706dabac852b29ef37e2000"
+        },
+        "strg/spunq3-locking": {
+            "sha256": "0d48be8a3413ce8189e18a32dc954efe5bc94670078ff8e43f9044045489e475"
+        },
+        "strg/spunq3-lucene": {
+            "sha256": "9fca3417db71279b57ce8746e461c63b05ea307253f176af476a6f3e282aac0a"
+        },
+        "strg/spunq3-mail": {
+            "sha256": "c0bb3805bc5e345080021fe6e40208ee25ec7731565bd89801f087f831cceabb"
+        },
+        "strg/spunq3-media": {
+            "sha256": "246da30691c43aad5d43ff441b63ce1b453a95b4157bcc16d8b3134058ac8126"
+        },
+        "strg/spunq3-networking": {
+            "sha256": "eea2088ebd544c3dae22d2386ebde88ea6a7f7c7e3e82336d980da8f6722a9cc"
+        },
+        "strg/spunq3-opauth": {
+            "sha256": "5ff589c360aacda0fc487cfaafa5620a91f43d49e390c083f20ca580f2a1ff1b"
+        },
+        "strg/spunq3-poll": {
+            "sha256": "103b2df66c1dd7cdfa3e3e81344830de91e4ded37475829f352194827c3ff136"
+        },
+        "strg/spunq3-random": {
+            "sha256": "2ce5a5318df73422fc8c3def553c441a6b3f92e2c177c0751a82782c15aec61f"
+        },
+        "strg/spunq3-rating": {
+            "sha256": "02cf93ef913011f4d7176800e7c5e80d2b73bc374bb6bfb586e00c0fa4f486c8"
+        },
+        "strg/spunq3-rss": {
+            "sha256": "af68dfbec656c861c9f809e111f930e893f99121cc92650e5276832f685e93f5"
+        },
+        "strg/spunq3-sass": {
+            "sha256": "96ad94e2ad4ebdb484fc11d362e4369555f0d206327bdc5502edce132c10aed6"
+        },
+        "strg/spunq3-spunqfs": {
+            "sha256": "363f24c1ce2e633ce414628efc7e3719febe2bc7fee1d755ebad6724e3ff767b"
+        },
+        "strg/spunq3-tagging": {
+            "sha256": "b7c8e7b670e4f99613f0f22e7ba427f97b5b22481d9720afb6bb8c2d3717beff"
+        },
+        "strg/spunq3-temporalaccess": {
+            "sha256": "ee0ff4bc7f3e3a37144a30b895f2f12b62ffad7345ab5a580f36ee9b66358798"
+        },
+        "strg/spunq3-varnish": {
+            "sha256": "26812b9e11e0c504b2dd73f45f00387d7231ee6bf28fbba7facc8154b095b7de"
+        },
+        "strg/spunq3-xml": {
+            "sha256": "7ad5a43e4e1f5c7832abbe2d1294f12c0abbd4904751842966337bd4b40600d7"
+        },
+        "strg/spunq3-yui": {
+            "sha256": "1deba1d658dbc422936afe33c017ebef5235cf552bb1e02405f0ae727254a226"
         }
-    }
+    },
+    "metadata-url": "/composer-test/output/p2/%package%.json",
+    "available-packages": [
+        "strg/spunq3",
+        "strg/spunq3-ckeditor",
+        "strg/spunq3-comment",
+        "strg/spunq3-compressors",
+        "strg/spunq3-contentobject",
+        "strg/spunq3-cron",
+        "strg/spunq3-csv",
+        "strg/spunq3-db",
+        "strg/spunq3-dbcache",
+        "strg/spunq3-ftp",
+        "strg/spunq3-geoservice",
+        "strg/spunq3-jira",
+        "strg/spunq3-jquery",
+        "strg/spunq3-jslib",
+        "strg/spunq3-locking",
+        "strg/spunq3-lucene",
+        "strg/spunq3-mail",
+        "strg/spunq3-media",
+        "strg/spunq3-networking",
+        "strg/spunq3-opauth",
+        "strg/spunq3-poll",
+        "strg/spunq3-random",
+        "strg/spunq3-rating",
+        "strg/spunq3-rss",
+        "strg/spunq3-sass",
+        "strg/spunq3-spunqfs",
+        "strg/spunq3-tagging",
+        "strg/spunq3-temporalaccess",
+        "strg/spunq3-varnish",
+        "strg/spunq3-xml",
+        "strg/spunq3-yui"
+    ]
 }

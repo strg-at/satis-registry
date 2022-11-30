@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "strg/spunq3-comment": [
+            {
+                "name": "strg/spunq3-comment",
+                "version": "0.2.4",
+                "version_normalized": "0.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-comment.git",
+                    "reference": "001bd9a9a8f4f6828044fda32327993936eeced9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-comment/zipball/001bd9a9a8f4f6828044fda32327993936eeced9",
+                    "reference": "001bd9a9a8f4f6828044fda32327993936eeced9",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:46+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-comment/tree/0.2.4",
+                    "issues": "https://github.com/strg-at/spunq3-comment/issues"
+                },
+                "uid": 81
+            },
+            {
+                "name": "strg/spunq3-comment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-comment.git",
+                    "reference": "ce5cd372609ec08a410a50143471484429c8aa89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-comment/zipball/ce5cd372609ec08a410a50143471484429c8aa89",
+                    "reference": "ce5cd372609ec08a410a50143471484429c8aa89",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:46+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-comment/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-comment/issues"
+                },
+                "uid": 82
+            }
+        ]
+    }
+}

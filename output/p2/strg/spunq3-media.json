@@ -1,0 +1,75 @@
+{
+    "packages": {
+        "strg/spunq3-media": [
+            {
+                "name": "strg/spunq3-media",
+                "version": "0.2.6",
+                "version_normalized": "0.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "879bda11ece52e1c85e0144047084bb97fd4c720"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/879bda11ece52e1c85e0144047084bb97fd4c720",
+                    "reference": "879bda11ece52e1c85e0144047084bb97fd4c720",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 179
+            },
+            {
+                "name": "strg/spunq3-media",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "ed4ae9a40ffb0125013acc1608ada49dbb88deea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/ed4ae9a40ffb0125013acc1608ada49dbb88deea",
+                    "reference": "ed4ae9a40ffb0125013acc1608ada49dbb88deea",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 180
+            },
+            {
+                "name": "strg/spunq3-media",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "9d1f1eeadce49bd429ec2620adcc0f0ba2ca4ccd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/9d1f1eeadce49bd429ec2620adcc0f0ba2ca4ccd",
+                    "reference": "9d1f1eeadce49bd429ec2620adcc0f0ba2ca4ccd",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 181
+            }
+        ]
+    }
+}

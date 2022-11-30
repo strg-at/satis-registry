@@ -1,0 +1,98 @@
+{
+    "packages": {
+        "strg/spunq3-ckeditor": [
+            {
+                "name": "strg/spunq3-ckeditor",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-ckeditor.git",
+                    "reference": "14312b9c18d26e434615cd1a849c95e77b3d1041"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/14312b9c18d26e434615cd1a849c95e77b3d1041",
+                    "reference": "14312b9c18d26e434615cd1a849c95e77b3d1041",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:39:36+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/4.5.9",
+                    "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
+                },
+                "uid": 68
+            },
+            {
+                "name": "strg/spunq3-ckeditor",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-ckeditor.git",
+                    "reference": "a41ec0b43c71ce590262e745cdf3ffe290e28fcb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/a41ec0b43c71ce590262e745cdf3ffe290e28fcb",
+                    "reference": "a41ec0b43c71ce590262e745cdf3ffe290e28fcb",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:39:34+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/3.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
+                },
+                "uid": 69
+            },
+            {
+                "name": "strg/spunq3-ckeditor",
+                "version": "3.6.6",
+                "version_normalized": "3.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-ckeditor.git",
+                    "reference": "c851d834967be0c66df655d1ca94c1910a1b5e83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/c851d834967be0c66df655d1ca94c1910a1b5e83",
+                    "reference": "c851d834967be0c66df655d1ca94c1910a1b5e83",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:39:36+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/3.6.6",
+                    "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
+                },
+                "uid": 70
+            },
+            {
+                "name": "strg/spunq3-ckeditor",
+                "version": "4.5.9",
+                "version_normalized": "4.5.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-ckeditor.git",
+                    "reference": "14312b9c18d26e434615cd1a849c95e77b3d1041"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/14312b9c18d26e434615cd1a849c95e77b3d1041",
+                    "reference": "14312b9c18d26e434615cd1a849c95e77b3d1041",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:39:36+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/4.5.9",
+                    "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
+                },
+                "uid": 71
+            }
+        ]
+    }
+}

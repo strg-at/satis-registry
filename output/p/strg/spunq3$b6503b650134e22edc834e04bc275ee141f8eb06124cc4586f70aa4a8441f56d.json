@@ -1190,6 +1190,7 @@
                     "shasum": ""
                 },
                 "time": "2022-04-14T10:30:11+00:00",
+                "default-branch": true,
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/3.1.6",
@@ -1227,15 +1228,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "5176b7f0b6fe1bf17b54fa3e068891a426c2b7dc"
+                    "reference": "0dcbd4d26edf09deac453f6fd425a9404e971b29"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/5176b7f0b6fe1bf17b54fa3e068891a426c2b7dc",
-                    "reference": "5176b7f0b6fe1bf17b54fa3e068891a426c2b7dc",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/0dcbd4d26edf09deac453f6fd425a9404e971b29",
+                    "reference": "0dcbd4d26edf09deac453f6fd425a9404e971b29",
                     "shasum": ""
                 },
-                "time": "2022-09-05T12:45:27+00:00",
+                "time": "2022-10-24T14:58:06+00:00",
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INPRO-957-php81",
@@ -1518,6 +1519,29 @@
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 66
+            },
+            "dev-support/4.x": {
+                "name": "strg/spunq3",
+                "version": "dev-support/4.x",
+                "version_normalized": "dev-support/4.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "642d38fdbaa0155537a028446fd9796fe7b80568"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/642d38fdbaa0155537a028446fd9796fe7b80568",
+                    "reference": "642d38fdbaa0155537a028446fd9796fe7b80568",
+                    "shasum": ""
+                },
+                "time": "2022-07-11T15:07:52+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.38",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 67
             }
         }
     }
