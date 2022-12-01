@@ -11,7 +11,6 @@
 # composer.strg.at
 
 Private static composer registry powered by [composer/satis][satis-url].
-<br />
 
 <!-- TABLE OF CONTENTS -->
 
@@ -30,14 +29,12 @@ Private static composer registry powered by [composer/satis][satis-url].
     </li>
   </ol>
 </details>
-<br />
 
 ## Automation
 
 [![satis-build][satis-build-badge]][satis-build-url]
 
 The build can be triggered manual for now. (It always create new index assets with build date, so automated builds are not enabled for now.)
-<br />
 
 ## Structure
 
@@ -45,14 +42,11 @@ The build can be triggered manual for now. (It always create new index assets wi
 └── satis.json                              # satis configuration
 ```
 
-<br />
-
 ## Requirements
 
 - [docker][docker-url] (development)
 - [python3][python-url] (development)
 - [task][taskfile-url] (development)
-  <br />
 
 ## Development
 
@@ -70,8 +64,6 @@ You can either input the token interactive when running `task satis:build` or cr
 }
 ```
 
-<br />
-
 ### Getting Started
 
 To build the static assets run:
@@ -86,8 +78,6 @@ To start a local server run:
 task satis:serve
 ```
 
-<br />
-
 ### Pre-commit
 
 To enable pre-commit you can run:
@@ -101,8 +91,6 @@ To lint/check all files with pre-commit:
 ```console
 task pre-commit:run
 ```
-
-<br/>
 
 <!-- TBD -->
 
