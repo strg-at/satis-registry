@@ -37,6 +37,7 @@ Private static composer registry powered by [composer/satis][satis-url].
 [![satis-build][satis-build-badge]][satis-build-url]
 
 The build can be triggered manual for now. (It always create new index assets with build date, so automated builds are not enabled for now.)
+<br />
 
 ## Structure
 
