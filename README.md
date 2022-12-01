@@ -11,7 +11,6 @@
 # composer.strg.at
 
 Private static composer registry powered by [composer/satis][satis-url].
-
 <br />
 
 <!-- TABLE OF CONTENTS -->
@@ -22,9 +21,13 @@ Private static composer registry powered by [composer/satis][satis-url].
     <li><a href="#automation">Automation</a></li>
     <li><a href="#structure">Structure</a></li>
     <li><a href="#requirements">Requirements</a></li>
-    <li><a href="#configuration">Configuration</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#known-issues">Known Issues</a></li>
+    <li><a href="#development">Development</a>
+      <ul>
+        <li><a href="#configuration">Configuration</a></li>
+        <li><a href="#getting-started">Getting Started</a></li>
+        <li><a href="#pre-commit">Pre-commit</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 <br />
@@ -47,9 +50,12 @@ The build can be triggered manual for now. (It always create new index assets wi
 
 - [docker][docker-url] (development)
 - [python3][python-url] (development)
+- [task][taskfile-url] (development)
   <br />
 
-## Configuration
+## Development
+
+### Configuration
 
 You will need a [GITHUB_TOKEN][gh-pat-url].
 
@@ -65,7 +71,7 @@ You can either input the token interactive when running `task satis:build` or cr
 
 <br />
 
-## Getting Started
+### Getting Started
 
 To build the static assets run:
 
@@ -81,7 +87,21 @@ task satis:serve
 
 <br />
 
-## Known Issues
+### Pre-commit
+
+To enable pre-commit you can run:
+
+```console
+task pre-commit:init
+```
+
+To lint/check all files with pre-commit:
+
+```console
+task pre-commit:run
+```
+
+<br/>
 
 <!-- TBD -->
 
