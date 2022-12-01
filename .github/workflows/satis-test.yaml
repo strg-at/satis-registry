@@ -1,0 +1,25 @@
+---
+# Schedule composer test
+
+name: satis-test
+
+on:
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: "30 7 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # https://github.com/marketplace/actions/checkout
+      - name: Checkout code
+        uses: actions/checkout@v3.0.2
+
+      # https://github.com/marketplace/actions/satis-build-composer-repository
+      - uses: tyriis/satis-build@v1.6
+        with:
+          token: ${{ secrets.GH_PUSH }}

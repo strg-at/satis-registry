@@ -4,8 +4,8 @@
 name: satis-build
 
 on:
-  # schedule:
-  #   - cron: "0 6 * * *"
+  schedule:
+    - cron: "30 6 * * 1"
 
   workflow_dispatch:
 
@@ -16,7 +16,7 @@ jobs:
     steps:
       # https://github.com/marketplace/actions/checkout
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.0.2
 
       # https://github.com/oleksiyrudenko/gha-git-credentials
       - name: Setup GIT
