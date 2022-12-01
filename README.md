@@ -17,7 +17,12 @@ Private static composer registry powered by [composer/satis][satis-url].
 <details>
   <summary style="font-size:1.2em;">📑 Table of Contents</summary>
   <ol>
-    <li><a href="#automation">Automation</a></li>
+    <li><a href="#automation">Automation</a>
+      <ul>
+        <li><a href="#satis-build">satis-build</a>
+        <li><a href="#satis-test">satis-test</a>
+      </ul>
+    </li>
     <li><a href="#structure">Structure</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#development">Development</a>
@@ -32,11 +37,17 @@ Private static composer registry powered by [composer/satis][satis-url].
 
 ## Automation
 
+### satis-build
+
 [![satis-build][satis-build-badge]][satis-build-url]
-[![satis-test][satis-test-badge]][satis-test-url]
 
 - The build can be triggered manual (click the badge for more).
 - The build runs on monday morning
+
+### test
+
+[![satis-test][satis-test-badge]][satis-test-url]
+
 - tests are running each morning (and on pull request)
 
 ## Structure
