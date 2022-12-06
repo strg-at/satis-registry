@@ -1,6 +1,6 @@
 {
     "packages": [],
-    "providers-url": "/composer-test/output/p/%package%$%hash%.json",
+    "providers-url": "/satis-registry/output/p/%package%$%hash%.json",
     "providers": {
         "strg/installers": {
             "sha256": "3f1a4c8c3523d8bd271f3a9ca971e6df377a51d225d7048b75cc86027655d839"
@@ -51,58 +51,58 @@
             "sha256": "a85604271a984bf661a52e6008aa1b2a372d0913c160b37e5210cb266f409f77"
         },
         "strg/spunq3-lucene": {
-            "sha256": "75ab240aad8edc9612672caeb74aa384f1bef708bbb8541081c36522588ad875"
+            "sha256": "378d56db7ef1103d3d2c7a63116eb80d6141865bda78d16148f161b8135f8528"
         },
         "strg/spunq3-mail": {
-            "sha256": "ba71dcc82cd8b8a136c1a17ca12c9c69ca33eb0f9adb4061bb31262a93547401"
+            "sha256": "aed29d68b64ea64d4d966922e906af0fc9afe341d753a95159b1f5da817ed7fe"
         },
         "strg/spunq3-media": {
-            "sha256": "f221e6bba9e68b39631f92ecfaba91a6bc6472c5c1245aa70a14e1d44492ef68"
+            "sha256": "a22c73d1b50d11ecf2cc93379e6bed1ab29f2ee829d4040a3c9f0f80837d7593"
         },
         "strg/spunq3-networking": {
-            "sha256": "ca0cfa407af2d8f85db2271cc4093ecebc11b5cb5c64b9af13434874aa0cd145"
+            "sha256": "9338761e9decac9138bdbaf0ad8bd28c3a23b8a66e835d7b517d809c09866e00"
         },
         "strg/spunq3-opauth": {
-            "sha256": "1a1beb1b052d248d6c611f98206b570b66a6edf11e1920d4413cb7d8ee3e5b27"
+            "sha256": "f76c80eba968acd93193a4b79652c086b464ada07548407bad7fb7ce979c7bed"
         },
         "strg/spunq3-poll": {
-            "sha256": "8e4c7147be43fdbaa889fd1384745514c8c62d7131a65b564415a4c91cc27409"
+            "sha256": "2f9760997aaeac07113b072fb42ba14d4bc4fdec78d32f1eea63206cd2ca8db7"
         },
         "strg/spunq3-random": {
-            "sha256": "9295b3828d5cd672dc0004265f64262738fceabe7c8537ce9fe496ac666d4a7c"
+            "sha256": "f3f7c5a592434abf1a55bc2a1be0500534903ea094abc2e5ee6f3ad95c16eec0"
         },
         "strg/spunq3-rating": {
-            "sha256": "65b1a55f245f2946f67ecc27c8e7ed4d3470f30533a24fbb1de4dd22284f029c"
+            "sha256": "a64191ef57065860728cd78af900026069a8e490314742fb72930451bf64cb88"
         },
         "strg/spunq3-rss": {
-            "sha256": "dbe889b04ba6fcc52e35cba2ac96f30f046dea156fff29bf9975821532bf5698"
+            "sha256": "ba085955bfebc45cc94e4690a3a1b0a4dddceee00bf276f2417eabf024e4bad9"
         },
         "strg/spunq3-sass": {
-            "sha256": "2419989525bf5546b6e95a2de9b1741c0c68f055f0952a99bed79bc67398c08e"
+            "sha256": "ab15d0d7028bbca0c7b1f7204fad02a4b602d87516c14329adb2bee1a73e0fab"
         },
         "strg/spunq3-spunqfs": {
-            "sha256": "0b7c1187f871847e1b71b4cc4e6fa1495e81860bc8640b68ce6acb50375d0308"
+            "sha256": "6289f6160fe865a26b07b8246f666bb5eda84d674d6bced00dfc35159f9db682"
         },
         "strg/spunq3-tagging": {
-            "sha256": "c06e42562d6efc4c96078ad94642eda43a64fc56c1b44b9e6c12cfc75d9b1a71"
+            "sha256": "8988b2a6fde5a94df6b22de86af6720410c0339310fa3d806f296574a384c9b3"
         },
         "strg/spunq3-temporalaccess": {
-            "sha256": "ca6cff2d0c32930f9802782bd9929ddf4db9ba71c4f3e931b0da8a79e43a498e"
+            "sha256": "976a02a26948563a7f247b7c8b2273f33c3355a7b08312df0a530d469c6f91e4"
         },
         "strg/spunq3-varnish": {
-            "sha256": "a63cad9aa34b66d87bae03360bf38cceb000f813423dbf51fdbb2991f1a9d46f"
+            "sha256": "5e7586543d0d3556eec7c6f4e905940f5ff084e7e61caffc5cb5c54440ab8d29"
         },
         "strg/spunq3-xml": {
-            "sha256": "6f45a02b1bfd718a93ad2381748b1e48a1ca8ce4e3959c6bab0f349316ebe92b"
+            "sha256": "554ea05adccb35af332b483e70aa021cee5bcf5e6a39f60576d63d0ee60c5989"
         },
         "strg/spunq3-yui": {
-            "sha256": "12503a8705d6695d9182b7765facd98a5d6e6bd2559a9d4bcbc6e0054a396e40"
+            "sha256": "0f3b723394dfbe224e56a16d6922e53ea29f50e8b620b7940c1ef7c424ea7fb8"
         },
         "strgat/swagger-codegenerator-bundle": {
-            "sha256": "36848be24d4eee4ec15ce3ca4a81c0867df1b3257d27c6d65ab4a491cdb2b0ee"
+            "sha256": "43a68da137f0439f481e510a1fbdbd57da1b8b276f26a68ec120a35cf531fc0b"
         }
     },
-    "metadata-url": "/composer-test/output/p2/%package%.json",
+    "metadata-url": "/satis-registry/output/p2/%package%.json",
     "available-packages": [
         "strg/installers",
         "strg/spunq3",
