@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "strg/spunq3-help": [
+            {
+                "name": "strg/spunq3-help",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-help.git",
+                    "reference": "3ef2301ed72af52e4e25e9d911934d384230671c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-help/zipball/3ef2301ed72af52e4e25e9d911934d384230671c",
+                    "reference": "3ef2301ed72af52e4e25e9d911934d384230671c",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:54+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-help/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-help/issues"
+                },
+                "uid": 147
+            },
+            {
+                "name": "strg/spunq3-help",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-help.git",
+                    "reference": "3ef2301ed72af52e4e25e9d911934d384230671c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-help/zipball/3ef2301ed72af52e4e25e9d911934d384230671c",
+                    "reference": "3ef2301ed72af52e4e25e9d911934d384230671c",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:54+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-help/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-help/issues"
+                },
+                "uid": 148
+            }
+        ]
+    }
+}

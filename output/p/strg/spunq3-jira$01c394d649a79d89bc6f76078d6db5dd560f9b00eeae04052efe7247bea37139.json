@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-jira/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-jira/issues"
                 },
-                "uid": 147
+                "uid": 152
             },
             "dev-main": {
                 "name": "strg/spunq3-jira",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-jira/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-jira/issues"
                 },
-                "uid": 148
+                "uid": 153
             }
         }
     }
