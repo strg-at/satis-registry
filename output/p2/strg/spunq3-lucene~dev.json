@@ -78,15 +78,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "5c890ecf2bb8f942b9ca49bc4cf10da582af126d"
+                    "reference": "456bfcc011721ccb082fad45a8c26235ad629763"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/5c890ecf2bb8f942b9ca49bc4cf10da582af126d",
-                    "reference": "5c890ecf2bb8f942b9ca49bc4cf10da582af126d",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/456bfcc011721ccb082fad45a8c26235ad629763",
+                    "reference": "456bfcc011721ccb082fad45a8c26235ad629763",
                     "shasum": ""
                 },
-                "time": "2022-12-06T15:39:35+00:00",
+                "time": "2022-12-07T12:20:23+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/NOENT-2921-add-basic-build-test-docker-lucene",
