@@ -123,19 +123,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b"
+                    "reference": "ea7fafbaf035feb56b2016baf631540bd452e393"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
-                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ea7fafbaf035feb56b2016baf631540bd452e393",
+                    "reference": "ea7fafbaf035feb56b2016baf631540bd452e393",
                     "shasum": ""
                 },
-                "time": "2019-06-06T09:47:20+00:00",
+                "time": "2022-12-13T09:36:37+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 179
@@ -186,29 +186,6 @@
                 },
                 "uid": 181
             },
-            "dev-feature/NOENT-2921-add-basic-build-test-docker-lucene": {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-feature/NOENT-2921-add-basic-build-test-docker-lucene",
-                "version_normalized": "dev-feature/NOENT-2921-add-basic-build-test-docker-lucene",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "456bfcc011721ccb082fad45a8c26235ad629763"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/456bfcc011721ccb082fad45a8c26235ad629763",
-                    "reference": "456bfcc011721ccb082fad45a8c26235ad629763",
-                    "shasum": ""
-                },
-                "time": "2022-12-07T12:20:23+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/NOENT-2921-add-basic-build-test-docker-lucene",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 182
-            },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-lucene",
                 "version": "dev-legacy/spunq-3.0.2",
@@ -230,7 +207,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 183
+                "uid": 182
             },
             "dev-legacy/svn-0.3.0": {
                 "name": "strg/spunq3-lucene",
@@ -253,7 +230,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/legacy/svn-0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 184
+                "uid": 183
             },
             "dev-main": {
                 "name": "strg/spunq3-lucene",
@@ -276,7 +253,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 185
+                "uid": 184
             },
             "dev-support/1.x": {
                 "name": "strg/spunq3-lucene",
@@ -299,7 +276,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 186
+                "uid": 185
             }
         }
     }

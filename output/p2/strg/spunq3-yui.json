@@ -7,22 +7,22 @@
                 "version_normalized": "2.4.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:strg-at/spunqhg-yui.git",
+                    "url": "git@github.com:strg-at/spunq3-hg-yui.git",
                     "reference": "10c2fb14b01e008d5785ce85578e38544a5893e2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunqhg-yui/zipball/10c2fb14b01e008d5785ce85578e38544a5893e2",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-hg-yui/zipball/10c2fb14b01e008d5785ce85578e38544a5893e2",
                     "reference": "10c2fb14b01e008d5785ce85578e38544a5893e2",
                     "shasum": ""
                 },
                 "time": "2018-08-20T14:52:40+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunqhg-yui/tree/2.4.7",
-                    "issues": "https://github.com/strg-at/spunqhg-yui/issues"
+                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
+                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 252
+                "uid": 256
             },
             {
                 "name": "strg/spunq3-yui",
@@ -30,22 +30,22 @@
                 "version_normalized": "2.4.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:strg-at/spunqhg-yui.git",
+                    "url": "git@github.com:strg-at/spunq3-hg-yui.git",
                     "reference": "448aabe45f6ad476497f84c2db494ef161407c82"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunqhg-yui/zipball/448aabe45f6ad476497f84c2db494ef161407c82",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-hg-yui/zipball/448aabe45f6ad476497f84c2db494ef161407c82",
                     "reference": "448aabe45f6ad476497f84c2db494ef161407c82",
                     "shasum": ""
                 },
                 "time": "2017-12-21T15:36:48+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunqhg-yui/tree/2.4.8",
-                    "issues": "https://github.com/strg-at/spunqhg-yui/issues"
+                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
+                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 253
+                "uid": 257
             }
         ]
     }

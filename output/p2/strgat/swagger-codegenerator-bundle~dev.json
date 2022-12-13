@@ -74,7 +74,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/develop",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 265
+                "uid": 269
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -148,7 +148,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/feature/INPRO-961-php81",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 266
+                "uid": 270
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -222,7 +222,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 267
+                "uid": 271
             }
         ]
     }

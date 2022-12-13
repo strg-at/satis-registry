@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "strg/spunq3-mail-hg": [
+            {
+                "name": "strg/spunq3-mail-hg",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-hg-mail.git",
+                    "reference": "91a14278353950ddc0eddc67d162a485f2ad111a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-hg-mail/zipball/91a14278353950ddc0eddc67d162a485f2ad111a",
+                    "reference": "91a14278353950ddc0eddc67d162a485f2ad111a",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:36:43+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
+                    "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
+                },
+                "uid": 190
+            },
+            {
+                "name": "strg/spunq3-mail-hg",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-hg-mail.git",
+                    "reference": "bd9d60b1d679e2ad6a5ec543766daeffa20f8927"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-hg-mail/zipball/bd9d60b1d679e2ad6a5ec543766daeffa20f8927",
+                    "reference": "bd9d60b1d679e2ad6a5ec543766daeffa20f8927",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T15:36:43+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
+                },
+                "uid": 191
+            }
+        ]
+    }
+}
