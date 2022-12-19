@@ -123,15 +123,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "ea7fafbaf035feb56b2016baf631540bd452e393"
+                    "reference": "786e28ff20b66059a6dc7f0cb2cb800a34a3b15c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ea7fafbaf035feb56b2016baf631540bd452e393",
-                    "reference": "ea7fafbaf035feb56b2016baf631540bd452e393",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/786e28ff20b66059a6dc7f0cb2cb800a34a3b15c",
+                    "reference": "786e28ff20b66059a6dc7f0cb2cb800a34a3b15c",
                     "shasum": ""
                 },
-                "time": "2022-12-13T09:36:37+00:00",
+                "time": "2022-12-15T15:08:19+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
@@ -255,6 +255,167 @@
                 },
                 "uid": 184
             },
+            "dev-renovate/openjdk-13.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-13.x",
+                "version_normalized": "dev-renovate/openjdk-13.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "38e454c596dbd20bb91d70f4d5ccad2a773585e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/38e454c596dbd20bb91d70f4d5ccad2a773585e1",
+                    "reference": "38e454c596dbd20bb91d70f4d5ccad2a773585e1",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:08:39+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-13.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 185
+            },
+            "dev-renovate/openjdk-14.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-14.x",
+                "version_normalized": "dev-renovate/openjdk-14.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "3c6e7c153231242a284a8e1f4a38b97a27e43b10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/3c6e7c153231242a284a8e1f4a38b97a27e43b10",
+                    "reference": "3c6e7c153231242a284a8e1f4a38b97a27e43b10",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:08:44+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-14.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 186
+            },
+            "dev-renovate/openjdk-15.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-15.x",
+                "version_normalized": "dev-renovate/openjdk-15.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "cb447605fc41be763e68146f7a38a0b296410441"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/cb447605fc41be763e68146f7a38a0b296410441",
+                    "reference": "cb447605fc41be763e68146f7a38a0b296410441",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:08:48+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-15.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 187
+            },
+            "dev-renovate/openjdk-16.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-16.x",
+                "version_normalized": "dev-renovate/openjdk-16.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "e4c4f0586a9bd24c402287ad9211045f40db5dc2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/e4c4f0586a9bd24c402287ad9211045f40db5dc2",
+                    "reference": "e4c4f0586a9bd24c402287ad9211045f40db5dc2",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:08:53+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-16.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 188
+            },
+            "dev-renovate/openjdk-17.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-17.x",
+                "version_normalized": "dev-renovate/openjdk-17.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "41c153dec20ec893bdd8f4f5dcedb226bd10a38a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/41c153dec20ec893bdd8f4f5dcedb226bd10a38a",
+                    "reference": "41c153dec20ec893bdd8f4f5dcedb226bd10a38a",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:08:58+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-17.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 189
+            },
+            "dev-renovate/openjdk-18.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-18.x",
+                "version_normalized": "dev-renovate/openjdk-18.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "87eed20ebd5246a268b4c90365e21890f882977e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/87eed20ebd5246a268b4c90365e21890f882977e",
+                    "reference": "87eed20ebd5246a268b4c90365e21890f882977e",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:09:03+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-18.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 190
+            },
+            "dev-renovate/openjdk-19.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-19.x",
+                "version_normalized": "dev-renovate/openjdk-19.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "88a3af3ec383897f1cb83b57b000b6abc4fa8eae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/88a3af3ec383897f1cb83b57b000b6abc4fa8eae",
+                    "reference": "88a3af3ec383897f1cb83b57b000b6abc4fa8eae",
+                    "shasum": ""
+                },
+                "time": "2022-12-15T15:09:09+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-19.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 191
+            },
             "dev-support/1.x": {
                 "name": "strg/spunq3-lucene",
                 "version": "dev-support/1.x",
@@ -276,7 +437,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 185
+                "uid": 192
             }
         }
     }
