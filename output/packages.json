@@ -54,58 +54,58 @@
             "sha256": "0e665a0307fe7f4b8a30d117c49c2b0743b9390bd61bbb307a40a410279d2a33"
         },
         "strg/spunq3-lucene": {
-            "sha256": "c517aab9a2e34e94415863b847717dce4c7cac145e0c184cd8c30ae54450d6de"
+            "sha256": "622659d9308b94569551432fdae24c03313047b620f0951656283e795e8883f7"
         },
         "strg/spunq3-mail": {
-            "sha256": "a7bcd2d77ab2ea3b8f99840563c592c21a8fa5d1b5dba72ce66894ce01376f09"
+            "sha256": "da122d836c7555619e023b80fad5e3ca446b290a841013384ecb9a56db9188db"
         },
         "strg/spunq3-mail-hg": {
-            "sha256": "d92e43f479eb557897825f21331f15b2d343cc24acaa6d7f284e789f6faa8e4a"
+            "sha256": "8c504705ccd848281a16c19e592953cc6fa776e8bbdac3f1f551ad5827519f1b"
         },
         "strg/spunq3-media": {
-            "sha256": "b955011385dfc2701b699133cedf2608660a14e647d475eb46874edc16128237"
+            "sha256": "61e1b8772140c09136ca5f4bf98f935d2f350b2ca344c176f2df060834cc7d1d"
         },
         "strg/spunq3-networking": {
-            "sha256": "c3aa1015ac68b03e79a47d82e0d5df0240b19f7b992f34309e5f8713a16c89ec"
+            "sha256": "c7c93ee1725b256b9e9f805ac7c7b550898220bcb600693d09e41f15bd9828ab"
         },
         "strg/spunq3-opauth": {
-            "sha256": "1a6b48a1154a137c13cfa306c5d06a3078fceffecadb723e0596679c3b921bb0"
+            "sha256": "befe6f6205e0bb6c6bac227ab6b315e96529b43b15c542e3cf755104254452ff"
         },
         "strg/spunq3-poll": {
-            "sha256": "d99d247c4271f12fed4393ee5f2c1b5839b63837067365bb4b3759efe70be95f"
+            "sha256": "b54dc7e17294ce6813834fe4f658e77c42aa73178588232ab86f8c8b940e97ba"
         },
         "strg/spunq3-random": {
-            "sha256": "c189c97780cd61ca56208d697ee80389f6c7818e183b717f79fa7c7b26250bfa"
+            "sha256": "3c9d4ef19c717a40d27fbd825537b80d702b45142f42005c9626a626121452d8"
         },
         "strg/spunq3-rating": {
-            "sha256": "09352581262099dfa6a4850f8ece3c3e7d81fb4574bb0e784666b9944a58fd12"
+            "sha256": "6056ba84a53a828666a151ae32a3a55eb1e9fdbc35d9751925efb80a218473a2"
         },
         "strg/spunq3-rss": {
-            "sha256": "f534b88893b4e5b6cc58379e1f567d4f90adbfcafe4a8f37d93eb6dff71e919c"
+            "sha256": "6a41836b0f86dbfd989412e0519050f5a8656f287ccb67ac5387e154db6b0011"
         },
         "strg/spunq3-sass": {
-            "sha256": "2a0bc074a5dd1dc246599def23a9c74819e46185428f28c897e21f36f0238d48"
+            "sha256": "a1cb1438367e3e9f1fa8c2ebaf58b46a5afe2e551b3b841090c008a25d4ade3e"
         },
         "strg/spunq3-spunqfs": {
-            "sha256": "b253835562a150c87d3adfe7de96083c3fc2bb2795f43ba8d39125d371e2caa8"
+            "sha256": "8ffd2b0b2a4fb8a17a08ab83a5f6bc7b924e53e145c92a87b04f884b2f95add4"
         },
         "strg/spunq3-tagging": {
-            "sha256": "a6ff06e5c138a667fc47448ee05a2d65bb91cc54b6ec221fc31fba499f417a75"
+            "sha256": "3dcf810c6643eada7a4d9b987fbb8ca81432be5cce6042ea98c1e84b471df480"
         },
         "strg/spunq3-temporalaccess": {
-            "sha256": "c030da003e4d5910dcbb35b887bec6bd67328ef8ad108b69c6cdcc625f048c10"
+            "sha256": "1d9175a7bed41d2c18cb338c200fac15b5ab8ef99b280fcac4e26800398155a1"
         },
         "strg/spunq3-varnish": {
-            "sha256": "1fef380386660ea17b30bb1e83cf01f5dce4040fbafcf7f3d0dc150834796578"
+            "sha256": "ffcc277709e18802452bb5554d84a18df75eba36968875a79af748e175852d54"
         },
         "strg/spunq3-xml": {
-            "sha256": "ba7c23d843e2816f3073d443f62408efb2f28b1edbd7485ae319a90511155513"
+            "sha256": "524ac863a8b0c13fef3d3212a6a28ff5da6f6ff7cee4df4c117e06ed5549d695"
         },
         "strg/spunq3-yui": {
-            "sha256": "c1fc36d4ddb62eb9d5832a030cc64a5ca7ee90587cfd0280a366a93f4557b591"
+            "sha256": "561fb1a3db4638ae184af68066f8fea4ab46720ae4cb0946f6f6dc914b11d866"
         },
         "strgat/swagger-codegenerator-bundle": {
-            "sha256": "0f35e2f39e5d3f48689e4762ea6ab4d59fed3bc500a9f76f43a8fb3c67d3247c"
+            "sha256": "b26328c83f161a91a6420cfffc8ae9e728ac270ca5dde6643a6386a2757274b6"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
