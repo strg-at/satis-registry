@@ -1,0 +1,214 @@
+{
+    "packages": {
+        "strg/spunq3-xml": {
+            "1.0.0": {
+                "name": "strg/spunq3-xml",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "a36465ddabcd283f601ad0410fd1d2b168bb1feb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/a36465ddabcd283f601ad0410fd1d2b168bb1feb",
+                    "reference": "a36465ddabcd283f601ad0410fd1d2b168bb1feb",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:53:30+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 254
+            },
+            "1.1.0": {
+                "name": "strg/spunq3-xml",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "5bb92c0332edbcd49eb902a72ae42c6c54b58392"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/5bb92c0332edbcd49eb902a72ae42c6c54b58392",
+                    "reference": "5bb92c0332edbcd49eb902a72ae42c6c54b58392",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:53:14+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 255
+            },
+            "1.1.1": {
+                "name": "strg/spunq3-xml",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "f70a88df39e389672a2af949181b10795f440fe1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/f70a88df39e389672a2af949181b10795f440fe1",
+                    "reference": "f70a88df39e389672a2af949181b10795f440fe1",
+                    "shasum": ""
+                },
+                "time": "2020-09-22T10:57:54+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.1",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 256
+            },
+            "1.1.2": {
+                "name": "strg/spunq3-xml",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "6c54b091b2277411b10038101935d677c240f6ae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/6c54b091b2277411b10038101935d677c240f6ae",
+                    "reference": "6c54b091b2277411b10038101935d677c240f6ae",
+                    "shasum": ""
+                },
+                "time": "2021-03-30T10:57:20+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.2",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 257
+            },
+            "1.1.3": {
+                "name": "strg/spunq3-xml",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "ad731b128ef2667de67de01a8c89594b00cc839a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/ad731b128ef2667de67de01a8c89594b00cc839a",
+                    "reference": "ad731b128ef2667de67de01a8c89594b00cc839a",
+                    "shasum": ""
+                },
+                "time": "2021-08-25T14:08:16+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.3",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 258
+            },
+            "dev-develop": {
+                "name": "strg/spunq3-xml",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "d7f2efda3484b39760ca681380f915897ff748f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/d7f2efda3484b39760ca681380f915897ff748f0",
+                    "reference": "d7f2efda3484b39760ca681380f915897ff748f0",
+                    "shasum": ""
+                },
+                "time": "2021-08-25T14:07:41+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 259
+            },
+            "dev-legacy/spunq-3.0.2": {
+                "name": "strg/spunq3-xml",
+                "version": "dev-legacy/spunq-3.0.2",
+                "version_normalized": "dev-legacy/spunq-3.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "a36465ddabcd283f601ad0410fd1d2b168bb1feb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/a36465ddabcd283f601ad0410fd1d2b168bb1feb",
+                    "reference": "a36465ddabcd283f601ad0410fd1d2b168bb1feb",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:53:30+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 260
+            },
+            "dev-legacy/svn-0.1.4": {
+                "name": "strg/spunq3-xml",
+                "version": "dev-legacy/svn-0.1.4",
+                "version_normalized": "dev-legacy/svn-0.1.4",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "cbe591974c3d46c6513f412e75cfe765ab83318d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/cbe591974c3d46c6513f412e75cfe765ab83318d",
+                    "reference": "cbe591974c3d46c6513f412e75cfe765ab83318d",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:17+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/legacy/svn-0.1.4",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 261
+            },
+            "dev-main": {
+                "name": "strg/spunq3-xml",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-xml.git",
+                    "reference": "ad731b128ef2667de67de01a8c89594b00cc839a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-xml/zipball/ad731b128ef2667de67de01a8c89594b00cc839a",
+                    "reference": "ad731b128ef2667de67de01a8c89594b00cc839a",
+                    "shasum": ""
+                },
+                "time": "2021-08-25T14:08:16+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.3",
+                    "issues": "https://github.com/strg-at/spunq3-xml/issues"
+                },
+                "uid": 262
+            }
+        }
+    }
+}

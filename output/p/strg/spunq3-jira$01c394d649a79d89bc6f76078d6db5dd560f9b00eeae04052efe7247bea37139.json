@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "strg/spunq3-jira": {
+            "dev-develop": {
+                "name": "strg/spunq3-jira",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-jira.git",
+                    "reference": "2d13d49da0bfc00cd973d99c11bd5fbba37b0feb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-jira/zipball/2d13d49da0bfc00cd973d99c11bd5fbba37b0feb",
+                    "reference": "2d13d49da0bfc00cd973d99c11bd5fbba37b0feb",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:55+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-jira/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-jira/issues"
+                },
+                "uid": 152
+            },
+            "dev-main": {
+                "name": "strg/spunq3-jira",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-jira.git",
+                    "reference": "2d13d49da0bfc00cd973d99c11bd5fbba37b0feb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-jira/zipball/2d13d49da0bfc00cd973d99c11bd5fbba37b0feb",
+                    "reference": "2d13d49da0bfc00cd973d99c11bd5fbba37b0feb",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:55+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-jira/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-jira/issues"
+                },
+                "uid": 153
+            }
+        }
+    }
+}
