@@ -55,18 +55,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "a3ce9f6770805aad30d86fe37f69a7f957d2ec34"
+                    "reference": "805e2958f1ab0dcad0f38cc7e50849c6797c348f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/a3ce9f6770805aad30d86fe37f69a7f957d2ec34",
-                    "reference": "a3ce9f6770805aad30d86fe37f69a7f957d2ec34",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/805e2958f1ab0dcad0f38cc7e50849c6797c348f",
+                    "reference": "805e2958f1ab0dcad0f38cc7e50849c6797c348f",
                     "shasum": ""
                 },
-                "time": "2023-02-08T12:39:36+00:00",
+                "require": {
+                    "php": ">=8.1"
+                },
+                "time": "2023-02-16T11:09:17+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.0.0-opensearch1",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/INPRO-957-php81",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 181
