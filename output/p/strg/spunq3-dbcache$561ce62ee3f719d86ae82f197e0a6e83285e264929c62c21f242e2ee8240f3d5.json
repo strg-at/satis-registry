@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "strg/spunq3-dbcache": {
+            "1.0.0": {
+                "name": "strg/spunq3-dbcache",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-dbcache.git",
+                    "reference": "3582ebe7a3b0da5e1b7ef95e05702d2978a086a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-dbcache/zipball/3582ebe7a3b0da5e1b7ef95e05702d2978a086a1",
+                    "reference": "3582ebe7a3b0da5e1b7ef95e05702d2978a086a1",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:52+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-dbcache/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-dbcache/issues"
+                },
+                "uid": 131
+            },
+            "dev-develop": {
+                "name": "strg/spunq3-dbcache",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-dbcache.git",
+                    "reference": "3582ebe7a3b0da5e1b7ef95e05702d2978a086a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-dbcache/zipball/3582ebe7a3b0da5e1b7ef95e05702d2978a086a1",
+                    "reference": "3582ebe7a3b0da5e1b7ef95e05702d2978a086a1",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:52+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-dbcache/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-dbcache/issues"
+                },
+                "uid": 132
+            },
+            "dev-main": {
+                "name": "strg/spunq3-dbcache",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-dbcache.git",
+                    "reference": "3582ebe7a3b0da5e1b7ef95e05702d2978a086a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-dbcache/zipball/3582ebe7a3b0da5e1b7ef95e05702d2978a086a1",
+                    "reference": "3582ebe7a3b0da5e1b7ef95e05702d2978a086a1",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:52+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-dbcache/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-dbcache/issues"
+                },
+                "uid": 133
+            }
+        }
+    }
+}

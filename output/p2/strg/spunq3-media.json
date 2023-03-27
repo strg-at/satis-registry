@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 202
+                "uid": 203
             },
             {
                 "name": "strg/spunq3-media",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 203
+                "uid": 204
             },
             {
                 "name": "strg/spunq3-media",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 204
+                "uid": 205
             }
         ]
     }
