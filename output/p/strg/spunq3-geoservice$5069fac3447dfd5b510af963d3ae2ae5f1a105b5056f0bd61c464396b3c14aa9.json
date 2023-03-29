@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 141
+                "uid": 142
             },
             "1.0.1": {
                 "name": "strg/spunq3-geoservice",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 142
+                "uid": 143
             },
             "2.0.0": {
                 "name": "strg/spunq3-geoservice",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 143
+                "uid": 144
             },
             "dev-develop": {
                 "name": "strg/spunq3-geoservice",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 144
+                "uid": 145
             },
             "dev-feature/debug-ip": {
                 "name": "strg/spunq3-geoservice",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/feature/debug-ip",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 145
+                "uid": 146
             },
             "dev-legacy/svn-0.1.0": {
                 "name": "strg/spunq3-geoservice",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/legacy/svn-0.1.0",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 146
+                "uid": 147
             },
             "dev-main": {
                 "name": "strg/spunq3-geoservice",
@@ -161,7 +161,7 @@
                     "source": "https://github.com/strg-at/spunq3-geoservice/tree/2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
                 },
-                "uid": 147
+                "uid": 148
             }
         }
     }
