@@ -37,7 +37,8 @@
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-help" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-hg-mail" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-hg-yui" },
-    { "type": "vcs", "url": "https://github.com/strg-at/spunq3-svn-search" }
+    { "type": "vcs", "url": "https://github.com/strg-at/spunq3-svn-search" },
+    { "type": "vcs", "url": "https://github.com/strg-at/spunq3-svn-user" }
   ],
   "require-all": true,
   "providers": true,

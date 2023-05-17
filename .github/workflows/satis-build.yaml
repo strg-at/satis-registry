@@ -6,6 +6,11 @@ name: satis-build
 on:
   schedule:
     - cron: "30 6 * * 1"
+  push:
+    branches:
+      - main
+    paths:
+      - "satis.json"
 
   workflow_dispatch:
 
