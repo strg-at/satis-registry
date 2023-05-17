@@ -306,6 +306,29 @@
             },
             {
                 "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/sigstore-cosign-installer-3.0.x",
+                "version_normalized": "dev-renovate/sigstore-cosign-installer-3.0.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "12054655a6d1c7dd869e26bfe9b2011b2f7f39f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/12054655a6d1c7dd869e26bfe9b2011b2f7f39f0",
+                    "reference": "12054655a6d1c7dd869e26bfe9b2011b2f7f39f0",
+                    "shasum": ""
+                },
+                "time": "2023-05-16T17:14:28+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/sigstore-cosign-installer-3.0.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 194
+            },
+            {
+                "name": "strg/spunq3-lucene",
                 "version": "dev-support/1.x",
                 "version_normalized": "dev-support/1.x",
                 "source": {
@@ -325,7 +348,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 194
+                "uid": 195
             }
         ]
     }
