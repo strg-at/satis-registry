@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "b4646de777d39c394783ae8d6adab7d7e45b24af"
+                    "reference": "75c7d3ea1ed4648d3b6881499d1ab45c355cfd38"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/b4646de777d39c394783ae8d6adab7d7e45b24af",
-                    "reference": "b4646de777d39c394783ae8d6adab7d7e45b24af",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/75c7d3ea1ed4648d3b6881499d1ab45c355cfd38",
+                    "reference": "75c7d3ea1ed4648d3b6881499d1ab45c355cfd38",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:08:08+00:00",
+                "time": "2023-05-19T01:28:24+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
@@ -150,15 +150,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "401105206cec71e3b470b82d01b1b322639ff136"
+                    "reference": "2439dcce84682a2225b09f84880e3e968f5d3c96"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/401105206cec71e3b470b82d01b1b322639ff136",
-                    "reference": "401105206cec71e3b470b82d01b1b322639ff136",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2439dcce84682a2225b09f84880e3e968f5d3c96",
+                    "reference": "2439dcce84682a2225b09f84880e3e968f5d3c96",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:03+00:00",
+                "time": "2023-05-19T01:28:58+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-13.x",
@@ -173,15 +173,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "461c65f2bc94e7a59d8c195eec757a8ea3eeb391"
+                    "reference": "ea7d0002a5d7d310a06a73101da5212d7a5d5c03"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/461c65f2bc94e7a59d8c195eec757a8ea3eeb391",
-                    "reference": "461c65f2bc94e7a59d8c195eec757a8ea3eeb391",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ea7d0002a5d7d310a06a73101da5212d7a5d5c03",
+                    "reference": "ea7d0002a5d7d310a06a73101da5212d7a5d5c03",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:09+00:00",
+                "time": "2023-05-19T01:29:03+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-14.x",
@@ -196,15 +196,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "86e9090aade5c3e3bbe8c036f214a6fba25286f7"
+                    "reference": "67e661ef665b037fef11a05f53fb1e8f7d8cdf5d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/86e9090aade5c3e3bbe8c036f214a6fba25286f7",
-                    "reference": "86e9090aade5c3e3bbe8c036f214a6fba25286f7",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/67e661ef665b037fef11a05f53fb1e8f7d8cdf5d",
+                    "reference": "67e661ef665b037fef11a05f53fb1e8f7d8cdf5d",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:14+00:00",
+                "time": "2023-05-19T01:29:10+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-15.x",
@@ -219,15 +219,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "8fd7f7c0ec0ffac688f2ec6f865ae82dcc1f0b71"
+                    "reference": "dad2978ebf2dbdd0117926afd5964767142b992a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/8fd7f7c0ec0ffac688f2ec6f865ae82dcc1f0b71",
-                    "reference": "8fd7f7c0ec0ffac688f2ec6f865ae82dcc1f0b71",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/dad2978ebf2dbdd0117926afd5964767142b992a",
+                    "reference": "dad2978ebf2dbdd0117926afd5964767142b992a",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:20+00:00",
+                "time": "2023-05-19T01:29:16+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-16.x",
@@ -242,15 +242,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "e8a603373876c1f27d55e85f6c45d21039fa8a96"
+                    "reference": "2e66a169d6a73f708b58b5ad84e0242758486b95"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/e8a603373876c1f27d55e85f6c45d21039fa8a96",
-                    "reference": "e8a603373876c1f27d55e85f6c45d21039fa8a96",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2e66a169d6a73f708b58b5ad84e0242758486b95",
+                    "reference": "2e66a169d6a73f708b58b5ad84e0242758486b95",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:25+00:00",
+                "time": "2023-05-19T01:29:21+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-17.x",
@@ -265,15 +265,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "74e3cf34fcead4fabf6b9070184bbc1ce8c59446"
+                    "reference": "5845ba00420fa1ebab0a480d5fa0d1f5ee5efae3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/74e3cf34fcead4fabf6b9070184bbc1ce8c59446",
-                    "reference": "74e3cf34fcead4fabf6b9070184bbc1ce8c59446",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/5845ba00420fa1ebab0a480d5fa0d1f5ee5efae3",
+                    "reference": "5845ba00420fa1ebab0a480d5fa0d1f5ee5efae3",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:30+00:00",
+                "time": "2023-05-19T01:29:26+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-18.x",
@@ -288,44 +288,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "7f971499f32ab7abe7c055535203dbf8de3fe736"
+                    "reference": "45875873545bfe0582c93fa89ba9ec72b2257d01"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/7f971499f32ab7abe7c055535203dbf8de3fe736",
-                    "reference": "7f971499f32ab7abe7c055535203dbf8de3fe736",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/45875873545bfe0582c93fa89ba9ec72b2257d01",
+                    "reference": "45875873545bfe0582c93fa89ba9ec72b2257d01",
                     "shasum": ""
                 },
-                "time": "2023-05-09T21:17:35+00:00",
+                "time": "2023-05-19T01:29:32+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-19.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 193
-            },
-            {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-renovate/sigstore-cosign-installer-3.0.x",
-                "version_normalized": "dev-renovate/sigstore-cosign-installer-3.0.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "5b550baaf8065c18ccb952cd481bd73b51077cf9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/5b550baaf8065c18ccb952cd481bd73b51077cf9",
-                    "reference": "5b550baaf8065c18ccb952cd481bd73b51077cf9",
-                    "shasum": ""
-                },
-                "time": "2023-05-17T19:19:26+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/sigstore-cosign-installer-3.0.x",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 194
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -348,7 +325,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 195
+                "uid": 194
             }
         ]
     }
