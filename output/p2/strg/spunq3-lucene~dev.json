@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "81934d0fe11fa7e319517f2376e22068e91e23ec"
+                    "reference": "d14e8b4272f00d4629ab61dac47b586aaa74529b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/81934d0fe11fa7e319517f2376e22068e91e23ec",
-                    "reference": "81934d0fe11fa7e319517f2376e22068e91e23ec",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/d14e8b4272f00d4629ab61dac47b586aaa74529b",
+                    "reference": "d14e8b4272f00d4629ab61dac47b586aaa74529b",
                     "shasum": ""
                 },
-                "time": "2023-09-03T00:12:22+00:00",
+                "time": "2023-09-09T17:15:01+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
