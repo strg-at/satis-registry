@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 280
+                "uid": 279
             },
             {
                 "name": "strg/spunq3-yui",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 281
+                "uid": 280
             }
         ]
     }

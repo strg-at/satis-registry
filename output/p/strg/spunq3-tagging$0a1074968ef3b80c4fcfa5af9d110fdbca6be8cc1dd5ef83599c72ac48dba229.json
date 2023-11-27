@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 256
+                "uid": 255
             },
             "1.1.0": {
                 "name": "strg/spunq3-tagging",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 257
+                "uid": 256
             },
             "dev-develop": {
                 "name": "strg/spunq3-tagging",
@@ -69,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 258
+                "uid": 257
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-tagging",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 259
+                "uid": 258
             },
             "dev-main": {
                 "name": "strg/spunq3-tagging",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 260
+                "uid": 259
             }
         }
     }
