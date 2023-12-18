@@ -4325,15 +4325,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "086250c43338fce8cce57b364bbf354259b279e2"
+                    "reference": "97bddf5dc03767b496eb75bde2b1e1bfd840962b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/086250c43338fce8cce57b364bbf354259b279e2",
-                    "reference": "086250c43338fce8cce57b364bbf354259b279e2",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/97bddf5dc03767b496eb75bde2b1e1bfd840962b",
+                    "reference": "97bddf5dc03767b496eb75bde2b1e1bfd840962b",
                     "shasum": ""
                 },
-                "time": "2023-12-05T13:19:25+00:00",
+                "time": "2023-12-12T17:22:40+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
@@ -4493,15 +4493,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "dc483bbb52df3228e20fc2dfd80623b4e679ef3e"
+                    "reference": "92fd6e182296ccce9355d828a368f8e5b074e938"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/dc483bbb52df3228e20fc2dfd80623b4e679ef3e",
-                    "reference": "dc483bbb52df3228e20fc2dfd80623b4e679ef3e",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/92fd6e182296ccce9355d828a368f8e5b074e938",
+                    "reference": "92fd6e182296ccce9355d828a368f8e5b074e938",
                     "shasum": ""
                 },
-                "time": "2023-12-05T13:19:52+00:00",
+                "time": "2023-12-12T17:23:07+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/google-github-actions-auth-2.x",
