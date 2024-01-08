@@ -54,7 +54,7 @@
             "sha256": "a6fb8a65249791241947baeaebc0c119d1555f3dd148ef445b46183176a7caa2"
         },
         "strg/spunq3-lucene": {
-            "sha256": "98c94775fcf0f88e067ea7cbc039b9bcba68f80a9461054c55ff54d9d70120e0"
+            "sha256": "5ef4206c37d192d01466f5d6a9f17a971c4bd71323b66beacb18b630b68be950"
         },
         "strg/spunq3-mail": {
             "sha256": "3133fce073df78d1777ca37efcf3d5414ced5c3b6d72d278c7555b621b19ed43"
@@ -63,60 +63,60 @@
             "sha256": "51014f0f4748323256e948d6c5d9e623e9068ae2298da8ae30c6dadb61643eb3"
         },
         "strg/spunq3-media": {
-            "sha256": "9af6162d2444769a8eb9584f8b6d19c0d72c24e18eb4c418a8413d5c19d7de1b"
+            "sha256": "1d5781e0b4c299311d532ed4e7ca4b544696757df03d2f8c32dcb8e2ab706e5a"
         },
         "strg/spunq3-networking": {
-            "sha256": "4372905665a639539a6088dd62c976ad2ab61429d20bf321d062b31b9d796d1e"
+            "sha256": "a13bdcad417e4fa944ad34670ec046485ec28477baa88ada7dc4b55316089eaf"
         },
         "strg/spunq3-opauth": {
-            "sha256": "5a0d211480245585b1b421c7bb945b8dd820ee47dd1bfeac9d95322c0a41a6dc"
+            "sha256": "7a2c31fe9f4ff01ba92bd779aa273580ea6f96618ed2121c4920c15ee6d038b0"
         },
         "strg/spunq3-poll": {
-            "sha256": "3f6570e31a6a964ad306d5f92497e81781e9cc7a3c5344bd02679facb220dbd5"
+            "sha256": "938e41f9580f7f57984ae3be24c851552838d6fa072166a92247589b04b51e68"
         },
         "strg/spunq3-random": {
-            "sha256": "e2b3e16ccb8f41eec7e6b673d72dcb104e0b58d6a630c089420cc69eafd630c6"
+            "sha256": "88a40efd07cf9b531564c673c42180d6cc69d688db3001bd629fe2722486de70"
         },
         "strg/spunq3-rating": {
-            "sha256": "b3705002b91ab28d3ecfd9c27e70221ad3cbab0ce3d33764b01c64fb68fe2a5b"
+            "sha256": "e92bfd1986e40a4ca4a6066e16ad49499885da133924be8b54cdd2af8d6e9dcc"
         },
         "strg/spunq3-rss": {
-            "sha256": "1cabd27747d3e2fbac1af06e5534b8672f2d000e0f64ed7b50600f7c66f5f404"
+            "sha256": "4caafe07c057f8890d3128d23eef72815a1e56d1f07fec1b7da70e04a73d982b"
         },
         "strg/spunq3-sass": {
-            "sha256": "7cc9a7f28275248a92a69a7a6a2a4373b259035d106eb1c6fd95f016cd0b9124"
+            "sha256": "b56b442120ea0e52684ceb3b3a31a31b1d12219a0bc973fab893684845dbd4a6"
         },
         "strg/spunq3-search-svn": {
-            "sha256": "2cb50ca76a1cad44ebc68c29cbf799e6f33b65537a1e1739dc30f259327e2dec"
+            "sha256": "e80b26fffe28e9d5b551fc2f2d3f1835be4e98f603e054e07a80f3fc9ab50ab4"
         },
         "strg/spunq3-spunqfs": {
-            "sha256": "c6c2e35774cc9e182cdd083a785fde9fb4fb7d4948a0069374bb35f202cc2c62"
+            "sha256": "e021d68a1140245b359ff6977cd0428c35db55134c15164fc041046ea66f3dd2"
         },
         "strg/spunq3-tagging": {
-            "sha256": "8fc693993ccce78edc96c1b99c69676d27117c35957bab927cff62b0e0474269"
+            "sha256": "5f1cb8d9d6e2f2444f48e7135c9a01b2b6d37401ff2028786936da69ebf91ffc"
         },
         "strg/spunq3-temporalaccess": {
-            "sha256": "b1be282c1c05dbf69a8cd2d1136aaa1f446db64fec57db1d808933f306e6eb83"
+            "sha256": "b4751b4391f19bf60c5de4c232e0681b0da82a2b64ee8b09fac8a3418640a5a1"
         },
         "strg/spunq3-user-svn": {
-            "sha256": "7eaaac2c0fe8babf8d564b01efb67a3fa97152e852d45744454495fa5dec15ad"
+            "sha256": "38a99da43477db7e0557bf3f2baafc476d10be858ce859993db991f88cf52f50"
         },
         "strg/spunq3-varnish": {
-            "sha256": "559a446688b5c81f509f714037f6dcc1c71263ab50a08c10350eb61bf099f0ec"
+            "sha256": "af89eb4043118e395d5f05048c3c6dc466a5b5689b2fca0ddac2317eacf7f771"
         },
         "strg/spunq3-xml": {
-            "sha256": "64603b0e3d44e239099aacf7f55f0f93319e308d9f06557f8eb4c284b5fad6b5"
+            "sha256": "5275f3a012765e7f3889d13fbeb6607e5463e4deed29b1fb60adc8999962f0ff"
         },
         "strg/spunq3-yui": {
-            "sha256": "07f5b1a5d582a24551bf32ecb3f4a5240f6d6439e3c13b256bdabe194cb90b22"
+            "sha256": "8a6f4de5d3054ffb43ceaadf6159385e62da3ba5cc0cff8ca4224d3f03059cfc"
         },
         "strgat/swagger-codegenerator-bundle": {
-            "sha256": "a14a60421c71787f27992c57a3de48231c74858e57f807302f2bdc7766be082f"
+            "sha256": "74a451b8408e4046328d74e18b3a37757e83e287b3a9e8d01b7cf5f5e8322a4c"
         }
     },
     "includes": {
-        "include/all$85418b6fd2af99af230f447e1863b4284bfcbaac.json": {
-            "sha1": "85418b6fd2af99af230f447e1863b4284bfcbaac"
+        "include/all$f01222ca128ce953a0326f8587b173eaaf1daee6.json": {
+            "sha1": "f01222ca128ce953a0326f8587b173eaaf1daee6"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
