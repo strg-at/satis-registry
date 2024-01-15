@@ -176,15 +176,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "c45072b1a53c2ae12ddeeac6688836a3ba1f6aef"
+                    "reference": "de93bbff7a46f5484192c75e467610f1d0de22dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/c45072b1a53c2ae12ddeeac6688836a3ba1f6aef",
-                    "reference": "c45072b1a53c2ae12ddeeac6688836a3ba1f6aef",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/de93bbff7a46f5484192c75e467610f1d0de22dd",
+                    "reference": "de93bbff7a46f5484192c75e467610f1d0de22dd",
                     "shasum": ""
                 },
-                "time": "2024-01-06T12:20:19+00:00",
+                "time": "2024-01-08T23:39:08+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/google-github-actions-auth-2.x",
