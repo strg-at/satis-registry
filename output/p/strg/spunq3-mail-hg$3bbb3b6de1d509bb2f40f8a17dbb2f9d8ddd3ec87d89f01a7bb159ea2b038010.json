@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 201
+                "uid": 204
             },
             "1.0.0": {
                 "name": "strg/spunq3-mail-hg",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 202
+                "uid": 205
             },
             "dev-develop": {
                 "name": "strg/spunq3-mail-hg",
@@ -69,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 203
+                "uid": 206
             },
             "dev-legacy/svn-0.2.3": {
                 "name": "strg/spunq3-mail-hg",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 204
+                "uid": 207
             },
             "dev-main": {
                 "name": "strg/spunq3-mail-hg",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 205
+                "uid": 208
             }
         }
     }
