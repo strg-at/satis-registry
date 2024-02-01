@@ -4318,9 +4318,9 @@
                 },
                 "uid": 180
             },
-            "2.1.1": {
+            "v2.1.1": {
                 "name": "strg/spunq3-lucene",
-                "version": "2.1.1",
+                "version": "v2.1.1",
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
@@ -4339,7 +4339,7 @@
                 "time": "2023-11-21T11:59:00+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/2.1.1",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 181
@@ -4412,7 +4412,7 @@
                 "time": "2023-11-21T11:59:00+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/2.1.1",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 184
