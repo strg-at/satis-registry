@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 209
+                "uid": 211
             },
             "1.0.0": {
                 "name": "strg/spunq3-media",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 210
+                "uid": 212
             },
             "1.1.0": {
                 "name": "strg/spunq3-media",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 211
+                "uid": 213
             },
             "1.2.0": {
                 "name": "strg/spunq3-media",
@@ -91,7 +91,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.2.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 212
+                "uid": 214
             },
             "dev-develop": {
                 "name": "strg/spunq3-media",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 213
+                "uid": 215
             },
             "dev-feature/animated-gifs": {
                 "name": "strg/spunq3-media",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/feature/animated-gifs",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 214
+                "uid": 216
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-media",
@@ -161,7 +161,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 215
+                "uid": 217
             },
             "dev-legacy/svn-0.2.6": {
                 "name": "strg/spunq3-media",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 216
+                "uid": 218
             },
             "dev-main": {
                 "name": "strg/spunq3-media",
@@ -207,7 +207,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.2.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 217
+                "uid": 219
             }
         }
     }
