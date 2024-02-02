@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-temporalaccess/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-temporalaccess/issues"
                 },
-                "uid": 267
+                "uid": 265
             },
             "dev-main": {
                 "name": "strg/spunq3-temporalaccess",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-temporalaccess/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-temporalaccess/issues"
                 },
-                "uid": 268
+                "uid": 266
             }
         }
     }

@@ -4318,6 +4318,29 @@
                 },
                 "uid": 180
             },
+            "1.1.3": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "shasum": ""
+                },
+                "time": "2024-02-02T06:44:27+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.3",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 181
+            },
             "v2.0.0": {
                 "name": "strg/spunq3-lucene",
                 "version": "v2.0.0",
@@ -4339,7 +4362,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 181
+                "uid": 182
             },
             "v2.1.0": {
                 "name": "strg/spunq3-lucene",
@@ -4365,7 +4388,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 182
+                "uid": 183
             },
             "v2.1.1": {
                 "name": "strg/spunq3-lucene",
@@ -4391,7 +4414,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 183
+                "uid": 184
             },
             "dev-develop": {
                 "name": "strg/spunq3-lucene",
@@ -4400,22 +4423,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "13cf8c7748260b02d1d138be628fba7837342ac1"
+                    "reference": "1d425037defa56b82ea9c48d2084c461e20c674a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/13cf8c7748260b02d1d138be628fba7837342ac1",
-                    "reference": "13cf8c7748260b02d1d138be628fba7837342ac1",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/1d425037defa56b82ea9c48d2084c461e20c674a",
+                    "reference": "1d425037defa56b82ea9c48d2084c461e20c674a",
                     "shasum": ""
                 },
-                "time": "2024-01-06T12:19:52+00:00",
+                "time": "2024-02-01T16:28:16+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 184
+                "uid": 185
             },
             "dev-feature/FURM-8-sort": {
                 "name": "strg/spunq3-lucene",
@@ -4438,7 +4461,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 185
+                "uid": 186
             },
             "dev-feature/INPRO-957-php81": {
                 "name": "strg/spunq3-lucene",
@@ -4447,44 +4470,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "2bc8c31c6bd55d87e0df1637e68dd5511792a562"
+                    "reference": "20a25410034a6de415f77780f6ca72163e5bcff2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2bc8c31c6bd55d87e0df1637e68dd5511792a562",
-                    "reference": "2bc8c31c6bd55d87e0df1637e68dd5511792a562",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/20a25410034a6de415f77780f6ca72163e5bcff2",
+                    "reference": "20a25410034a6de415f77780f6ca72163e5bcff2",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2023-11-21T11:59:00+00:00",
+                "time": "2024-02-01T16:30:41+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.1",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 186
-            },
-            "dev-feature/SNW-2589-remove-deprecated-calls": {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-feature/SNW-2589-remove-deprecated-calls",
-                "version_normalized": "dev-feature/SNW-2589-remove-deprecated-calls",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "ddaf83949d0c20d0e797f268104deb506d0e5fac"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ddaf83949d0c20d0e797f268104deb506d0e5fac",
-                    "reference": "ddaf83949d0c20d0e797f268104deb506d0e5fac",
-                    "shasum": ""
-                },
-                "time": "2024-02-01T14:05:42+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/SNW-2589-remove-deprecated-calls",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/INPRO-957-php81",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 187
@@ -4542,67 +4542,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b"
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
-                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6",
                     "shasum": ""
                 },
-                "time": "2019-06-06T09:47:20+00:00",
+                "time": "2024-02-02T06:44:27+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.3",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 190
-            },
-            "dev-renovate/docker-metadata-action-5.5.x": {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-renovate/docker-metadata-action-5.5.x",
-                "version_normalized": "dev-renovate/docker-metadata-action-5.5.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "3c2efbbd4e4c65f9cd2df763b9ff30e6f3acc059"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/3c2efbbd4e4c65f9cd2df763b9ff30e6f3acc059",
-                    "reference": "3c2efbbd4e4c65f9cd2df763b9ff30e6f3acc059",
-                    "shasum": ""
-                },
-                "time": "2024-01-31T13:19:19+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-metadata-action-5.5.x",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 191
-            },
-            "dev-renovate/google-github-actions-auth-2.x": {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-renovate/google-github-actions-auth-2.x",
-                "version_normalized": "dev-renovate/google-github-actions-auth-2.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "fdcee80edf979b157d2ecb395eef769600985cd7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/fdcee80edf979b157d2ecb395eef769600985cd7",
-                    "reference": "fdcee80edf979b157d2ecb395eef769600985cd7",
-                    "shasum": ""
-                },
-                "time": "2024-01-23T02:41:12+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/google-github-actions-auth-2.x",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 192
             },
             "dev-renovate/openjdk-13.x": {
                 "name": "strg/spunq3-lucene",
@@ -4625,7 +4579,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-13.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 193
+                "uid": 191
             },
             "dev-renovate/openjdk-14.x": {
                 "name": "strg/spunq3-lucene",
@@ -4648,7 +4602,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-14.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 194
+                "uid": 192
             },
             "dev-renovate/openjdk-15.x": {
                 "name": "strg/spunq3-lucene",
@@ -4671,7 +4625,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-15.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 195
+                "uid": 193
             },
             "dev-renovate/openjdk-16.x": {
                 "name": "strg/spunq3-lucene",
@@ -4694,7 +4648,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-16.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 196
+                "uid": 194
             },
             "dev-renovate/openjdk-17.x": {
                 "name": "strg/spunq3-lucene",
@@ -4717,7 +4671,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-17.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 197
+                "uid": 195
             },
             "dev-renovate/openjdk-18.x": {
                 "name": "strg/spunq3-lucene",
@@ -4740,7 +4694,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-18.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 198
+                "uid": 196
             },
             "dev-renovate/openjdk-19.x": {
                 "name": "strg/spunq3-lucene",
@@ -4763,7 +4717,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-19.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 199
+                "uid": 197
             },
             "dev-renovate/sigstore-cosign-installer-3.x": {
                 "name": "strg/spunq3-lucene",
@@ -4772,21 +4726,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "29673d3f403c8d3d6de9470eced864eb1687f1da"
+                    "reference": "ef96108657077ea2a3e41e8548a6d4588c81665b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/29673d3f403c8d3d6de9470eced864eb1687f1da",
-                    "reference": "29673d3f403c8d3d6de9470eced864eb1687f1da",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ef96108657077ea2a3e41e8548a6d4588c81665b",
+                    "reference": "ef96108657077ea2a3e41e8548a6d4588c81665b",
                     "shasum": ""
                 },
-                "time": "2024-01-31T19:20:53+00:00",
+                "time": "2024-02-01T17:14:57+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/sigstore-cosign-installer-3.x",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 200
+                "uid": 198
             },
             "dev-support/1.x": {
                 "name": "strg/spunq3-lucene",
@@ -4809,7 +4763,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 201
+                "uid": 199
             }
         },
         "strg/spunq3-mail": {
@@ -4834,7 +4788,7 @@
                     "source": "https://github.com/strg-at/spunq3-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-mail/issues"
                 },
-                "uid": 202
+                "uid": 200
             },
             "1.0.1": {
                 "name": "strg/spunq3-mail",
@@ -4857,7 +4811,7 @@
                     "source": "https://github.com/strg-at/spunq3-mail/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-mail/issues"
                 },
-                "uid": 203
+                "uid": 201
             },
             "dev-develop": {
                 "name": "strg/spunq3-mail",
@@ -4881,7 +4835,7 @@
                     "source": "https://github.com/strg-at/spunq3-mail/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-mail/issues"
                 },
-                "uid": 204
+                "uid": 202
             },
             "dev-main": {
                 "name": "strg/spunq3-mail",
@@ -4904,7 +4858,7 @@
                     "source": "https://github.com/strg-at/spunq3-mail/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-mail/issues"
                 },
-                "uid": 205
+                "uid": 203
             }
         },
         "strg/spunq3-mail-hg": {
@@ -4929,7 +4883,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 206
+                "uid": 204
             },
             "1.0.0": {
                 "name": "strg/spunq3-mail-hg",
@@ -4952,7 +4906,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 207
+                "uid": 205
             },
             "dev-develop": {
                 "name": "strg/spunq3-mail-hg",
@@ -4976,7 +4930,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 208
+                "uid": 206
             },
             "dev-legacy/svn-0.2.3": {
                 "name": "strg/spunq3-mail-hg",
@@ -4999,7 +4953,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 209
+                "uid": 207
             },
             "dev-main": {
                 "name": "strg/spunq3-mail-hg",
@@ -5022,7 +4976,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 210
+                "uid": 208
             }
         },
         "strg/spunq3-media": {
@@ -5047,7 +5001,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 211
+                "uid": 209
             },
             "1.0.0": {
                 "name": "strg/spunq3-media",
@@ -5070,7 +5024,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 212
+                "uid": 210
             },
             "1.1.0": {
                 "name": "strg/spunq3-media",
@@ -5093,7 +5047,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 213
+                "uid": 211
             },
             "1.2.0": {
                 "name": "strg/spunq3-media",
@@ -5116,7 +5070,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.2.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 214
+                "uid": 212
             },
             "dev-develop": {
                 "name": "strg/spunq3-media",
@@ -5140,7 +5094,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 215
+                "uid": 213
             },
             "dev-feature/animated-gifs": {
                 "name": "strg/spunq3-media",
@@ -5163,7 +5117,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/feature/animated-gifs",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 216
+                "uid": 214
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-media",
@@ -5186,7 +5140,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 217
+                "uid": 215
             },
             "dev-legacy/svn-0.2.6": {
                 "name": "strg/spunq3-media",
@@ -5209,7 +5163,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 218
+                "uid": 216
             },
             "dev-main": {
                 "name": "strg/spunq3-media",
@@ -5232,7 +5186,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.2.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 219
+                "uid": 217
             }
         },
         "strg/spunq3-networking": {
@@ -5257,7 +5211,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/0.1.3",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 220
+                "uid": 218
             },
             "1.0.0": {
                 "name": "strg/spunq3-networking",
@@ -5280,7 +5234,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 221
+                "uid": 219
             },
             "1.1.0": {
                 "name": "strg/spunq3-networking",
@@ -5303,7 +5257,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 222
+                "uid": 220
             },
             "dev-develop": {
                 "name": "strg/spunq3-networking",
@@ -5327,7 +5281,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 223
+                "uid": 221
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-networking",
@@ -5350,7 +5304,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 224
+                "uid": 222
             },
             "dev-legacy/svn-0.1.3": {
                 "name": "strg/spunq3-networking",
@@ -5373,7 +5327,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/0.1.3",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 225
+                "uid": 223
             },
             "dev-main": {
                 "name": "strg/spunq3-networking",
@@ -5396,7 +5350,7 @@
                     "source": "https://github.com/strg-at/spunq3-networking/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-networking/issues"
                 },
-                "uid": 226
+                "uid": 224
             }
         },
         "strg/spunq3-opauth": {
@@ -5422,7 +5376,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 227
+                "uid": 225
             },
             "dev-feature/NOENT-1394-fix-opauth": {
                 "name": "strg/spunq3-opauth",
@@ -5445,7 +5399,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/NOENT-1394-fix-opauth",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 228
+                "uid": 226
             },
             "dev-main": {
                 "name": "strg/spunq3-opauth",
@@ -5468,7 +5422,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 229
+                "uid": 227
             }
         },
         "strg/spunq3-poll": {
@@ -5493,7 +5447,7 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 230
+                "uid": 228
             },
             "dev-develop": {
                 "name": "strg/spunq3-poll",
@@ -5517,7 +5471,7 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 231
+                "uid": 229
             },
             "dev-main": {
                 "name": "strg/spunq3-poll",
@@ -5540,7 +5494,7 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 232
+                "uid": 230
             },
             "dev-test": {
                 "name": "strg/spunq3-poll",
@@ -5563,7 +5517,7 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/test",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 233
+                "uid": 231
             }
         },
         "strg/spunq3-random": {
@@ -5588,7 +5542,7 @@
                     "source": "https://github.com/strg-at/spunq3-random/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-random/issues"
                 },
-                "uid": 234
+                "uid": 232
             },
             "1.0.1": {
                 "name": "strg/spunq3-random",
@@ -5611,7 +5565,7 @@
                     "source": "https://github.com/strg-at/spunq3-random/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-random/issues"
                 },
-                "uid": 235
+                "uid": 233
             },
             "dev-develop": {
                 "name": "strg/spunq3-random",
@@ -5635,7 +5589,7 @@
                     "source": "https://github.com/strg-at/spunq3-random/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-random/issues"
                 },
-                "uid": 236
+                "uid": 234
             },
             "dev-main": {
                 "name": "strg/spunq3-random",
@@ -5658,7 +5612,7 @@
                     "source": "https://github.com/strg-at/spunq3-random/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-random/issues"
                 },
-                "uid": 237
+                "uid": 235
             }
         },
         "strg/spunq3-rating": {
@@ -5683,7 +5637,7 @@
                     "source": "https://github.com/strg-at/spunq3-rating/tree/0.1.1",
                     "issues": "https://github.com/strg-at/spunq3-rating/issues"
                 },
-                "uid": 238
+                "uid": 236
             },
             "1.0.0": {
                 "name": "strg/spunq3-rating",
@@ -5706,7 +5660,7 @@
                     "source": "https://github.com/strg-at/spunq3-rating/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rating/issues"
                 },
-                "uid": 239
+                "uid": 237
             },
             "dev-develop": {
                 "name": "strg/spunq3-rating",
@@ -5730,7 +5684,7 @@
                     "source": "https://github.com/strg-at/spunq3-rating/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rating/issues"
                 },
-                "uid": 240
+                "uid": 238
             },
             "dev-legacy/svn-0.1.1": {
                 "name": "strg/spunq3-rating",
@@ -5753,7 +5707,7 @@
                     "source": "https://github.com/strg-at/spunq3-rating/tree/0.1.1",
                     "issues": "https://github.com/strg-at/spunq3-rating/issues"
                 },
-                "uid": 241
+                "uid": 239
             },
             "dev-main": {
                 "name": "strg/spunq3-rating",
@@ -5776,7 +5730,7 @@
                     "source": "https://github.com/strg-at/spunq3-rating/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rating/issues"
                 },
-                "uid": 242
+                "uid": 240
             }
         },
         "strg/spunq3-rss": {
@@ -5801,7 +5755,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 243
+                "uid": 241
             },
             "1.1.0": {
                 "name": "strg/spunq3-rss",
@@ -5824,7 +5778,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 244
+                "uid": 242
             },
             "3.0.0": {
                 "name": "strg/spunq3-rss",
@@ -5847,7 +5801,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 245
+                "uid": 243
             },
             "3.1.0": {
                 "name": "strg/spunq3-rss",
@@ -5870,7 +5824,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 246
+                "uid": 244
             },
             "dev-develop": {
                 "name": "strg/spunq3-rss",
@@ -5894,7 +5848,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 247
+                "uid": 245
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-rss",
@@ -5917,7 +5871,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 248
+                "uid": 246
             },
             "dev-legacy/svn-0.2.4": {
                 "name": "strg/spunq3-rss",
@@ -5940,7 +5894,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/legacy/svn-0.2.4",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 249
+                "uid": 247
             },
             "dev-main": {
                 "name": "strg/spunq3-rss",
@@ -5963,7 +5917,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 250
+                "uid": 248
             }
         },
         "strg/spunq3-sass": {
@@ -5988,7 +5942,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 251
+                "uid": 249
             },
             "dev-develop": {
                 "name": "strg/spunq3-sass",
@@ -6012,7 +5966,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 252
+                "uid": 250
             },
             "dev-main": {
                 "name": "strg/spunq3-sass",
@@ -6035,7 +5989,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 253
+                "uid": 251
             }
         },
         "strg/spunq3-search-svn": {
@@ -6060,7 +6014,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.1.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 254
+                "uid": 252
             },
             "0.1.x-dev": {
                 "name": "strg/spunq3-search-svn",
@@ -6083,7 +6037,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.1",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 255
+                "uid": 253
             },
             "0.2.0": {
                 "name": "strg/spunq3-search-svn",
@@ -6106,7 +6060,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.2.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 256
+                "uid": 254
             },
             "0.2.1": {
                 "name": "strg/spunq3-search-svn",
@@ -6129,7 +6083,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.2.1",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 257
+                "uid": 255
             },
             "0.2.2": {
                 "name": "strg/spunq3-search-svn",
@@ -6152,7 +6106,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.2.2",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 258
+                "uid": 256
             },
             "dev-main": {
                 "name": "strg/spunq3-search-svn",
@@ -6176,7 +6130,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 259
+                "uid": 257
             }
         },
         "strg/spunq3-spunqfs": {
@@ -6202,7 +6156,7 @@
                     "source": "https://github.com/strg-at/spunq3-spunqfs/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
                 },
-                "uid": 260
+                "uid": 258
             },
             "dev-main": {
                 "name": "strg/spunq3-spunqfs",
@@ -6225,7 +6179,7 @@
                     "source": "https://github.com/strg-at/spunq3-spunqfs/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
                 },
-                "uid": 261
+                "uid": 259
             }
         },
         "strg/spunq3-tagging": {
@@ -6250,7 +6204,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 262
+                "uid": 260
             },
             "1.1.0": {
                 "name": "strg/spunq3-tagging",
@@ -6273,7 +6227,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 263
+                "uid": 261
             },
             "dev-develop": {
                 "name": "strg/spunq3-tagging",
@@ -6297,7 +6251,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 264
+                "uid": 262
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-tagging",
@@ -6320,7 +6274,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 265
+                "uid": 263
             },
             "dev-main": {
                 "name": "strg/spunq3-tagging",
@@ -6343,7 +6297,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 266
+                "uid": 264
             }
         },
         "strg/spunq3-temporalaccess": {
@@ -6369,7 +6323,7 @@
                     "source": "https://github.com/strg-at/spunq3-temporalaccess/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-temporalaccess/issues"
                 },
-                "uid": 267
+                "uid": 265
             },
             "dev-main": {
                 "name": "strg/spunq3-temporalaccess",
@@ -6392,7 +6346,7 @@
                     "source": "https://github.com/strg-at/spunq3-temporalaccess/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-temporalaccess/issues"
                 },
-                "uid": 268
+                "uid": 266
             }
         },
         "strg/spunq3-user-svn": {
@@ -6417,7 +6371,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.1.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 269
+                "uid": 267
             },
             "0.1.x-dev": {
                 "name": "strg/spunq3-user-svn",
@@ -6440,7 +6394,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.1",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 270
+                "uid": 268
             },
             "0.2.0": {
                 "name": "strg/spunq3-user-svn",
@@ -6463,7 +6417,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.2.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 271
+                "uid": 269
             },
             "0.2.x-dev": {
                 "name": "strg/spunq3-user-svn",
@@ -6486,7 +6440,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.2",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 272
+                "uid": 270
             },
             "0.3.0": {
                 "name": "strg/spunq3-user-svn",
@@ -6509,7 +6463,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 273
+                "uid": 271
             },
             "1.0.0": {
                 "name": "strg/spunq3-user-svn",
@@ -6532,7 +6486,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 274
+                "uid": 272
             },
             "dev-main": {
                 "name": "strg/spunq3-user-svn",
@@ -6556,7 +6510,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-user/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
                 },
-                "uid": 275
+                "uid": 273
             }
         },
         "strg/spunq3-varnish": {
@@ -6581,7 +6535,7 @@
                     "source": "https://github.com/strg-at/spunq3-varnish/tree/feature/spunq3-compatibility",
                     "issues": "https://github.com/strg-at/spunq3-varnish/issues"
                 },
-                "uid": 276
+                "uid": 274
             }
         },
         "strg/spunq3-xml": {
@@ -6606,7 +6560,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 277
+                "uid": 275
             },
             "1.1.0": {
                 "name": "strg/spunq3-xml",
@@ -6629,7 +6583,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 278
+                "uid": 276
             },
             "1.1.1": {
                 "name": "strg/spunq3-xml",
@@ -6652,7 +6606,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.1",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 279
+                "uid": 277
             },
             "1.1.2": {
                 "name": "strg/spunq3-xml",
@@ -6675,7 +6629,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 280
+                "uid": 278
             },
             "1.1.3": {
                 "name": "strg/spunq3-xml",
@@ -6698,7 +6652,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.3",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 281
+                "uid": 279
             },
             "dev-develop": {
                 "name": "strg/spunq3-xml",
@@ -6722,7 +6676,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 282
+                "uid": 280
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-xml",
@@ -6745,7 +6699,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 283
+                "uid": 281
             },
             "dev-legacy/svn-0.1.4": {
                 "name": "strg/spunq3-xml",
@@ -6768,7 +6722,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/legacy/svn-0.1.4",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 284
+                "uid": 282
             },
             "dev-main": {
                 "name": "strg/spunq3-xml",
@@ -6791,7 +6745,7 @@
                     "source": "https://github.com/strg-at/spunq3-xml/tree/1.1.3",
                     "issues": "https://github.com/strg-at/spunq3-xml/issues"
                 },
-                "uid": 285
+                "uid": 283
             }
         },
         "strg/spunq3-yui": {
@@ -6816,7 +6770,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 286
+                "uid": 284
             },
             "2.4.8": {
                 "name": "strg/spunq3-yui",
@@ -6839,7 +6793,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 287
+                "uid": 285
             },
             "dev-develop": {
                 "name": "strg/spunq3-yui",
@@ -6863,7 +6817,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 288
+                "uid": 286
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-yui",
@@ -6886,7 +6840,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 289
+                "uid": 287
             },
             "dev-legacy/svn-0.2.0": {
                 "name": "strg/spunq3-yui",
@@ -6909,7 +6863,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/legacy/svn-0.2.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 290
+                "uid": 288
             },
             "dev-legacy/svn-0.3.0": {
                 "name": "strg/spunq3-yui",
@@ -6932,7 +6886,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/legacy/svn-0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 291
+                "uid": 289
             },
             "dev-main": {
                 "name": "strg/spunq3-yui",
@@ -6955,7 +6909,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 292
+                "uid": 290
             },
             "dev-support/2.4.7": {
                 "name": "strg/spunq3-yui",
@@ -6978,7 +6932,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 293
+                "uid": 291
             }
         },
         "strgat/swagger-codegenerator-bundle": {
@@ -7051,7 +7005,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 294
+                "uid": 292
             },
             "1.0.1": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7122,7 +7076,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 295
+                "uid": 293
             },
             "1.0.2": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7196,7 +7150,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.2",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 296
+                "uid": 294
             },
             "1.1.0": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7270,7 +7224,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 297
+                "uid": 295
             },
             "1.1.1": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7344,7 +7298,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 298
+                "uid": 296
             },
             "1.2.0": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7418,7 +7372,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 299
+                "uid": 297
             },
             "1.2.1": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7492,7 +7446,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 300
+                "uid": 298
             },
             "dev-develop": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7567,7 +7521,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/develop",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 301
+                "uid": 299
             },
             "dev-main": {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -7641,7 +7595,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 302
+                "uid": 300
             }
         }
     }
