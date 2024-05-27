@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 224
+                "uid": 227
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/NOENT-1394-fix-opauth",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 225
+                "uid": 228
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -69,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 226
+                "uid": 229
             }
         ]
     }
