@@ -27,6 +27,29 @@
             },
             {
                 "name": "strg/spunq3-ftp",
+                "version": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
+                "version_normalized": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-ftp.git",
+                    "reference": "70e171e4568354e6672b5e9d079ec30a8024dd48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ftp/zipball/70e171e4568354e6672b5e9d079ec30a8024dd48",
+                    "reference": "70e171e4568354e6672b5e9d079ec30a8024dd48",
+                    "shasum": ""
+                },
+                "time": "2024-05-29T06:52:08+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-ftp/tree/feature/SNW-2779-upgrade-sunpq3-lib",
+                    "issues": "https://github.com/strg-at/spunq3-ftp/issues"
+                },
+                "uid": 142
+            },
+            {
+                "name": "strg/spunq3-ftp",
                 "version": "dev-legacy/spunq-3.0.2",
                 "version_normalized": "dev-legacy/spunq-3.0.2",
                 "source": {
@@ -46,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-ftp/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-ftp/issues"
                 },
-                "uid": 142
+                "uid": 143
             },
             {
                 "name": "strg/spunq3-ftp",
@@ -69,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-ftp/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-ftp/issues"
                 },
-                "uid": 143
+                "uid": 144
             }
         ]
     }

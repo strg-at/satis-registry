@@ -35,18 +35,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-db.git",
-                    "reference": "6c4905120543a6d9b33a4b4618b3cffe69aa2327"
+                    "reference": "4111fd1d8cd5ad5121423782f31ca2d665e5bcf6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-db/zipball/6c4905120543a6d9b33a4b4618b3cffe69aa2327",
-                    "reference": "6c4905120543a6d9b33a4b4618b3cffe69aa2327",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-db/zipball/4111fd1d8cd5ad5121423782f31ca2d665e5bcf6",
+                    "reference": "4111fd1d8cd5ad5121423782f31ca2d665e5bcf6",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.3"
                 },
-                "time": "2024-05-24T08:17:07+00:00",
+                "time": "2024-05-27T09:06:16+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/SNW-2779-upgrade-to-php8.2",

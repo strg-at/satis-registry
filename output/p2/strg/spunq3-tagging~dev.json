@@ -23,7 +23,30 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 264
+                "uid": 270
+            },
+            {
+                "name": "strg/spunq3-tagging",
+                "version": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
+                "version_normalized": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "6fecddc3eb0b8c7732b250f8c11e65da5194fc2c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/6fecddc3eb0b8c7732b250f8c11e65da5194fc2c",
+                    "reference": "6fecddc3eb0b8c7732b250f8c11e65da5194fc2c",
+                    "shasum": ""
+                },
+                "time": "2024-05-29T07:46:38+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/feature/SNW-2779-upgrade-sunpq3-lib",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 271
             },
             {
                 "name": "strg/spunq3-tagging",
@@ -46,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 265
+                "uid": 272
             },
             {
                 "name": "strg/spunq3-tagging",
@@ -69,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 266
+                "uid": 273
             }
         ]
     }

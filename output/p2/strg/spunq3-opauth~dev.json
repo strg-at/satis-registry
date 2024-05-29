@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 227
+                "uid": 230
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -46,7 +46,30 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/NOENT-1394-fix-opauth",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 228
+                "uid": 231
+            },
+            {
+                "name": "strg/spunq3-opauth",
+                "version": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
+                "version_normalized": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-opauth.git",
+                    "reference": "9514d9874d880e78aa11dcc68ad287b96feaaafc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/9514d9874d880e78aa11dcc68ad287b96feaaafc",
+                    "reference": "9514d9874d880e78aa11dcc68ad287b96feaaafc",
+                    "shasum": ""
+                },
+                "time": "2024-05-29T09:54:27+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/SNW-2779-upgrade-sunpq3-lib",
+                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
+                },
+                "uid": 232
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -69,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 229
+                "uid": 233
             }
         ]
     }

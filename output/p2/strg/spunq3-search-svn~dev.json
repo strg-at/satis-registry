@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.1",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 255
+                "uid": 261
             },
             {
                 "name": "strg/spunq3-search-svn",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 259
+                "uid": 265
             }
         ]
     }
