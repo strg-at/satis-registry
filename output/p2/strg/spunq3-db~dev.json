@@ -26,33 +26,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 126
-            },
-            {
-                "name": "strg/spunq3-db",
-                "version": "dev-feature/SNW-2779-upgrade-to-php8.2",
-                "version_normalized": "dev-feature/SNW-2779-upgrade-to-php8.2",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-db.git",
-                    "reference": "4111fd1d8cd5ad5121423782f31ca2d665e5bcf6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-db/zipball/4111fd1d8cd5ad5121423782f31ca2d665e5bcf6",
-                    "reference": "4111fd1d8cd5ad5121423782f31ca2d665e5bcf6",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.3"
-                },
-                "time": "2024-05-27T09:06:16+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-db/tree/feature/SNW-2779-upgrade-to-php8.2",
-                    "issues": "https://github.com/strg-at/spunq3-db/issues"
-                },
-                "uid": 127
+                "uid": 125
             },
             {
                 "name": "strg/spunq3-db",
@@ -75,7 +49,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/backward-compatibility",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 128
+                "uid": 126
             },
             {
                 "name": "strg/spunq3-db",
@@ -98,7 +72,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/encoding",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 129
+                "uid": 127
             },
             {
                 "name": "strg/spunq3-db",
@@ -121,7 +95,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/id-pre-bigint",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 130
+                "uid": 128
             },
             {
                 "name": "strg/spunq3-db",
@@ -144,7 +118,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 131
+                "uid": 129
             },
             {
                 "name": "strg/spunq3-db",
@@ -167,7 +141,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/legacy/svn-0.2.8",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 132
+                "uid": 130
             },
             {
                 "name": "strg/spunq3-db",
@@ -176,24 +150,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-db.git",
-                    "reference": "7cbe20612c58cbab64028ed23f25d5efd9edd900"
+                    "reference": "d40711af09b0fd1d40400cf73194c836f8fb1252"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-db/zipball/7cbe20612c58cbab64028ed23f25d5efd9edd900",
-                    "reference": "7cbe20612c58cbab64028ed23f25d5efd9edd900",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-db/zipball/d40711af09b0fd1d40400cf73194c836f8fb1252",
+                    "reference": "d40711af09b0fd1d40400cf73194c836f8fb1252",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.3"
                 },
-                "time": "2023-03-31T10:50:45+00:00",
+                "time": "2024-06-06T14:44:35+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-db/tree/1.2.5",
+                    "source": "https://github.com/strg-at/spunq3-db/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 133
+                "uid": 131
             }
         ]
     }

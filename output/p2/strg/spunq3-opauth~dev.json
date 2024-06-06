@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 230
+                "uid": 226
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -46,30 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/NOENT-1394-fix-opauth",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 231
-            },
-            {
-                "name": "strg/spunq3-opauth",
-                "version": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
-                "version_normalized": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-opauth.git",
-                    "reference": "9514d9874d880e78aa11dcc68ad287b96feaaafc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/9514d9874d880e78aa11dcc68ad287b96feaaafc",
-                    "reference": "9514d9874d880e78aa11dcc68ad287b96feaaafc",
-                    "shasum": ""
-                },
-                "time": "2024-05-29T09:54:27+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/SNW-2779-upgrade-sunpq3-lib",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 232
+                "uid": 227
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -78,21 +55,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-opauth.git",
-                    "reference": "4ce94175dd48843e194d1dbcbce4240a567f1e20"
+                    "reference": "a24f7a72c43d024e113cdd55b39e77babe55a398"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/4ce94175dd48843e194d1dbcbce4240a567f1e20",
-                    "reference": "4ce94175dd48843e194d1dbcbce4240a567f1e20",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/a24f7a72c43d024e113cdd55b39e77babe55a398",
+                    "reference": "a24f7a72c43d024e113cdd55b39e77babe55a398",
                     "shasum": ""
                 },
-                "time": "2021-07-15T11:52:02+00:00",
+                "time": "2024-06-06T14:48:11+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 233
+                "uid": 228
             }
         ]
     }
