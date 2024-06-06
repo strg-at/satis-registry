@@ -23,29 +23,6 @@
                     "source": "https://github.com/strg-at/spunq3-ftp/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-ftp/issues"
                 },
-                "uid": 141
-            },
-            {
-                "name": "strg/spunq3-ftp",
-                "version": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
-                "version_normalized": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-ftp.git",
-                    "reference": "70e171e4568354e6672b5e9d079ec30a8024dd48"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-ftp/zipball/70e171e4568354e6672b5e9d079ec30a8024dd48",
-                    "reference": "70e171e4568354e6672b5e9d079ec30a8024dd48",
-                    "shasum": ""
-                },
-                "time": "2024-05-29T06:52:08+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-ftp/tree/feature/SNW-2779-upgrade-sunpq3-lib",
-                    "issues": "https://github.com/strg-at/spunq3-ftp/issues"
-                },
                 "uid": 142
             },
             {
@@ -55,18 +32,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-ftp.git",
-                    "reference": "574009beb517e8d0545d9b3b576ceac0ded63a15"
+                    "reference": "41502bdf367d6c5e21a6fd36a2600f61b060354a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-ftp/zipball/574009beb517e8d0545d9b3b576ceac0ded63a15",
-                    "reference": "574009beb517e8d0545d9b3b576ceac0ded63a15",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ftp/zipball/41502bdf367d6c5e21a6fd36a2600f61b060354a",
+                    "reference": "41502bdf367d6c5e21a6fd36a2600f61b060354a",
                     "shasum": ""
                 },
-                "time": "2017-12-21T12:49:53+00:00",
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-06T14:35:11+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-ftp/tree/3.0.0",
+                    "source": "https://github.com/strg-at/spunq3-ftp/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-ftp/issues"
                 },
                 "uid": 143

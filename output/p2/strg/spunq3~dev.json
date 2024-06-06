@@ -101,15 +101,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "a70afeadb1121a84e130874d4cb5c165485a9147"
+                    "reference": "205db7bea45782f60f09818c3f29f3f030ede9b0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/a70afeadb1121a84e130874d4cb5c165485a9147",
-                    "reference": "a70afeadb1121a84e130874d4cb5c165485a9147",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/205db7bea45782f60f09818c3f29f3f030ede9b0",
+                    "reference": "205db7bea45782f60f09818c3f29f3f030ede9b0",
                     "shasum": ""
                 },
-                "time": "2024-05-29T16:24:52+00:00",
+                "time": "2024-06-03T13:03:44+00:00",
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/SNW-2779-fixes-for-php8",
