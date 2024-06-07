@@ -27,29 +27,6 @@
             },
             {
                 "name": "strg/spunq3-opauth",
-                "version": "dev-feature/NOENT-1394-fix-opauth",
-                "version_normalized": "dev-feature/NOENT-1394-fix-opauth",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-opauth.git",
-                    "reference": "41e3b6a550f80c02c090cad40157bf2fc0a6d100"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/41e3b6a550f80c02c090cad40157bf2fc0a6d100",
-                    "reference": "41e3b6a550f80c02c090cad40157bf2fc0a6d100",
-                    "shasum": ""
-                },
-                "time": "2021-07-15T11:46:45+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/NOENT-1394-fix-opauth",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 232
-            },
-            {
-                "name": "strg/spunq3-opauth",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
@@ -66,10 +43,10 @@
                 "time": "2024-06-06T14:48:11+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/main",
+                    "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 233
+                "uid": 232
             }
         ]
     }
