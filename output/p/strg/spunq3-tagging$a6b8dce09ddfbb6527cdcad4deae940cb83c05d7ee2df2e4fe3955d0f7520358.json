@@ -24,6 +24,32 @@
                 },
                 "uid": 268
             },
+            "1.0.1": {
+                "name": "strg/spunq3-tagging",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-07T10:06:59+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 269
+            },
             "1.1.0": {
                 "name": "strg/spunq3-tagging",
                 "version": "1.1.0",
@@ -45,7 +71,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 269
+                "uid": 270
             },
             "dev-develop": {
                 "name": "strg/spunq3-tagging",
@@ -69,32 +95,6 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 270
-            },
-            "dev-feature/SNW-2779-upgrade-sunpq3-lib": {
-                "name": "strg/spunq3-tagging",
-                "version": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
-                "version_normalized": "dev-feature/SNW-2779-upgrade-sunpq3-lib",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-tagging.git",
-                    "reference": "a7331235e1efb5695c6e8905c9273c52eda118c8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/a7331235e1efb5695c6e8905c9273c52eda118c8",
-                    "reference": "a7331235e1efb5695c6e8905c9273c52eda118c8",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.3"
-                },
-                "time": "2024-06-07T05:14:35+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-tagging/tree/feature/SNW-2779-upgrade-sunpq3-lib",
-                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
-                },
                 "uid": 271
             },
             "dev-legacy/spunq-3.0.2": {
@@ -104,18 +104,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-tagging.git",
-                    "reference": "e50b873382f24e9d5b16307f53be479d7033942f"
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/e50b873382f24e9d5b16307f53be479d7033942f",
-                    "reference": "e50b873382f24e9d5b16307f53be479d7033942f",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70",
                     "shasum": ""
                 },
-                "time": "2017-12-21T12:50:13+00:00",
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-07T10:06:59+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
                 "uid": 272
