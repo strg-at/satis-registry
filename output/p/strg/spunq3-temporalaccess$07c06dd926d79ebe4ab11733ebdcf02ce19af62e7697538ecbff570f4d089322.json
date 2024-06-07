@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "strg/spunq3-temporalaccess": {
+            "dev-develop": {
+                "name": "strg/spunq3-temporalaccess",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-temporalaccess.git",
+                    "reference": "2971e9172dcab05a12941bc2261e5f1fee9cbec2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-temporalaccess/zipball/2971e9172dcab05a12941bc2261e5f1fee9cbec2",
+                    "reference": "2971e9172dcab05a12941bc2261e5f1fee9cbec2",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:14+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-temporalaccess/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-temporalaccess/issues"
+                },
+                "uid": 275
+            },
+            "dev-main": {
+                "name": "strg/spunq3-temporalaccess",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-temporalaccess.git",
+                    "reference": "2971e9172dcab05a12941bc2261e5f1fee9cbec2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-temporalaccess/zipball/2971e9172dcab05a12941bc2261e5f1fee9cbec2",
+                    "reference": "2971e9172dcab05a12941bc2261e5f1fee9cbec2",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:14+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-temporalaccess/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-temporalaccess/issues"
+                },
+                "uid": 276
+            }
+        }
+    }
+}

@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 215
+                "uid": 217
             },
             {
                 "name": "strg/spunq3-media",
@@ -49,7 +49,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/feature/SNW-2779-restrict-php",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 216
+                "uid": 218
             },
             {
                 "name": "strg/spunq3-media",
@@ -72,7 +72,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/feature/animated-gifs",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 217
+                "uid": 219
             },
             {
                 "name": "strg/spunq3-media",
@@ -95,7 +95,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 218
+                "uid": 220
             },
             {
                 "name": "strg/spunq3-media",
@@ -118,7 +118,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 219
+                "uid": 221
             },
             {
                 "name": "strg/spunq3-media",
@@ -141,7 +141,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 220
+                "uid": 222
             }
         ]
     }
