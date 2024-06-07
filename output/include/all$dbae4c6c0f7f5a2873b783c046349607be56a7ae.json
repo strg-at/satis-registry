@@ -4517,6 +4517,32 @@
                 },
                 "uid": 188
             },
+            "v2.2.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "v2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2024-06-07T07:43:18+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.2.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 189
+            },
             "dev-develop": {
                 "name": "strg/spunq3-lucene",
                 "version": "dev-develop",
@@ -4539,7 +4565,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 189
+                "uid": 190
             },
             "dev-feature/FURM-8-sort": {
                 "name": "strg/spunq3-lucene",
@@ -4562,7 +4588,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 190
+                "uid": 191
             },
             "dev-feature/INPRO-957-php81": {
                 "name": "strg/spunq3-lucene",
@@ -4571,47 +4597,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "20a25410034a6de415f77780f6ca72163e5bcff2"
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/20a25410034a6de415f77780f6ca72163e5bcff2",
-                    "reference": "20a25410034a6de415f77780f6ca72163e5bcff2",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2024-02-01T16:30:41+00:00",
+                "time": "2024-06-07T07:43:18+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/INPRO-957-php81",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 191
-            },
-            "dev-feature/SNW-2850-fix-compatibility-issues": {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-feature/SNW-2850-fix-compatibility-issues",
-                "version_normalized": "dev-feature/SNW-2850-fix-compatibility-issues",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "030fec419352eb529276f9df985b1552d0e0c198"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/030fec419352eb529276f9df985b1552d0e0c198",
-                    "reference": "030fec419352eb529276f9df985b1552d0e0c198",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.4"
-                },
-                "time": "2024-05-27T14:14:52+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/SNW-2850-fix-compatibility-issues",
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.2.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 192
