@@ -22,7 +22,30 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 229
+                "uid": 232
+            },
+            {
+                "name": "strg/spunq3-poll",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-poll.git",
+                    "reference": "24e58a6c56dddf046e48669363ad0d04a78e13f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-poll/zipball/24e58a6c56dddf046e48669363ad0d04a78e13f3",
+                    "reference": "24e58a6c56dddf046e48669363ad0d04a78e13f3",
+                    "shasum": ""
+                },
+                "time": "2024-06-06T14:50:00+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 233
             }
         ]
     }
