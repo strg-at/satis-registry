@@ -48,29 +48,6 @@
                 },
                 "uid": 257
             },
-            "dev-feature/SNW-2869-sass-upgrade": {
-                "name": "strg/spunq3-sass",
-                "version": "dev-feature/SNW-2869-sass-upgrade",
-                "version_normalized": "dev-feature/SNW-2869-sass-upgrade",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-sass.git",
-                    "reference": "aebf76017cde21740ecc4051feddebe7d5ae9e75"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/aebf76017cde21740ecc4051feddebe7d5ae9e75",
-                    "reference": "aebf76017cde21740ecc4051feddebe7d5ae9e75",
-                    "shasum": ""
-                },
-                "time": "2024-06-05T15:29:08+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-sass/tree/feature/SNW-2869-sass-upgrade",
-                    "issues": "https://github.com/strg-at/spunq3-sass/issues"
-                },
-                "uid": 258
-            },
             "dev-main": {
                 "name": "strg/spunq3-sass",
                 "version": "dev-main",
@@ -92,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 259
+                "uid": 258
             }
         }
     }

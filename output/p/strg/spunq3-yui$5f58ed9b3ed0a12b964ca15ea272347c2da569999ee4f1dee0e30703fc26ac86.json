@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 293
+                "uid": 292
             },
             "2.4.8": {
                 "name": "strg/spunq3-yui",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 294
+                "uid": 293
             },
             "dev-develop": {
                 "name": "strg/spunq3-yui",
@@ -69,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 295
+                "uid": 294
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-yui",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 296
+                "uid": 295
             },
             "dev-legacy/svn-0.2.0": {
                 "name": "strg/spunq3-yui",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/legacy/svn-0.2.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 297
+                "uid": 296
             },
             "dev-legacy/svn-0.3.0": {
                 "name": "strg/spunq3-yui",
@@ -138,7 +138,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/legacy/svn-0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 298
+                "uid": 297
             },
             "dev-main": {
                 "name": "strg/spunq3-yui",
@@ -161,7 +161,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 299
+                "uid": 298
             },
             "dev-support/2.4.7": {
                 "name": "strg/spunq3-yui",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
                     "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
                 },
-                "uid": 300
+                "uid": 299
             }
         }
     }
