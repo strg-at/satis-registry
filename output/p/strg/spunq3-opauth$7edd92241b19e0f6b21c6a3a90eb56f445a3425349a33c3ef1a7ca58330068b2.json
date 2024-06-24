@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 230
+                "uid": 231
             },
             "dev-develop": {
                 "name": "strg/spunq3-opauth",
@@ -46,7 +46,30 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 231
+                "uid": 232
+            },
+            "dev-feature/SNW-2781-update-possible-null-input": {
+                "name": "strg/spunq3-opauth",
+                "version": "dev-feature/SNW-2781-update-possible-null-input",
+                "version_normalized": "dev-feature/SNW-2781-update-possible-null-input",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-opauth.git",
+                    "reference": "d4ad2bb68d7f826dc93a08c1271dc8d51ff1c1be"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/d4ad2bb68d7f826dc93a08c1271dc8d51ff1c1be",
+                    "reference": "d4ad2bb68d7f826dc93a08c1271dc8d51ff1c1be",
+                    "shasum": ""
+                },
+                "time": "2024-06-21T09:15:17+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-opauth/tree/feature/SNW-2781-update-possible-null-input",
+                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
+                },
+                "uid": 233
             },
             "dev-main": {
                 "name": "strg/spunq3-opauth",
@@ -69,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 232
+                "uid": 234
             }
         }
     }
