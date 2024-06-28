@@ -32,15 +32,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-sass.git",
-                    "reference": "3d3a94b0d56076df5f057dbb5ca559e10749f8c1"
+                    "reference": "f7c557caaab366a7d695b3d58e81a57809725603"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/3d3a94b0d56076df5f057dbb5ca559e10749f8c1",
-                    "reference": "3d3a94b0d56076df5f057dbb5ca559e10749f8c1",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/f7c557caaab366a7d695b3d58e81a57809725603",
+                    "reference": "f7c557caaab366a7d695b3d58e81a57809725603",
                     "shasum": ""
                 },
-                "time": "2024-06-21T13:41:28+00:00",
+                "time": "2024-06-27T19:13:56+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-sass/tree/feature/INPRO-2274-refactor-to-dart-sass",
