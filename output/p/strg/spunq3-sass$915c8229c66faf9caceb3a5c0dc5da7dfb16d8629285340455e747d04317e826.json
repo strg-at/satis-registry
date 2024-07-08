@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 258
+                "uid": 260
             },
             "dev-develop": {
                 "name": "strg/spunq3-sass",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 259
+                "uid": 261
             },
             "dev-feature/INPRO-2274-refactor-to-dart-sass": {
                 "name": "strg/spunq3-sass",
@@ -55,21 +55,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-sass.git",
-                    "reference": "f7c557caaab366a7d695b3d58e81a57809725603"
+                    "reference": "4afb393f2d8af03c57bda58dba113276cac8fa99"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/f7c557caaab366a7d695b3d58e81a57809725603",
-                    "reference": "f7c557caaab366a7d695b3d58e81a57809725603",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/4afb393f2d8af03c57bda58dba113276cac8fa99",
+                    "reference": "4afb393f2d8af03c57bda58dba113276cac8fa99",
                     "shasum": ""
                 },
-                "time": "2024-06-27T19:13:56+00:00",
+                "time": "2024-07-04T09:49:06+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-sass/tree/feature/INPRO-2274-refactor-to-dart-sass",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 260
+                "uid": 262
             },
             "dev-feature/INTINF-11991_update-js-libs": {
                 "name": "strg/spunq3-sass",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/feature/INTINF-11991_update-js-libs",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 261
+                "uid": 263
             },
             "dev-main": {
                 "name": "strg/spunq3-sass",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 262
+                "uid": 264
             }
         }
     }

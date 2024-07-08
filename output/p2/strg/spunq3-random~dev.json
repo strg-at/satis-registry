@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-random/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-random/issues"
                 },
-                "uid": 242
+                "uid": 244
             },
             {
                 "name": "strg/spunq3-random",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-random/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-random/issues"
                 },
-                "uid": 243
+                "uid": 245
             }
         ]
     }
