@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 260
+                "uid": 261
             },
             "dev-develop": {
                 "name": "strg/spunq3-sass",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 261
+                "uid": 262
             },
             "dev-feature/INPRO-2274-refactor-to-dart-sass": {
                 "name": "strg/spunq3-sass",
@@ -69,7 +69,30 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/feature/INPRO-2274-refactor-to-dart-sass",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 262
+                "uid": 263
+            },
+            "dev-feature/INTINF-11698-do-not-cache-if-timestamp-mismatch": {
+                "name": "strg/spunq3-sass",
+                "version": "dev-feature/INTINF-11698-do-not-cache-if-timestamp-mismatch",
+                "version_normalized": "dev-feature/INTINF-11698-do-not-cache-if-timestamp-mismatch",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-sass.git",
+                    "reference": "a9870150a0f8f47ae784f99f7d0df48fd7955000"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/a9870150a0f8f47ae784f99f7d0df48fd7955000",
+                    "reference": "a9870150a0f8f47ae784f99f7d0df48fd7955000",
+                    "shasum": ""
+                },
+                "time": "2024-07-09T14:49:49+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-sass/tree/feature/INTINF-11698-do-not-cache-if-timestamp-mismatch",
+                    "issues": "https://github.com/strg-at/spunq3-sass/issues"
+                },
+                "uid": 264
             },
             "dev-feature/INTINF-11991_update-js-libs": {
                 "name": "strg/spunq3-sass",
@@ -92,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/feature/INTINF-11991_update-js-libs",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 263
+                "uid": 265
             },
             "dev-main": {
                 "name": "strg/spunq3-sass",
@@ -115,7 +138,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 264
+                "uid": 266
             }
         }
     }

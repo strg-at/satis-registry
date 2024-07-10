@@ -3,6 +3,29 @@
         "strg/spunq3-opauth": [
             {
                 "name": "strg/spunq3-opauth",
+                "version": "3.2",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-opauth.git",
+                    "reference": "4ce94175dd48843e194d1dbcbce4240a567f1e20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/4ce94175dd48843e194d1dbcbce4240a567f1e20",
+                    "reference": "4ce94175dd48843e194d1dbcbce4240a567f1e20",
+                    "shasum": ""
+                },
+                "time": "2021-07-15T11:52:02+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.2",
+                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
+                },
+                "uid": 233
+            },
+            {
+                "name": "strg/spunq3-opauth",
                 "version": "3.3",
                 "version_normalized": "3.3.0.0",
                 "source": {
@@ -22,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 233
+                "uid": 234
             }
         ]
     }
