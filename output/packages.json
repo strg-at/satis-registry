@@ -69,7 +69,7 @@
             "sha256": "f12cefe69f7ba7744def7545cd55d13613cdcd604b060b39feaf9bf4d980860b"
         },
         "strg/spunq3-opauth": {
-            "sha256": "ce7d741cdd719bfa84a59a154888fed4885f73f398228340a11307216a241bd5"
+            "sha256": "f13250cc939ff4cca86c11e56654a3a518f4b884009f3c4ad22b3308a8eb12c3"
         },
         "strg/spunq3-poll": {
             "sha256": "443246259223158db87903e106b7f17170849d64e38013486ef9c3096f5315fa"
@@ -115,8 +115,8 @@
         }
     },
     "includes": {
-        "include/all$89f4771ec2797d98b2d69e66a1630bdf012b70b2.json": {
-            "sha1": "89f4771ec2797d98b2d69e66a1630bdf012b70b2"
+        "include/all$99d03b37a0e6683c732e9ff858fec93b7adf2e8f.json": {
+            "sha1": "99d03b37a0e6683c732e9ff858fec93b7adf2e8f"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
