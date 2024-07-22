@@ -150,15 +150,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "6211847b0a596ad76a4371f6e5743fdb36fa5fb2"
+                    "reference": "8e03298fc9dd9bc1283013e58038a5c7f0e068d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/6211847b0a596ad76a4371f6e5743fdb36fa5fb2",
-                    "reference": "6211847b0a596ad76a4371f6e5743fdb36fa5fb2",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/8e03298fc9dd9bc1283013e58038a5c7f0e068d4",
+                    "reference": "8e03298fc9dd9bc1283013e58038a5c7f0e068d4",
                     "shasum": ""
                 },
-                "time": "2024-07-05T08:03:33+00:00",
+                "time": "2024-07-17T09:03:24+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-build-push-action-6.x",
