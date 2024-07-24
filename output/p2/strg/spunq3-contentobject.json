@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-contentobject/tree/0.2.4",
                     "issues": "https://github.com/strg-at/spunq3-contentobject/issues"
                 },
-                "uid": 98
+                "uid": 99
             },
             {
                 "name": "strg/spunq3-contentobject",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-contentobject/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-contentobject/issues"
                 },
-                "uid": 99
+                "uid": 100
             },
             {
                 "name": "strg/spunq3-contentobject",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-contentobject/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-contentobject/issues"
                 },
-                "uid": 100
+                "uid": 101
             }
         ]
     }

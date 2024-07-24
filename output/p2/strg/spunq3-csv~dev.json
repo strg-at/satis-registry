@@ -23,7 +23,33 @@
                     "source": "https://github.com/strg-at/spunq3-csv/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-csv/issues"
                 },
-                "uid": 115
+                "uid": 116
+            },
+            {
+                "name": "strg/spunq3-csv",
+                "version": "dev-feature/BAW-424-upgrade-csv",
+                "version_normalized": "dev-feature/BAW-424-upgrade-csv",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-csv.git",
+                    "reference": "8a4d078a6fff7605a8e38bdab427af47acb6ce21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/8a4d078a6fff7605a8e38bdab427af47acb6ce21",
+                    "reference": "8a4d078a6fff7605a8e38bdab427af47acb6ce21",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2024-07-23T10:31:09+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/feature/BAW-424-upgrade-csv",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 117
             },
             {
                 "name": "strg/spunq3-csv",
@@ -46,7 +72,7 @@
                     "source": "https://github.com/strg-at/spunq3-csv/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-csv/issues"
                 },
-                "uid": 116
+                "uid": 118
             }
         ]
     }
