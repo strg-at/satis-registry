@@ -1,0 +1,663 @@
+{
+    "packages": {
+        "strg/spunq3-lucene": {
+            "1.0.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "cd03b103464173294283e25608425f225b5a4258"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/cd03b103464173294283e25608425f225b5a4258",
+                    "reference": "cd03b103464173294283e25608425f225b5a4258",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:04+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 180
+            },
+            "1.0.1": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "0fdf084b354f03d046439b51a3febb181a49edf6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/0fdf084b354f03d046439b51a3febb181a49edf6",
+                    "reference": "0fdf084b354f03d046439b51a3febb181a49edf6",
+                    "shasum": ""
+                },
+                "time": "2020-09-22T10:55:25+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 181
+            },
+            "1.1.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "b1eea241c840ca06ba5c411d8d43bf263de6b170"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/b1eea241c840ca06ba5c411d8d43bf263de6b170",
+                    "reference": "b1eea241c840ca06ba5c411d8d43bf263de6b170",
+                    "shasum": ""
+                },
+                "time": "2018-08-22T12:52:47+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 182
+            },
+            "1.1.1": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "976810ebc1bec20bab57f10b79732d227d82e398"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/976810ebc1bec20bab57f10b79732d227d82e398",
+                    "reference": "976810ebc1bec20bab57f10b79732d227d82e398",
+                    "shasum": ""
+                },
+                "time": "2019-02-21T10:25:57+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.1",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 183
+            },
+            "1.1.2": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
+                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
+                    "shasum": ""
+                },
+                "time": "2019-06-06T09:47:20+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 184
+            },
+            "1.1.3": {
+                "name": "strg/spunq3-lucene",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "shasum": ""
+                },
+                "time": "2024-02-02T06:44:27+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.3",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 185
+            },
+            "v2.0.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "a3ce9f6770805aad30d86fe37f69a7f957d2ec34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/a3ce9f6770805aad30d86fe37f69a7f957d2ec34",
+                    "reference": "a3ce9f6770805aad30d86fe37f69a7f957d2ec34",
+                    "shasum": ""
+                },
+                "time": "2023-02-08T12:39:36+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 186
+            },
+            "v2.1.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "v2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "82f07cc9ae1b1f6325e014fdf43d268c68646c6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/82f07cc9ae1b1f6325e014fdf43d268c68646c6e",
+                    "reference": "82f07cc9ae1b1f6325e014fdf43d268c68646c6e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2023-10-11T08:23:28+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 187
+            },
+            "v2.1.1": {
+                "name": "strg/spunq3-lucene",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "2bc8c31c6bd55d87e0df1637e68dd5511792a562"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2bc8c31c6bd55d87e0df1637e68dd5511792a562",
+                    "reference": "2bc8c31c6bd55d87e0df1637e68dd5511792a562",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2023-11-21T11:59:00+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.1.1",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 188
+            },
+            "v2.2.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "v2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2024-06-07T07:43:18+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.2.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 189
+            },
+            "dev-develop": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "2972f9265d6a88d778bee6e2c6baeaf0e9ba1be4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2972f9265d6a88d778bee6e2c6baeaf0e9ba1be4",
+                    "reference": "2972f9265d6a88d778bee6e2c6baeaf0e9ba1be4",
+                    "shasum": ""
+                },
+                "time": "2024-07-05T07:15:48+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/develop",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 190
+            },
+            "dev-feature/FURM-8-sort": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-feature/FURM-8-sort",
+                "version_normalized": "dev-feature/FURM-8-sort",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "f890e5eaf0b9d3d1b8419936677d0fd39049ae63"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/f890e5eaf0b9d3d1b8419936677d0fd39049ae63",
+                    "reference": "f890e5eaf0b9d3d1b8419936677d0fd39049ae63",
+                    "shasum": ""
+                },
+                "time": "2023-04-13T04:12:54+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 191
+            },
+            "dev-feature/INPRO-957-php81": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-feature/INPRO-957-php81",
+                "version_normalized": "dev-feature/INPRO-957-php81",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "reference": "ca0642625899cadc769ee391eb9d2cbb933f203e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2024-06-07T07:43:18+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/v2.2.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 192
+            },
+            "dev-legacy/spunq-3.0.2": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-legacy/spunq-3.0.2",
+                "version_normalized": "dev-legacy/spunq-3.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "0fdf084b354f03d046439b51a3febb181a49edf6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/0fdf084b354f03d046439b51a3febb181a49edf6",
+                    "reference": "0fdf084b354f03d046439b51a3febb181a49edf6",
+                    "shasum": ""
+                },
+                "time": "2020-09-22T10:55:25+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 193
+            },
+            "dev-legacy/svn-0.3.0": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-legacy/svn-0.3.0",
+                "version_normalized": "dev-legacy/svn-0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "734c352fca29f1c182ce444a965cc8eacf3be3fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/734c352fca29f1c182ce444a965cc8eacf3be3fc",
+                    "reference": "734c352fca29f1c182ce444a965cc8eacf3be3fc",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:04+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/legacy/svn-0.3.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 194
+            },
+            "dev-main": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "reference": "4bc110048fb4b034ecd8c651c7d87733ba07bad6",
+                    "shasum": ""
+                },
+                "time": "2024-02-02T06:44:27+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.3",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 195
+            },
+            "dev-renovate/docker-build-push-action-6.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/docker-build-push-action-6.x",
+                "version_normalized": "dev-renovate/docker-build-push-action-6.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "a08bce2d462b9bb6f8d6292dfa5e4d174b7261f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/a08bce2d462b9bb6f8d6292dfa5e4d174b7261f5",
+                    "reference": "a08bce2d462b9bb6f8d6292dfa5e4d174b7261f5",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T10:03:35+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-build-push-action-6.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 196
+            },
+            "dev-renovate/docker-login-action-3.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/docker-login-action-3.x",
+                "version_normalized": "dev-renovate/docker-login-action-3.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "0eca810a5fe7f3de547e1dee444c88ae56dd9dcf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/0eca810a5fe7f3de547e1dee444c88ae56dd9dcf",
+                    "reference": "0eca810a5fe7f3de547e1dee444c88ae56dd9dcf",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T10:03:17+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-login-action-3.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 197
+            },
+            "dev-renovate/docker-setup-buildx-action-3.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/docker-setup-buildx-action-3.x",
+                "version_normalized": "dev-renovate/docker-setup-buildx-action-3.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "2b6cef1e6de7ed70a22f1f400bbce7401cb495b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2b6cef1e6de7ed70a22f1f400bbce7401cb495b0",
+                    "reference": "2b6cef1e6de7ed70a22f1f400bbce7401cb495b0",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T10:03:22+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-setup-buildx-action-3.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 198
+            },
+            "dev-renovate/docker-setup-qemu-action-3.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/docker-setup-qemu-action-3.x",
+                "version_normalized": "dev-renovate/docker-setup-qemu-action-3.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "e8acc7f271e56956dbcddae3912905ba77fe6b94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/e8acc7f271e56956dbcddae3912905ba77fe6b94",
+                    "reference": "e8acc7f271e56956dbcddae3912905ba77fe6b94",
+                    "shasum": ""
+                },
+                "time": "2024-07-22T10:03:28+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-setup-qemu-action-3.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 199
+            },
+            "dev-renovate/openjdk-13.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-13.x",
+                "version_normalized": "dev-renovate/openjdk-13.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "2439dcce84682a2225b09f84880e3e968f5d3c96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2439dcce84682a2225b09f84880e3e968f5d3c96",
+                    "reference": "2439dcce84682a2225b09f84880e3e968f5d3c96",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:28:58+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-13.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 200
+            },
+            "dev-renovate/openjdk-14.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-14.x",
+                "version_normalized": "dev-renovate/openjdk-14.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "ea7d0002a5d7d310a06a73101da5212d7a5d5c03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ea7d0002a5d7d310a06a73101da5212d7a5d5c03",
+                    "reference": "ea7d0002a5d7d310a06a73101da5212d7a5d5c03",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:29:03+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-14.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 201
+            },
+            "dev-renovate/openjdk-15.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-15.x",
+                "version_normalized": "dev-renovate/openjdk-15.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "67e661ef665b037fef11a05f53fb1e8f7d8cdf5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/67e661ef665b037fef11a05f53fb1e8f7d8cdf5d",
+                    "reference": "67e661ef665b037fef11a05f53fb1e8f7d8cdf5d",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:29:10+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-15.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 202
+            },
+            "dev-renovate/openjdk-16.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-16.x",
+                "version_normalized": "dev-renovate/openjdk-16.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "dad2978ebf2dbdd0117926afd5964767142b992a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/dad2978ebf2dbdd0117926afd5964767142b992a",
+                    "reference": "dad2978ebf2dbdd0117926afd5964767142b992a",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:29:16+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-16.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 203
+            },
+            "dev-renovate/openjdk-17.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-17.x",
+                "version_normalized": "dev-renovate/openjdk-17.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "2e66a169d6a73f708b58b5ad84e0242758486b95"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2e66a169d6a73f708b58b5ad84e0242758486b95",
+                    "reference": "2e66a169d6a73f708b58b5ad84e0242758486b95",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:29:21+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-17.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 204
+            },
+            "dev-renovate/openjdk-18.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-18.x",
+                "version_normalized": "dev-renovate/openjdk-18.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "5845ba00420fa1ebab0a480d5fa0d1f5ee5efae3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/5845ba00420fa1ebab0a480d5fa0d1f5ee5efae3",
+                    "reference": "5845ba00420fa1ebab0a480d5fa0d1f5ee5efae3",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:29:26+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-18.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 205
+            },
+            "dev-renovate/openjdk-19.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/openjdk-19.x",
+                "version_normalized": "dev-renovate/openjdk-19.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "45875873545bfe0582c93fa89ba9ec72b2257d01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/45875873545bfe0582c93fa89ba9ec72b2257d01",
+                    "reference": "45875873545bfe0582c93fa89ba9ec72b2257d01",
+                    "shasum": ""
+                },
+                "time": "2023-05-19T01:29:32+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/openjdk-19.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 206
+            },
+            "dev-support/1.x": {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-support/1.x",
+                "version_normalized": "dev-support/1.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
+                    "reference": "73c2448880a3f32f04dcabd180dcbebbcd7ffe0b",
+                    "shasum": ""
+                },
+                "time": "2019-06-06T09:47:20+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 207
+            }
+        }
+    }
+}

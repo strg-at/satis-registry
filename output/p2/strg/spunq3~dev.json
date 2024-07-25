@@ -32,15 +32,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "092d875b478f3f99215e65e1bce03679eddaab75"
+                    "reference": "18c4091b259b958289908e79edfb970d89385476"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/092d875b478f3f99215e65e1bce03679eddaab75",
-                    "reference": "092d875b478f3f99215e65e1bce03679eddaab75",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/18c4091b259b958289908e79edfb970d89385476",
+                    "reference": "18c4091b259b958289908e79edfb970d89385476",
                     "shasum": ""
                 },
-                "time": "2024-07-24T12:01:01+00:00",
+                "time": "2024-07-24T15:31:24+00:00",
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/BAW-424-update-libs",
