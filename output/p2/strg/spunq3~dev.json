@@ -23,29 +23,6 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.1.6",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 60
-            },
-            {
-                "name": "strg/spunq3",
-                "version": "dev-feature/BAW-424-update-libs",
-                "version_normalized": "dev-feature/BAW-424-update-libs",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "18c4091b259b958289908e79edfb970d89385476"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/18c4091b259b958289908e79edfb970d89385476",
-                    "reference": "18c4091b259b958289908e79edfb970d89385476",
-                    "shasum": ""
-                },
-                "time": "2024-07-24T15:31:24+00:00",
-                "type": "spunq3-core",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/feature/BAW-424-update-libs",
-                    "issues": "https://github.com/strg-at/spunq3/issues"
-                },
                 "uid": 61
             },
             {
@@ -262,18 +239,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "6f738170cc5ed4a3b6a903f338da079f1d3b1120"
+                    "reference": "711e6beeea8fdbfb4ddf91e0dc850e1d068d2ddf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/6f738170cc5ed4a3b6a903f338da079f1d3b1120",
-                    "reference": "6f738170cc5ed4a3b6a903f338da079f1d3b1120",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/711e6beeea8fdbfb4ddf91e0dc850e1d068d2ddf",
+                    "reference": "711e6beeea8fdbfb4ddf91e0dc850e1d068d2ddf",
                     "shasum": ""
                 },
-                "time": "2022-04-14T12:50:09+00:00",
+                "time": "2024-07-25T14:01:04+00:00",
                 "type": "spunq3-core",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/3.1.7",
+                    "source": "https://github.com/strg-at/spunq3/tree/5.0.0",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 71
