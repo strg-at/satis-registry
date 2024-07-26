@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 240
+                "uid": 241
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 241
+                "uid": 242
             }
         ]
     }

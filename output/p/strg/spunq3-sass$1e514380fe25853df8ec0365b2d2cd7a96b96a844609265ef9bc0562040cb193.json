@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 265
+                "uid": 266
             },
             "2.0.0": {
                 "name": "strg/spunq3-sass",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 266
+                "uid": 267
             },
             "dev-develop": {
                 "name": "strg/spunq3-sass",
@@ -69,7 +69,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 267
+                "uid": 268
             },
             "dev-main": {
                 "name": "strg/spunq3-sass",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-sass/tree/2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 268
+                "uid": 269
             }
         }
     }
