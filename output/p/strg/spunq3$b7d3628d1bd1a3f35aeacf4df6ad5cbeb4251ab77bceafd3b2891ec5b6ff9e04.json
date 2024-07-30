@@ -1297,15 +1297,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "0e8462420dc6031295af83970575b4c9002b20d1"
+                    "reference": "83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/0e8462420dc6031295af83970575b4c9002b20d1",
-                    "reference": "0e8462420dc6031295af83970575b4c9002b20d1",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba",
+                    "reference": "83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba",
                     "shasum": ""
                 },
-                "time": "2024-07-26T09:56:09+00:00",
+                "time": "2024-07-30T05:50:24+00:00",
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INTINF-10220-update-to-php8.3",

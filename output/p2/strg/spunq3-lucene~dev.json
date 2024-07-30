@@ -245,15 +245,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "9298d5322705cb38ab26771a8e9b7364c3020c56"
+                    "reference": "44d7a73eed219feb20fc0c450ed6ad1efff7989d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/9298d5322705cb38ab26771a8e9b7364c3020c56",
-                    "reference": "9298d5322705cb38ab26771a8e9b7364c3020c56",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/44d7a73eed219feb20fc0c450ed6ad1efff7989d",
+                    "reference": "44d7a73eed219feb20fc0c450ed6ad1efff7989d",
                     "shasum": ""
                 },
-                "time": "2024-07-25T14:02:12+00:00",
+                "time": "2024-07-29T17:02:16+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-setup-buildx-action-3.x",

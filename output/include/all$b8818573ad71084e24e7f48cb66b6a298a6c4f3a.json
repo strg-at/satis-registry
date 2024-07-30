@@ -1552,15 +1552,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "0e8462420dc6031295af83970575b4c9002b20d1"
+                    "reference": "83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/0e8462420dc6031295af83970575b4c9002b20d1",
-                    "reference": "0e8462420dc6031295af83970575b4c9002b20d1",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba",
+                    "reference": "83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba",
                     "shasum": ""
                 },
-                "time": "2024-07-26T09:56:09+00:00",
+                "time": "2024-07-30T05:50:24+00:00",
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INTINF-10220-update-to-php8.3",
@@ -4839,15 +4839,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "9298d5322705cb38ab26771a8e9b7364c3020c56"
+                    "reference": "44d7a73eed219feb20fc0c450ed6ad1efff7989d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/9298d5322705cb38ab26771a8e9b7364c3020c56",
-                    "reference": "9298d5322705cb38ab26771a8e9b7364c3020c56",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/44d7a73eed219feb20fc0c450ed6ad1efff7989d",
+                    "reference": "44d7a73eed219feb20fc0c450ed6ad1efff7989d",
                     "shasum": ""
                 },
-                "time": "2024-07-25T14:02:12+00:00",
+                "time": "2024-07-29T17:02:16+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/docker-setup-buildx-action-3.x",
