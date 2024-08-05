@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.1.6",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 61
+                "uid": 62
             },
             {
                 "name": "strg/spunq3",
@@ -44,29 +44,6 @@
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INPRO-45-gelf-logger",
-                    "issues": "https://github.com/strg-at/spunq3/issues"
-                },
-                "uid": 62
-            },
-            {
-                "name": "strg/spunq3",
-                "version": "dev-feature/INTINF-10220-update-to-php8.3",
-                "version_normalized": "dev-feature/INTINF-10220-update-to-php8.3",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba",
-                    "reference": "83d5bcd233aa3eed4b58458d30f1a93b1d80c0ba",
-                    "shasum": ""
-                },
-                "time": "2024-07-30T05:50:24+00:00",
-                "type": "spunq3-core",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/feature/INTINF-10220-update-to-php8.3",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 63
@@ -354,18 +331,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "0a4ec7f4c6d640e7adf1b66aaaa398286e8d770e"
+                    "reference": "956253dea82d34ee900912924c546fc9a880afc1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/0a4ec7f4c6d640e7adf1b66aaaa398286e8d770e",
-                    "reference": "0a4ec7f4c6d640e7adf1b66aaaa398286e8d770e",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/956253dea82d34ee900912924c546fc9a880afc1",
+                    "reference": "956253dea82d34ee900912924c546fc9a880afc1",
                     "shasum": ""
                 },
-                "time": "2024-06-07T09:45:08+00:00",
+                "time": "2024-08-01T14:50:46+00:00",
                 "type": "spunq3-core",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/support/4.x",
+                    "source": "https://github.com/strg-at/spunq3/tree/4.1.1",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 76
