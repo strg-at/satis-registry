@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 278
+                "uid": 279
             },
             "1.0.1": {
                 "name": "strg/spunq3-tagging",
@@ -48,7 +48,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 279
+                "uid": 280
             },
             "1.1.0": {
                 "name": "strg/spunq3-tagging",
@@ -71,7 +71,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 280
+                "uid": 281
             },
             "dev-develop": {
                 "name": "strg/spunq3-tagging",
@@ -95,7 +95,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 281
+                "uid": 282
             },
             "dev-legacy/spunq-3.0.2": {
                 "name": "strg/spunq3-tagging",
@@ -121,7 +121,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 282
+                "uid": 283
             },
             "dev-main": {
                 "name": "strg/spunq3-tagging",
@@ -144,7 +144,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 283
+                "uid": 284
             }
         }
     }

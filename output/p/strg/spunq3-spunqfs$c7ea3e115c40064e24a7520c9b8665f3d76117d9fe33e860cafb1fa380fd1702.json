@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-spunqfs/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
                 },
-                "uid": 276
+                "uid": 277
             },
             "dev-main": {
                 "name": "strg/spunq3-spunqfs",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-spunqfs/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
                 },
-                "uid": 277
+                "uid": 278
             }
         }
     }
