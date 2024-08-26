@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 216
+                "uid": 203
             },
             {
                 "name": "strg/spunq3-mail-hg",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
                 },
-                "uid": 217
+                "uid": 204
             }
         ]
     }

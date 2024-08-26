@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.2",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 239
+                "uid": 226
             },
             "3.3": {
                 "name": "strg/spunq3-opauth",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 240
+                "uid": 227
             },
             "3.4": {
                 "name": "strg/spunq3-opauth",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 241
+                "uid": 228
             },
             "dev-develop": {
                 "name": "strg/spunq3-opauth",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 242
+                "uid": 229
             },
             "dev-main": {
                 "name": "strg/spunq3-opauth",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 243
+                "uid": 230
             }
         }
     }
