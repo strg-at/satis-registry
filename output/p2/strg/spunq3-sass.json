@@ -46,6 +46,29 @@
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
                 "uid": 255
+            },
+            {
+                "name": "strg/spunq3-sass",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-sass.git",
+                    "reference": "d034875098589e68bd48c00d2e7a3761df2e5f16"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/d034875098589e68bd48c00d2e7a3761df2e5f16",
+                    "reference": "d034875098589e68bd48c00d2e7a3761df2e5f16",
+                    "shasum": ""
+                },
+                "time": "2024-08-27T07:35:53+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-sass/tree/2.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-sass/issues"
+                },
+                "uid": 256
             }
         ]
     }
