@@ -8,16 +8,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/symfony-swagger-codegenerator-bundle.git",
-                    "reference": "7ffbf19f82df570b83eb893c96de8541d83ec185"
+                    "reference": "69fe7a819ff9bfbcbd16dcdc7728e2441f04a9fe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/7ffbf19f82df570b83eb893c96de8541d83ec185",
-                    "reference": "7ffbf19f82df570b83eb893c96de8541d83ec185",
+                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/69fe7a819ff9bfbcbd16dcdc7728e2441f04a9fe",
+                    "reference": "69fe7a819ff9bfbcbd16dcdc7728e2441f04a9fe",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=8.1",
+                    "php": ">=7.4",
                     "symfony/config": "5.4.*",
                     "symfony/console": "5.4.*",
                     "symfony/dependency-injection": "5.4.*",
@@ -30,7 +30,7 @@
                     "friendsofphp/php-cs-fixer": "^3",
                     "phpunit/phpunit": "9.5.24"
                 },
-                "time": "2023-11-09T15:11:55+00:00",
+                "time": "2024-09-27T10:12:03+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -74,7 +74,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/develop",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 307
+                "uid": 308
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -83,16 +83,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/symfony-swagger-codegenerator-bundle.git",
-                    "reference": "58cbb0490e158d026751a6359062fe2ee0bf28cd"
+                    "reference": "f92335f570a2323051d6d690d0c8f698242442b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/58cbb0490e158d026751a6359062fe2ee0bf28cd",
-                    "reference": "58cbb0490e158d026751a6359062fe2ee0bf28cd",
+                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/f92335f570a2323051d6d690d0c8f698242442b4",
+                    "reference": "f92335f570a2323051d6d690d0c8f698242442b4",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=8.1",
+                    "php": ">=7.4",
                     "symfony/config": "5.4.*",
                     "symfony/console": "5.4.*",
                     "symfony/dependency-injection": "5.4.*",
@@ -105,7 +105,7 @@
                     "friendsofphp/php-cs-fixer": "^3",
                     "phpunit/phpunit": "9.5.24"
                 },
-                "time": "2023-11-09T15:12:54+00:00",
+                "time": "2024-09-27T10:13:21+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
@@ -145,10 +145,10 @@
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
                 "support": {
-                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.1",
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.2",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 308
+                "uid": 309
             }
         ]
     }

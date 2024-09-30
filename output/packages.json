@@ -54,7 +54,7 @@
             "sha256": "74de3d1d29b7dd3be119a8db6cad188dca8038d7848885bb92fd8823b0e5d6ae"
         },
         "strg/spunq3-lucene": {
-            "sha256": "61f2517d5b13c3769b081747eadcf53d9513cf422ae2032b34a93a6806af1cae"
+            "sha256": "2f35beceb4839ace8bb25302d77fd9968a70495f2875f64d811c6e979bea32ad"
         },
         "strg/spunq3-mail": {
             "sha256": "5f6732712d8086d4c6d5647230d232155e9175fed4ccc84a979babc673cb4ba9"
@@ -111,12 +111,12 @@
             "sha256": "5f58ed9b3ed0a12b964ca15ea272347c2da569999ee4f1dee0e30703fc26ac86"
         },
         "strgat/swagger-codegenerator-bundle": {
-            "sha256": "1c16532e88fefdf8ee59b6fb1eed7f0a165087e25a9ae2e6f0adeea9257a1c2c"
+            "sha256": "7a35bc1b74dbf442d032af12f3aa9ecfc8197408b52630332c4c8d079f77128d"
         }
     },
     "includes": {
-        "include/all$211456d73dbf4f9bcc309345e1ad42041a3c10ff.json": {
-            "sha1": "211456d73dbf4f9bcc309345e1ad42041a3c10ff"
+        "include/all$a35020a86ae30d57c581f3e8522e2de02be626a3.json": {
+            "sha1": "a35020a86ae30d57c581f3e8522e2de02be626a3"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
