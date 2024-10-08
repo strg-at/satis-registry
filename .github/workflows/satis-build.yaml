@@ -25,14 +25,14 @@ jobs:
 
       # https://github.com/oleksiyrudenko/gha-git-credentials
       - name: Setup GIT
-        uses: oleksiyrudenko/gha-git-credentials@v2.1
+        uses: oleksiyrudenko/gha-git-credentials@e7a10d8587d4d9706f13965a1442e329f5be53d7 # v2.1
         with:
           token: ${{ secrets.GH_PUSH }}
           email: ${{ secrets.STRG_AUTOMATION_USER_EMAIL }}
           name: STRG Automation
 
       # https://github.com/marketplace/actions/satis-build-composer-repository
-      - uses: tyriis/satis-build@v1.6
+      - uses: tyriis/satis-build@c73209ab6b0b46440a31f6b5776e122fa650a463 # v1.6
         with:
           token: ${{ secrets.GH_PUSH }}
 
