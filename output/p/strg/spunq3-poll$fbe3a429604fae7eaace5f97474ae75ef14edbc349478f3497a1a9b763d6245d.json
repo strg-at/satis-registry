@@ -1,0 +1,122 @@
+{
+    "packages": {
+        "strg/spunq3-poll": {
+            "1.0.0": {
+                "name": "strg/spunq3-poll",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-poll.git",
+                    "reference": "d416a795c07b5256a95f2a5a3e33d6f9dcf7fd56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-poll/zipball/d416a795c07b5256a95f2a5a3e33d6f9dcf7fd56",
+                    "reference": "d416a795c07b5256a95f2a5a3e33d6f9dcf7fd56",
+                    "shasum": ""
+                },
+                "time": "2018-06-15T07:59:08+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 230
+            },
+            "1.0.1": {
+                "name": "strg/spunq3-poll",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-poll.git",
+                    "reference": "24e58a6c56dddf046e48669363ad0d04a78e13f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-poll/zipball/24e58a6c56dddf046e48669363ad0d04a78e13f3",
+                    "reference": "24e58a6c56dddf046e48669363ad0d04a78e13f3",
+                    "shasum": ""
+                },
+                "time": "2024-06-06T14:50:00+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 231
+            },
+            "dev-develop": {
+                "name": "strg/spunq3-poll",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-poll.git",
+                    "reference": "d416a795c07b5256a95f2a5a3e33d6f9dcf7fd56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-poll/zipball/d416a795c07b5256a95f2a5a3e33d6f9dcf7fd56",
+                    "reference": "d416a795c07b5256a95f2a5a3e33d6f9dcf7fd56",
+                    "shasum": ""
+                },
+                "time": "2018-06-15T07:59:08+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 232
+            },
+            "dev-main": {
+                "name": "strg/spunq3-poll",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-poll.git",
+                    "reference": "24e58a6c56dddf046e48669363ad0d04a78e13f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-poll/zipball/24e58a6c56dddf046e48669363ad0d04a78e13f3",
+                    "reference": "24e58a6c56dddf046e48669363ad0d04a78e13f3",
+                    "shasum": ""
+                },
+                "time": "2024-06-06T14:50:00+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 233
+            },
+            "dev-test": {
+                "name": "strg/spunq3-poll",
+                "version": "dev-test",
+                "version_normalized": "dev-test",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-poll.git",
+                    "reference": "bb804bad86465e4525831612d941262273525f68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-poll/zipball/bb804bad86465e4525831612d941262273525f68",
+                    "reference": "bb804bad86465e4525831612d941262273525f68",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:09+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/test",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 234
+            }
+        }
+    }
+}
