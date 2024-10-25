@@ -3,30 +3,6 @@
         "strg/spunq3-opauth": [
             {
                 "name": "strg/spunq3-opauth",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-opauth.git",
-                    "reference": "c506e21a6d6d228b9daf72c8417e5fd12d83decf"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-opauth/zipball/c506e21a6d6d228b9daf72c8417e5fd12d83decf",
-                    "reference": "c506e21a6d6d228b9daf72c8417e5fd12d83decf",
-                    "shasum": ""
-                },
-                "time": "2021-07-15T11:50:00+00:00",
-                "default-branch": true,
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/develop",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 228
-            },
-            {
-                "name": "strg/spunq3-opauth",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
@@ -41,12 +17,9 @@
                     "shasum": ""
                 },
                 "time": "2024-07-10T10:21:11+00:00",
+                "default-branch": true,
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 229
+                "uid": 210
             }
         ]
     }

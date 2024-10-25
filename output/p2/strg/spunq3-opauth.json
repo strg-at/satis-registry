@@ -18,11 +18,7 @@
                 },
                 "time": "2021-07-15T11:52:02+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.2",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 225
+                "uid": 207
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -41,11 +37,7 @@
                 },
                 "time": "2024-06-06T14:48:11+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 226
+                "uid": 208
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -64,11 +56,7 @@
                 },
                 "time": "2024-07-10T10:21:11+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
-                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
-                },
-                "uid": 227
+                "uid": 209
             }
         ]
     }

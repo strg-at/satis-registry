@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "strg/spunq3-compressors": {
+            "1.0.0": {
+                "name": "strg/spunq3-compressors",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-compressors.git",
+                    "reference": "4b8bd723a9e2fa36f99b8c843e228b1eff69213f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-compressors/zipball/4b8bd723a9e2fa36f99b8c843e228b1eff69213f",
+                    "reference": "4b8bd723a9e2fa36f99b8c843e228b1eff69213f",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:47+00:00",
+                "type": "spunq3-module",
+                "uid": 93
+            },
+            "dev-main": {
+                "name": "strg/spunq3-compressors",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-compressors.git",
+                    "reference": "4b8bd723a9e2fa36f99b8c843e228b1eff69213f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-compressors/zipball/4b8bd723a9e2fa36f99b8c843e228b1eff69213f",
+                    "reference": "4b8bd723a9e2fa36f99b8c843e228b1eff69213f",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:49:47+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "uid": 94
+            }
+        }
+    }
+}

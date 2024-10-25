@@ -3,30 +3,6 @@
         "strg/spunq3-mail": [
             {
                 "name": "strg/spunq3-mail",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-mail.git",
-                    "reference": "13a2ac3ef0bef4094cf3e6f1eab1f83de576ea26"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-mail/zipball/13a2ac3ef0bef4094cf3e6f1eab1f83de576ea26",
-                    "reference": "13a2ac3ef0bef4094cf3e6f1eab1f83de576ea26",
-                    "shasum": ""
-                },
-                "time": "2020-04-07T14:48:40+00:00",
-                "default-branch": true,
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-mail/tree/develop",
-                    "issues": "https://github.com/strg-at/spunq3-mail/issues"
-                },
-                "uid": 200
-            },
-            {
-                "name": "strg/spunq3-mail",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
@@ -41,12 +17,9 @@
                     "shasum": ""
                 },
                 "time": "2020-05-05T09:53:15+00:00",
+                "default-branch": true,
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-mail/tree/1.0.1",
-                    "issues": "https://github.com/strg-at/spunq3-mail/issues"
-                },
-                "uid": 201
+                "uid": 186
             }
         ]
     }

@@ -3,30 +3,6 @@
         "strg/spunq3-yui": [
             {
                 "name": "strg/spunq3-yui",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-hg-yui.git",
-                    "reference": "448aabe45f6ad476497f84c2db494ef161407c82"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-hg-yui/zipball/448aabe45f6ad476497f84c2db494ef161407c82",
-                    "reference": "448aabe45f6ad476497f84c2db494ef161407c82",
-                    "shasum": ""
-                },
-                "time": "2017-12-21T15:36:48+00:00",
-                "default-branch": true,
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
-                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
-                },
-                "uid": 293
-            },
-            {
-                "name": "strg/spunq3-yui",
                 "version": "dev-legacy/spunq-3.0.2",
                 "version_normalized": "dev-legacy/spunq-3.0.2",
                 "source": {
@@ -42,11 +18,7 @@
                 },
                 "time": "2017-12-21T15:36:48+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
-                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
-                },
-                "uid": 294
+                "uid": 265
             },
             {
                 "name": "strg/spunq3-yui",
@@ -65,11 +37,7 @@
                 },
                 "time": "2017-12-21T15:36:48+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/legacy/svn-0.2.0",
-                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
-                },
-                "uid": 295
+                "uid": 266
             },
             {
                 "name": "strg/spunq3-yui",
@@ -88,11 +56,7 @@
                 },
                 "time": "2017-12-21T15:36:49+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/legacy/svn-0.3.0",
-                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
-                },
-                "uid": 296
+                "uid": 267
             },
             {
                 "name": "strg/spunq3-yui",
@@ -110,12 +74,9 @@
                     "shasum": ""
                 },
                 "time": "2017-12-21T15:36:48+00:00",
+                "default-branch": true,
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
-                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
-                },
-                "uid": 297
+                "uid": 268
             },
             {
                 "name": "strg/spunq3-yui",
@@ -134,11 +95,7 @@
                 },
                 "time": "2018-08-20T14:52:40+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
-                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
-                },
-                "uid": 298
+                "uid": 269
             }
         ]
     }

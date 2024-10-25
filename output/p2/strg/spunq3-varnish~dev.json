@@ -18,11 +18,7 @@
                 },
                 "time": "2017-12-21T12:50:14+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-varnish/tree/feature/spunq3-compatibility",
-                    "issues": "https://github.com/strg-at/spunq3-varnish/issues"
-                },
-                "uid": 281
+                "uid": 254
             }
         ]
     }

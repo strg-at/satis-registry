@@ -1,0 +1,184 @@
+{
+    "packages": {
+        "strg/spunq3-media": {
+            "0.2.6": {
+                "name": "strg/spunq3-media",
+                "version": "0.2.6",
+                "version_normalized": "0.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "879bda11ece52e1c85e0144047084bb97fd4c720"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/879bda11ece52e1c85e0144047084bb97fd4c720",
+                    "reference": "879bda11ece52e1c85e0144047084bb97fd4c720",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "uid": 191
+            },
+            "1.0.0": {
+                "name": "strg/spunq3-media",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "ed4ae9a40ffb0125013acc1608ada49dbb88deea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/ed4ae9a40ffb0125013acc1608ada49dbb88deea",
+                    "reference": "ed4ae9a40ffb0125013acc1608ada49dbb88deea",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "uid": 192
+            },
+            "1.1.0": {
+                "name": "strg/spunq3-media",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "9d1f1eeadce49bd429ec2620adcc0f0ba2ca4ccd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/9d1f1eeadce49bd429ec2620adcc0f0ba2ca4ccd",
+                    "reference": "9d1f1eeadce49bd429ec2620adcc0f0ba2ca4ccd",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "uid": 193
+            },
+            "1.2.0": {
+                "name": "strg/spunq3-media",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "ba5415641183c37a6759f7c4f1383ec15788769d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/ba5415641183c37a6759f7c4f1383ec15788769d",
+                    "reference": "ba5415641183c37a6759f7c4f1383ec15788769d",
+                    "shasum": ""
+                },
+                "time": "2024-01-04T12:18:44+00:00",
+                "type": "spunq3-module",
+                "uid": 194
+            },
+            "1.3.0": {
+                "name": "strg/spunq3-media",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "ae81e0270c64bd92ca98048ad269a3a1e99874c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/ae81e0270c64bd92ca98048ad269a3a1e99874c4",
+                    "reference": "ae81e0270c64bd92ca98048ad269a3a1e99874c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-07T09:12:26+00:00",
+                "type": "spunq3-module",
+                "uid": 195
+            },
+            "dev-feature/animated-gifs": {
+                "name": "strg/spunq3-media",
+                "version": "dev-feature/animated-gifs",
+                "version_normalized": "dev-feature/animated-gifs",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "41a2b2dbaae37d90fec090ecbdea17354f5f0ce5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/41a2b2dbaae37d90fec090ecbdea17354f5f0ce5",
+                    "reference": "41a2b2dbaae37d90fec090ecbdea17354f5f0ce5",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "uid": 196
+            },
+            "dev-legacy/spunq-3.0.2": {
+                "name": "strg/spunq3-media",
+                "version": "dev-legacy/spunq-3.0.2",
+                "version_normalized": "dev-legacy/spunq-3.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "ed4ae9a40ffb0125013acc1608ada49dbb88deea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/ed4ae9a40ffb0125013acc1608ada49dbb88deea",
+                    "reference": "ed4ae9a40ffb0125013acc1608ada49dbb88deea",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "uid": 197
+            },
+            "dev-legacy/svn-0.2.6": {
+                "name": "strg/spunq3-media",
+                "version": "dev-legacy/svn-0.2.6",
+                "version_normalized": "dev-legacy/svn-0.2.6",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "879bda11ece52e1c85e0144047084bb97fd4c720"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/879bda11ece52e1c85e0144047084bb97fd4c720",
+                    "reference": "879bda11ece52e1c85e0144047084bb97fd4c720",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:07+00:00",
+                "type": "spunq3-module",
+                "uid": 198
+            },
+            "dev-main": {
+                "name": "strg/spunq3-media",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "ae81e0270c64bd92ca98048ad269a3a1e99874c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/ae81e0270c64bd92ca98048ad269a3a1e99874c4",
+                    "reference": "ae81e0270c64bd92ca98048ad269a3a1e99874c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-07T09:12:26+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "uid": 199
+            }
+        }
+    }
+}

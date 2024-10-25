@@ -1,0 +1,121 @@
+{
+    "packages": {
+        "strg/spunq3-search-svn": {
+            "0.1.0": {
+                "name": "strg/spunq3-search-svn",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-svn-search.git",
+                    "reference": "b08dbcb7ca636b8eb061ee47c74a5583cdfd58ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-svn-search/zipball/b08dbcb7ca636b8eb061ee47c74a5583cdfd58ca",
+                    "reference": "b08dbcb7ca636b8eb061ee47c74a5583cdfd58ca",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:05:37+00:00",
+                "type": "spunq3-module",
+                "uid": 234
+            },
+            "0.1.x-dev": {
+                "name": "strg/spunq3-search-svn",
+                "version": "0.1.x-dev",
+                "version_normalized": "0.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-svn-search.git",
+                    "reference": "c155223ee7e7037cf9c93a4821f74bca2188b54e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-svn-search/zipball/c155223ee7e7037cf9c93a4821f74bca2188b54e",
+                    "reference": "c155223ee7e7037cf9c93a4821f74bca2188b54e",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:05:38+00:00",
+                "type": "spunq3-module",
+                "uid": 235
+            },
+            "0.2.0": {
+                "name": "strg/spunq3-search-svn",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-svn-search.git",
+                    "reference": "f326cd36d1273909b7a0104b5af5437628b44300"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-svn-search/zipball/f326cd36d1273909b7a0104b5af5437628b44300",
+                    "reference": "f326cd36d1273909b7a0104b5af5437628b44300",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:05:37+00:00",
+                "type": "spunq3-module",
+                "uid": 236
+            },
+            "0.2.1": {
+                "name": "strg/spunq3-search-svn",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-svn-search.git",
+                    "reference": "e46754533a3cdb6a2243ede522af4325df3d5306"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-svn-search/zipball/e46754533a3cdb6a2243ede522af4325df3d5306",
+                    "reference": "e46754533a3cdb6a2243ede522af4325df3d5306",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:05:37+00:00",
+                "type": "spunq3-module",
+                "uid": 237
+            },
+            "0.2.2": {
+                "name": "strg/spunq3-search-svn",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-svn-search.git",
+                    "reference": "59df7ce934334314dfa56479d7f14180fa7dc4cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-svn-search/zipball/59df7ce934334314dfa56479d7f14180fa7dc4cd",
+                    "reference": "59df7ce934334314dfa56479d7f14180fa7dc4cd",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:05:38+00:00",
+                "type": "spunq3-module",
+                "uid": 238
+            },
+            "dev-main": {
+                "name": "strg/spunq3-search-svn",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-svn-search.git",
+                    "reference": "5ff900f394c8ceefe9d8f08a6b0399aaf913ba3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-svn-search/zipball/5ff900f394c8ceefe9d8f08a6b0399aaf913ba3c",
+                    "reference": "5ff900f394c8ceefe9d8f08a6b0399aaf913ba3c",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T16:05:38+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "uid": 239
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "packages": {
+        "strg/spunq3-varnish": {
+            "dev-feature/spunq3-compatibility": {
+                "name": "strg/spunq3-varnish",
+                "version": "dev-feature/spunq3-compatibility",
+                "version_normalized": "dev-feature/spunq3-compatibility",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-varnish.git",
+                    "reference": "56390dd070093530156455bdc4cd51c6690041d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-varnish/zipball/56390dd070093530156455bdc4cd51c6690041d5",
+                    "reference": "56390dd070093530156455bdc4cd51c6690041d5",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:14+00:00",
+                "type": "spunq3-module",
+                "uid": 254
+            }
+        }
+    }
+}

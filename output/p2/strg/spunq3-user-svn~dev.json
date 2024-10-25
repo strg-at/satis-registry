@@ -18,11 +18,7 @@
                 },
                 "time": "2017-12-21T16:05:49+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.1",
-                    "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
-                },
-                "uid": 275
+                "uid": 248
             },
             {
                 "name": "strg/spunq3-user-svn",
@@ -41,11 +37,7 @@
                 },
                 "time": "2017-12-21T16:05:49+00:00",
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-svn-user/tree/0.2",
-                    "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
-                },
-                "uid": 277
+                "uid": 250
             },
             {
                 "name": "strg/spunq3-user-svn",
@@ -65,11 +57,7 @@
                 "time": "2018-06-12T12:07:00+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-svn-user/tree/1.0.0",
-                    "issues": "https://github.com/strg-at/spunq3-svn-user/issues"
-                },
-                "uid": 280
+                "uid": 253
             }
         ]
     }
