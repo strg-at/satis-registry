@@ -18,7 +18,11 @@
                 },
                 "time": "2018-06-15T07:59:08+00:00",
                 "type": "spunq3-module",
-                "uid": 211
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 209
             },
             {
                 "name": "strg/spunq3-poll",
@@ -37,7 +41,11 @@
                 },
                 "time": "2024-06-06T14:50:00+00:00",
                 "type": "spunq3-module",
-                "uid": 212
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-poll/issues"
+                },
+                "uid": 210
             }
         ]
     }

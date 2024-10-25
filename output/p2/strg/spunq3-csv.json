@@ -18,7 +18,11 @@
                 },
                 "time": "2017-12-21T12:49:49+00:00",
                 "type": "spunq3-module",
-                "uid": 109
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 108
             },
             {
                 "name": "strg/spunq3-csv",
@@ -40,7 +44,11 @@
                 },
                 "time": "2024-07-25T09:25:32+00:00",
                 "type": "spunq3-module",
-                "uid": 110
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/2.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-csv/issues"
+                },
+                "uid": 109
             }
         ]
     }

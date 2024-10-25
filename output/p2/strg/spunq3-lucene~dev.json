@@ -3,28 +3,6 @@
         "strg/spunq3-lucene": [
             {
                 "name": "strg/spunq3-lucene",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "94a8970abc7928da669f1072b89e020770c40593"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/94a8970abc7928da669f1072b89e020770c40593",
-                    "reference": "94a8970abc7928da669f1072b89e020770c40593",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.4"
-                },
-                "time": "2024-10-23T09:35:43+00:00",
-                "type": "spunq3-module",
-                "uid": 177
-            },
-            {
-                "name": "strg/spunq3-lucene",
                 "version": "dev-feature/FURM-8-sort",
                 "version_normalized": "dev-feature/FURM-8-sort",
                 "source": {
@@ -40,7 +18,11 @@
                 },
                 "time": "2023-04-13T04:12:54+00:00",
                 "type": "spunq3-module",
-                "uid": 178
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 176
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -59,7 +41,11 @@
                 },
                 "time": "2020-09-22T10:55:25+00:00",
                 "type": "spunq3-module",
-                "uid": 179
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 177
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -78,7 +64,11 @@
                 },
                 "time": "2017-12-21T12:50:04+00:00",
                 "type": "spunq3-module",
-                "uid": 180
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/legacy/svn-0.3.0",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 178
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -101,7 +91,11 @@
                 "time": "2024-10-23T09:36:13+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 181
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/main",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 179
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -123,7 +117,11 @@
                 },
                 "time": "2024-10-25T12:11:16+00:00",
                 "type": "spunq3-module",
-                "uid": 182
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 180
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -142,7 +140,11 @@
                 },
                 "time": "2019-06-06T09:47:20+00:00",
                 "type": "spunq3-module",
-                "uid": 183
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 181
             }
         ]
     }

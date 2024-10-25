@@ -18,7 +18,11 @@
                 },
                 "time": "2017-12-21T12:50:13+00:00",
                 "type": "spunq3-module",
-                "uid": 241
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 239
             },
             {
                 "name": "strg/spunq3-tagging",
@@ -40,7 +44,11 @@
                 },
                 "time": "2024-06-07T10:06:59+00:00",
                 "type": "spunq3-module",
-                "uid": 242
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 240
             },
             {
                 "name": "strg/spunq3-tagging",
@@ -59,7 +67,11 @@
                 },
                 "time": "2018-08-22T16:43:24+00:00",
                 "type": "spunq3-module",
-                "uid": 243
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 241
             }
         ]
     }

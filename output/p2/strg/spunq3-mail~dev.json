@@ -19,7 +19,11 @@
                 "time": "2020-05-05T09:53:15+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 186
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-mail/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-mail/issues"
+                },
+                "uid": 184
             }
         ]
     }

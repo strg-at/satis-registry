@@ -18,7 +18,11 @@
                 },
                 "time": "2017-12-21T15:36:43+00:00",
                 "type": "spunq3-module",
-                "uid": 189
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-hg-mail/tree/0.2.3",
+                    "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
+                },
+                "uid": 187
             },
             {
                 "name": "strg/spunq3-mail-hg",
@@ -38,7 +42,11 @@
                 "time": "2017-12-21T15:36:43+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 190
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-hg-mail/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-hg-mail/issues"
+                },
+                "uid": 188
             }
         ]
     }

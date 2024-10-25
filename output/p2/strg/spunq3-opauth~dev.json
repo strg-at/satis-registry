@@ -19,7 +19,11 @@
                 "time": "2024-07-10T10:21:11+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 210
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
+                    "issues": "https://github.com/strg-at/spunq3-opauth/issues"
+                },
+                "uid": 208
             }
         ]
     }

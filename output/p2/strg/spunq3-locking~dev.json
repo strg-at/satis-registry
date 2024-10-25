@@ -18,7 +18,11 @@
                 },
                 "time": "2017-12-21T12:50:00+00:00",
                 "type": "spunq3-module",
-                "uid": 162
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/3.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 161
             },
             {
                 "name": "strg/spunq3-locking",
@@ -37,7 +41,11 @@
                 },
                 "time": "2017-12-21T12:50:00+00:00",
                 "type": "spunq3-module",
-                "uid": 163
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/legacy/svn-0.2.3",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 162
             },
             {
                 "name": "strg/spunq3-locking",
@@ -57,7 +65,11 @@
                 "time": "2021-05-18T14:55:23+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 164
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/1.1.1",
+                    "issues": "https://github.com/strg-at/spunq3-locking/issues"
+                },
+                "uid": 163
             }
         ]
     }

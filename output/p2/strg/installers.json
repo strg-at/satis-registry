@@ -37,6 +37,10 @@
                 "license": [
                     "MIT"
                 ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
                 "uid": 1
             },
             {
@@ -75,6 +79,10 @@
                 "license": [
                     "MIT"
                 ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
                 "uid": 2
             },
             {
@@ -113,6 +121,10 @@
                 "license": [
                     "MIT"
                 ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
                 "uid": 3
             },
             {
@@ -151,6 +163,10 @@
                 "license": [
                     "MIT"
                 ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.2.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
                 "uid": 4
             }
         ]

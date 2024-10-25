@@ -66,7 +66,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 270
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 268
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -133,7 +137,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 271
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 269
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -203,7 +211,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 272
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.2",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 270
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -273,7 +285,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 273
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 271
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -343,7 +359,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 274
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.1",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 272
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -413,7 +433,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 275
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.0",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 273
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -483,7 +507,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 276
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.1",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 274
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -553,7 +581,11 @@
                     }
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "uid": 277
+                "support": {
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.2",
+                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
+                },
+                "uid": 275
             }
         ]
     }

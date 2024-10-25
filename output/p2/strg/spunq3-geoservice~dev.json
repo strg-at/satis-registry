@@ -18,7 +18,11 @@
                 },
                 "time": "2017-12-21T12:49:54+00:00",
                 "type": "spunq3-module",
-                "uid": 140
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-geoservice/tree/feature/debug-ip",
+                    "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
+                },
+                "uid": 139
             },
             {
                 "name": "strg/spunq3-geoservice",
@@ -37,7 +41,11 @@
                 },
                 "time": "2018-08-01T13:44:28+00:00",
                 "type": "spunq3-module",
-                "uid": 141
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-geoservice/tree/legacy/svn-0.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
+                },
+                "uid": 140
             },
             {
                 "name": "strg/spunq3-geoservice",
@@ -57,7 +65,11 @@
                 "time": "2021-09-14T09:37:17+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 142
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-geoservice/tree/2.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-geoservice/issues"
+                },
+                "uid": 141
             }
         ]
     }

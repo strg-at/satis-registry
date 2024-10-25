@@ -1,0 +1,217 @@
+{
+    "packages": {
+        "strg/installers": {
+            "1.0.0": {
+                "name": "strg/installers",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/composer-installers.git",
+                    "reference": "f437873963f7c5f4041057303fe7650942ee1e34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/composer-installers/zipball/f437873963f7c5f4041057303fe7650942ee1e34",
+                    "reference": "f437873963f7c5f4041057303fe7650942ee1e34",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.3"
+                },
+                "time": "2017-10-13T14:48:25+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Strg\\Composer\\InstallerPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Strg\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
+                "uid": 1
+            },
+            "1.0.1": {
+                "name": "strg/installers",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/composer-installers.git",
+                    "reference": "b0e1dab583e4a7e3a347b3036ebc65534a62497a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/composer-installers/zipball/b0e1dab583e4a7e3a347b3036ebc65534a62497a",
+                    "reference": "b0e1dab583e4a7e3a347b3036ebc65534a62497a",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.3"
+                },
+                "time": "2017-12-21T17:40:06+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Strg\\Composer\\InstallerPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Strg\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
+                "uid": 2
+            },
+            "1.1.0": {
+                "name": "strg/installers",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/composer-installers.git",
+                    "reference": "af140776b80d0e19d5dbbc4ddd2961cdfbf057f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/composer-installers/zipball/af140776b80d0e19d5dbbc4ddd2961cdfbf057f4",
+                    "reference": "af140776b80d0e19d5dbbc4ddd2961cdfbf057f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1|^2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.3"
+                },
+                "time": "2020-10-27T10:03:59+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Strg\\Composer\\InstallerPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Strg\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
+                "uid": 3
+            },
+            "1.2.0": {
+                "name": "strg/installers",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/composer-installers.git",
+                    "reference": "72269fa836495b60b19b1015d5b21a3b2f0324db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/composer-installers/zipball/72269fa836495b60b19b1015d5b21a3b2f0324db",
+                    "reference": "72269fa836495b60b19b1015d5b21a3b2f0324db",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1|^2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "^2.0.0"
+                },
+                "time": "2020-11-06T12:39:17+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Strg\\Composer\\InstallerPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Strg\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.2.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
+                "uid": 4
+            },
+            "dev-main": {
+                "name": "strg/installers",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/composer-installers.git",
+                    "reference": "72269fa836495b60b19b1015d5b21a3b2f0324db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/composer-installers/zipball/72269fa836495b60b19b1015d5b21a3b2f0324db",
+                    "reference": "72269fa836495b60b19b1015d5b21a3b2f0324db",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1|^2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "^2.0.0"
+                },
+                "time": "2020-11-06T12:39:17+00:00",
+                "default-branch": true,
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Strg\\Composer\\InstallerPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Strg\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.2.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
+                "uid": 5
+            }
+        }
+    }
+}

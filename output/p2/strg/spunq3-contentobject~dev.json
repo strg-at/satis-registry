@@ -3,26 +3,6 @@
         "strg/spunq3-contentobject": [
             {
                 "name": "strg/spunq3-contentobject",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-contentobject.git",
-                    "reference": "e78058d6724247eab7acce98bcd0faa8c93bdbb7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-contentobject/zipball/e78058d6724247eab7acce98bcd0faa8c93bdbb7",
-                    "reference": "e78058d6724247eab7acce98bcd0faa8c93bdbb7",
-                    "shasum": ""
-                },
-                "time": "2017-12-21T12:49:48+00:00",
-                "default-branch": true,
-                "type": "spunq3-module",
-                "uid": 98
-            },
-            {
-                "name": "strg/spunq3-contentobject",
                 "version": "dev-legacy/spunq-3.0.2",
                 "version_normalized": "dev-legacy/spunq-3.0.2",
                 "source": {
@@ -38,7 +18,11 @@
                 },
                 "time": "2017-12-21T12:49:48+00:00",
                 "type": "spunq3-module",
-                "uid": 99
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-contentobject/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-contentobject/issues"
+                },
+                "uid": 98
             },
             {
                 "name": "strg/spunq3-contentobject",
@@ -57,7 +41,11 @@
                 },
                 "time": "2017-12-21T12:49:48+00:00",
                 "type": "spunq3-module",
-                "uid": 100
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-contentobject/tree/0.2.4",
+                    "issues": "https://github.com/strg-at/spunq3-contentobject/issues"
+                },
+                "uid": 99
             },
             {
                 "name": "strg/spunq3-contentobject",
@@ -75,8 +63,13 @@
                     "shasum": ""
                 },
                 "time": "2017-12-21T12:49:48+00:00",
+                "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 101
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-contentobject/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-contentobject/issues"
+                },
+                "uid": 100
             }
         ]
     }

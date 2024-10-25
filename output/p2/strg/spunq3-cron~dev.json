@@ -19,7 +19,11 @@
                 "time": "2022-02-24T14:34:13+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 108
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-cron/tree/1.1.3",
+                    "issues": "https://github.com/strg-at/spunq3-cron/issues"
+                },
+                "uid": 107
             }
         ]
     }

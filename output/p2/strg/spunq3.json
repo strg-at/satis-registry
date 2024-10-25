@@ -18,6 +18,10 @@
                 },
                 "time": "2019-09-20T11:40:38+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.10",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 6
             },
             {
@@ -37,6 +41,10 @@
                 },
                 "time": "2020-04-08T09:50:17+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.11",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 7
             },
             {
@@ -56,6 +64,10 @@
                 },
                 "time": "2020-04-22T11:41:11+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.12",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 8
             },
             {
@@ -75,6 +87,10 @@
                 },
                 "time": "2020-05-20T12:57:37+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.13",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 9
             },
             {
@@ -94,6 +110,10 @@
                 },
                 "time": "2020-06-25T12:54:20+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.14",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 10
             },
             {
@@ -113,6 +133,10 @@
                 },
                 "time": "2020-07-14T13:13:59+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.15",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 11
             },
             {
@@ -132,6 +156,10 @@
                 },
                 "time": "2020-07-30T06:51:40+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.16",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 12
             },
             {
@@ -151,6 +179,10 @@
                 },
                 "time": "2020-09-09T13:22:21+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.17",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 13
             },
             {
@@ -170,6 +202,10 @@
                 },
                 "time": "2020-09-22T10:54:11+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.18",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 14
             },
             {
@@ -189,6 +225,10 @@
                 },
                 "time": "2020-10-30T10:40:33+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.19",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 15
             },
             {
@@ -208,6 +248,10 @@
                 },
                 "time": "2020-11-10T15:39:33+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.20",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 16
             },
             {
@@ -227,6 +271,10 @@
                 },
                 "time": "2021-02-11T15:00:15+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.21",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 17
             },
             {
@@ -246,6 +294,10 @@
                 },
                 "time": "2021-02-16T12:50:11+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.22",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 18
             },
             {
@@ -265,6 +317,10 @@
                 },
                 "time": "2021-03-03T16:05:35+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.23",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 19
             },
             {
@@ -284,6 +340,10 @@
                 },
                 "time": "2021-03-03T16:48:41+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.24",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 20
             },
             {
@@ -303,6 +363,10 @@
                 },
                 "time": "2021-03-04T12:14:30+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.25",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 21
             },
             {
@@ -322,6 +386,10 @@
                 },
                 "time": "2021-03-04T16:00:38+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.26",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 22
             },
             {
@@ -341,6 +409,10 @@
                 },
                 "time": "2021-03-10T14:15:10+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.27",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 23
             },
             {
@@ -360,6 +432,10 @@
                 },
                 "time": "2021-03-16T10:23:24+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.28",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 24
             },
             {
@@ -379,6 +455,10 @@
                 },
                 "time": "2021-03-22T15:44:59+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.29",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 25
             },
             {
@@ -398,6 +478,10 @@
                 },
                 "time": "2018-05-02T09:54:24+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.3",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 26
             },
             {
@@ -417,6 +501,10 @@
                 },
                 "time": "2021-04-16T07:43:46+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.30",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 27
             },
             {
@@ -436,6 +524,10 @@
                 },
                 "time": "2021-04-16T07:42:26+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.30-php5",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 28
             },
             {
@@ -455,6 +547,10 @@
                 },
                 "time": "2021-04-20T08:11:28+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.31",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 29
             },
             {
@@ -472,8 +568,12 @@
                     "reference": "3100d4997b667f2176ea46c9c0375035c05d8c97",
                     "shasum": ""
                 },
-                "time": "2021-04-20T08:11:28+00:00",
+                "time": "2021-04-20T08:13:51+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.31-RC1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 30
             },
             {
@@ -493,6 +593,10 @@
                 },
                 "time": "2021-04-21T10:44:22+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.32",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 31
             },
             {
@@ -510,8 +614,12 @@
                     "reference": "d9653d1eece10e513a416273aad71eb89430f91c",
                     "shasum": ""
                 },
-                "time": "2021-04-21T10:44:22+00:00",
+                "time": "2021-04-21T11:10:01+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.32-RC1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 32
             },
             {
@@ -531,6 +639,10 @@
                 },
                 "time": "2021-04-22T14:07:57+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.33",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 33
             },
             {
@@ -550,6 +662,10 @@
                 },
                 "time": "2021-04-29T09:36:57+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.33-RC1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 34
             },
             {
@@ -569,6 +685,10 @@
                 },
                 "time": "2021-04-29T09:33:59+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.34",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 35
             },
             {
@@ -588,6 +708,10 @@
                 },
                 "time": "2021-07-06T10:31:47+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.35",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 36
             },
             {
@@ -605,8 +729,12 @@
                     "reference": "0d3b2ce3197e085172f37a2ce751188d4c2d827c",
                     "shasum": ""
                 },
-                "time": "2021-04-21T15:21:27+00:00",
+                "time": "2021-07-06T10:35:49+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.35-RC1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 37
             },
             {
@@ -626,6 +754,10 @@
                 },
                 "time": "2021-08-26T08:51:45+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.36",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 38
             },
             {
@@ -643,8 +775,12 @@
                     "reference": "0353145e6269a1016360d7420fabbcb1934ca80c",
                     "shasum": ""
                 },
-                "time": "2021-08-26T08:29:32+00:00",
+                "time": "2021-08-26T08:52:24+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.36-RC1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 39
             },
             {
@@ -664,6 +800,10 @@
                 },
                 "time": "2022-04-14T10:29:22+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.37",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 40
             },
             {
@@ -683,6 +823,10 @@
                 },
                 "time": "2022-04-14T10:23:47+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.37-RC1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 41
             },
             {
@@ -702,6 +846,10 @@
                 },
                 "time": "2022-07-11T14:58:17+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.37-RC2",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 42
             },
             {
@@ -721,6 +869,10 @@
                 },
                 "time": "2022-07-11T15:07:52+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.38",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 43
             },
             {
@@ -740,6 +892,10 @@
                 },
                 "time": "2018-06-13T08:36:01+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.4",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 44
             },
             {
@@ -759,6 +915,10 @@
                 },
                 "time": "2018-08-29T15:42:05+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.5",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 45
             },
             {
@@ -778,6 +938,10 @@
                 },
                 "time": "2018-10-04T10:41:48+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.6",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 46
             },
             {
@@ -797,6 +961,10 @@
                 },
                 "time": "2018-11-28T14:40:41+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.7",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 47
             },
             {
@@ -816,6 +984,10 @@
                 },
                 "time": "2019-08-28T09:31:48+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.8",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 48
             },
             {
@@ -835,6 +1007,10 @@
                 },
                 "time": "2019-09-02T13:29:23+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.0.9",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 49
             },
             {
@@ -854,6 +1030,10 @@
                 },
                 "time": "2018-05-02T09:47:14+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 50
             },
             {
@@ -873,6 +1053,10 @@
                 },
                 "time": "2018-05-17T08:45:03+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.2",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 51
             },
             {
@@ -892,6 +1076,10 @@
                 },
                 "time": "2018-08-23T14:30:13+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.3",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 52
             },
             {
@@ -911,6 +1099,10 @@
                 },
                 "time": "2018-08-29T15:42:56+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.4",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 53
             },
             {
@@ -930,6 +1122,10 @@
                 },
                 "time": "2019-08-28T09:34:29+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.5",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 54
             },
             {
@@ -949,6 +1145,10 @@
                 },
                 "time": "2022-04-14T10:30:11+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.6",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 55
             },
             {
@@ -968,6 +1168,10 @@
                 },
                 "time": "2022-04-14T12:50:09+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/3.1.7",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 56
             },
             {
@@ -987,6 +1191,10 @@
                 },
                 "time": "2023-02-08T10:53:03+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/4.0.0",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 57
             },
             {
@@ -1006,6 +1214,10 @@
                 },
                 "time": "2024-06-06T14:44:15+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/4.1.0",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 58
             },
             {
@@ -1025,6 +1237,10 @@
                 },
                 "time": "2024-08-01T14:50:46+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/4.1.1",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 59
             },
             {
@@ -1044,6 +1260,10 @@
                 },
                 "time": "2024-07-25T14:01:04+00:00",
                 "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/5.0.0",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
                 "uid": 60
             }
         ]

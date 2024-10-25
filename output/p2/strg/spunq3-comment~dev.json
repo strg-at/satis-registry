@@ -18,6 +18,10 @@
                 },
                 "time": "2017-12-21T12:49:46+00:00",
                 "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-comment/tree/feature/rating",
+                    "issues": "https://github.com/strg-at/spunq3-comment/issues"
+                },
                 "uid": 90
             },
             {
@@ -37,6 +41,10 @@
                 },
                 "time": "2017-12-21T12:49:46+00:00",
                 "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-comment/tree/0.2.4",
+                    "issues": "https://github.com/strg-at/spunq3-comment/issues"
+                },
                 "uid": 91
             },
             {
@@ -57,6 +65,10 @@
                 "time": "2017-12-21T12:49:46+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-comment/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-comment/issues"
+                },
                 "uid": 92
             }
         ]

@@ -19,7 +19,11 @@
                 "time": "2017-12-21T12:49:55+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 147
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-jira/tree/main",
+                    "issues": "https://github.com/strg-at/spunq3-jira/issues"
+                },
+                "uid": 146
             }
         ]
     }

@@ -18,7 +18,11 @@
                 },
                 "time": "2017-12-21T12:50:07+00:00",
                 "type": "spunq3-module",
-                "uid": 196
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/feature/animated-gifs",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 194
             },
             {
                 "name": "strg/spunq3-media",
@@ -37,7 +41,11 @@
                 },
                 "time": "2017-12-21T12:50:07+00:00",
                 "type": "spunq3-module",
-                "uid": 197
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 195
             },
             {
                 "name": "strg/spunq3-media",
@@ -56,7 +64,11 @@
                 },
                 "time": "2017-12-21T12:50:07+00:00",
                 "type": "spunq3-module",
-                "uid": 198
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 196
             },
             {
                 "name": "strg/spunq3-media",
@@ -79,7 +91,11 @@
                 "time": "2024-06-07T09:12:26+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 199
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.3.0",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 197
             }
         ]
     }

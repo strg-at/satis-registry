@@ -19,7 +19,11 @@
                 "time": "2017-12-21T12:50:13+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 240
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-spunqfs/tree/main",
+                    "issues": "https://github.com/strg-at/spunq3-spunqfs/issues"
+                },
+                "uid": 238
             }
         ]
     }

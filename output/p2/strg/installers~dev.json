@@ -38,6 +38,10 @@
                 "license": [
                     "MIT"
                 ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.2.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
                 "uid": 5
             }
         ]

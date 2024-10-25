@@ -18,7 +18,11 @@
                 },
                 "time": "2018-08-20T14:52:40+00:00",
                 "type": "spunq3-module",
-                "uid": 263
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.7",
+                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
+                },
+                "uid": 261
             },
             {
                 "name": "strg/spunq3-yui",
@@ -37,7 +41,11 @@
                 },
                 "time": "2017-12-21T15:36:48+00:00",
                 "type": "spunq3-module",
-                "uid": 264
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-hg-yui/tree/2.4.8",
+                    "issues": "https://github.com/strg-at/spunq3-hg-yui/issues"
+                },
+                "uid": 262
             }
         ]
     }

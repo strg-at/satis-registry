@@ -19,7 +19,11 @@
                 "time": "2024-08-27T07:35:53+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
-                "uid": 233
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-sass/tree/2.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-sass/issues"
+                },
+                "uid": 231
             }
         ]
     }
