@@ -36,6 +36,7 @@ jobs:
         with:
           app-id: ${{ secrets.STRG_SATIS_GITHUB_APP_ID }}
           private-key: ${{ secrets.STRG_SATIS_GITHUB_PEM }}
+          owner: ${{ github.repository_owner }}
 
       # https://github.com/marketplace/actions/satis-build-composer-repository
       - name: satis build
