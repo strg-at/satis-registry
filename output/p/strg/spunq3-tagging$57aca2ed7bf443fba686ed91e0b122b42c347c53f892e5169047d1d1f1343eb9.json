@@ -1,0 +1,128 @@
+{
+    "packages": {
+        "strg/spunq3-tagging": {
+            "1.0.0": {
+                "name": "strg/spunq3-tagging",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "e50b873382f24e9d5b16307f53be479d7033942f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/e50b873382f24e9d5b16307f53be479d7033942f",
+                    "reference": "e50b873382f24e9d5b16307f53be479d7033942f",
+                    "shasum": ""
+                },
+                "time": "2017-12-21T12:50:13+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 240
+            },
+            "1.0.1": {
+                "name": "strg/spunq3-tagging",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-07T10:06:59+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 241
+            },
+            "1.1.0": {
+                "name": "strg/spunq3-tagging",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "737d499c40bdfc88049ed6f2ff0c4b45e6d17a30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/737d499c40bdfc88049ed6f2ff0c4b45e6d17a30",
+                    "reference": "737d499c40bdfc88049ed6f2ff0c4b45e6d17a30",
+                    "shasum": ""
+                },
+                "time": "2018-08-22T16:43:24+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 242
+            },
+            "dev-legacy/spunq-3.0.2": {
+                "name": "strg/spunq3-tagging",
+                "version": "dev-legacy/spunq-3.0.2",
+                "version_normalized": "dev-legacy/spunq-3.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "reference": "b44339e28bffefcf9c11681fbda3443a23c3be70",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-07T10:06:59+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 243
+            },
+            "dev-main": {
+                "name": "strg/spunq3-tagging",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-tagging.git",
+                    "reference": "737d499c40bdfc88049ed6f2ff0c4b45e6d17a30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-tagging/zipball/737d499c40bdfc88049ed6f2ff0c4b45e6d17a30",
+                    "reference": "737d499c40bdfc88049ed6f2ff0c4b45e6d17a30",
+                    "shasum": ""
+                },
+                "time": "2018-08-22T16:43:24+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
+                    "issues": "https://github.com/strg-at/spunq3-tagging/issues"
+                },
+                "uid": 244
+            }
+        }
+    }
+}

@@ -22,7 +22,33 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 176
+                "uid": 177
+            },
+            {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-feature/INPRO-1630-add-README-and-pre-commit",
+                "version_normalized": "dev-feature/INPRO-1630-add-README-and-pre-commit",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "e15eb60dd0dc771cece6139126eb85a7b5d36676"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/e15eb60dd0dc771cece6139126eb85a7b5d36676",
+                    "reference": "e15eb60dd0dc771cece6139126eb85a7b5d36676",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2024-10-31T05:28:25+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/INPRO-1630-add-README-and-pre-commit",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 178
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -45,7 +71,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 177
+                "uid": 179
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -68,7 +94,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/legacy/svn-0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 178
+                "uid": 180
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -77,51 +103,25 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "08c001131f41e1626fa57ce9291ddf8e93b79415"
+                    "reference": "2b805b8fa925193036b4410af26e2b0b82c39dbe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/08c001131f41e1626fa57ce9291ddf8e93b79415",
-                    "reference": "08c001131f41e1626fa57ce9291ddf8e93b79415",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/2b805b8fa925193036b4410af26e2b0b82c39dbe",
+                    "reference": "2b805b8fa925193036b4410af26e2b0b82c39dbe",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2024-10-23T09:36:13+00:00",
+                "time": "2024-10-29T00:28:09+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 179
-            },
-            {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-renovate/pin-dependencies",
-                "version_normalized": "dev-renovate/pin-dependencies",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "7f27e159e1176e51696a34a48d0f33d5db563fbb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/7f27e159e1176e51696a34a48d0f33d5db563fbb",
-                    "reference": "7f27e159e1176e51696a34a48d0f33d5db563fbb",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": "8.3.13"
-                },
-                "time": "2024-10-25T12:11:16+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
-                "uid": 180
+                "uid": 181
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -144,7 +144,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 181
+                "uid": 182
             }
         ]
     }
