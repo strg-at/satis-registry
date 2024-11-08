@@ -8,25 +8,25 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-csv.git",
-                    "reference": "3868018cb393a97fa1cb5a329cc309b3dfe4aff0"
+                    "reference": "417e157c82335cc9592e79ac357e6b4af1809482"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/3868018cb393a97fa1cb5a329cc309b3dfe4aff0",
-                    "reference": "3868018cb393a97fa1cb5a329cc309b3dfe4aff0",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-csv/zipball/417e157c82335cc9592e79ac357e6b4af1809482",
+                    "reference": "417e157c82335cc9592e79ac357e6b4af1809482",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2024-07-25T09:25:32+00:00",
+                "time": "2024-11-08T08:51:11+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-csv/tree/2.0.0",
+                    "source": "https://github.com/strg-at/spunq3-csv/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-csv/issues"
                 },
-                "uid": 111
+                "uid": 110
             }
         ]
     }

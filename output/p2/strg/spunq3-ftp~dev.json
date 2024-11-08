@@ -25,7 +25,7 @@
                     "source": "https://github.com/strg-at/spunq3-ftp/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-ftp/issues"
                 },
-                "uid": 135
+                "uid": 134
             },
             {
                 "name": "strg/spunq3-ftp",
@@ -34,22 +34,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-ftp.git",
-                    "reference": "c68d5100bdaa595e885f3db52858e66a42f2da7d"
+                    "reference": "8479d8465025a811488c77c23f535ab75a589241"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-ftp/zipball/c68d5100bdaa595e885f3db52858e66a42f2da7d",
-                    "reference": "c68d5100bdaa595e885f3db52858e66a42f2da7d",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ftp/zipball/8479d8465025a811488c77c23f535ab75a589241",
+                    "reference": "8479d8465025a811488c77c23f535ab75a589241",
                     "shasum": ""
                 },
-                "time": "2017-12-21T12:49:53+00:00",
+                "time": "2024-11-08T08:51:43+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-ftp/tree/3.1.0",
+                    "source": "https://github.com/strg-at/spunq3-ftp/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-ftp/issues"
                 },
-                "uid": 136
+                "uid": 135
             }
         ]
     }

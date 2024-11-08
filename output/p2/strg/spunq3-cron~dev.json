@@ -8,22 +8,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-cron.git",
-                    "reference": "766ac627c4f10725bda4dff89719ba3133bf63e1"
+                    "reference": "8f4c54e6d7a9ffbc932b1e7edc8830dc91090367"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-cron/zipball/766ac627c4f10725bda4dff89719ba3133bf63e1",
-                    "reference": "766ac627c4f10725bda4dff89719ba3133bf63e1",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-cron/zipball/8f4c54e6d7a9ffbc932b1e7edc8830dc91090367",
+                    "reference": "8f4c54e6d7a9ffbc932b1e7edc8830dc91090367",
                     "shasum": ""
                 },
-                "time": "2022-02-24T14:34:13+00:00",
+                "time": "2024-11-08T08:53:16+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-cron/tree/1.1.3",
+                    "source": "https://github.com/strg-at/spunq3-cron/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-cron/issues"
                 },
-                "uid": 108
+                "uid": 107
             }
         ]
     }

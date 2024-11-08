@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-locking/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-locking/issues"
                 },
-                "uid": 162
+                "uid": 161
             },
             {
                 "name": "strg/spunq3-locking",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-locking/tree/legacy/svn-0.2.3",
                     "issues": "https://github.com/strg-at/spunq3-locking/issues"
                 },
-                "uid": 163
+                "uid": 162
             },
             {
                 "name": "strg/spunq3-locking",
@@ -54,22 +54,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-locking.git",
-                    "reference": "cfd2a57e19ebbf3a0fd501e422713a328f3238ac"
+                    "reference": "64d71023c526a785942d0e646a9fcfabcd025a78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/cfd2a57e19ebbf3a0fd501e422713a328f3238ac",
-                    "reference": "cfd2a57e19ebbf3a0fd501e422713a328f3238ac",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-locking/zipball/64d71023c526a785942d0e646a9fcfabcd025a78",
+                    "reference": "64d71023c526a785942d0e646a9fcfabcd025a78",
                     "shasum": ""
                 },
-                "time": "2021-05-18T14:55:23+00:00",
+                "time": "2024-11-08T08:51:22+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-locking/tree/1.1.1",
+                    "source": "https://github.com/strg-at/spunq3-locking/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-locking/issues"
                 },
-                "uid": 164
+                "uid": 163
             }
         ]
     }
