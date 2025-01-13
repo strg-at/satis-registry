@@ -323,6 +323,29 @@
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 74
+            },
+            {
+                "name": "strg/spunq3",
+                "version": "dev-task/INTINF-12910-iban-validator",
+                "version_normalized": "dev-task/INTINF-12910-iban-validator",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "374163996895c6eee708e022d2edb68679685350"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/374163996895c6eee708e022d2edb68679685350",
+                    "reference": "374163996895c6eee708e022d2edb68679685350",
+                    "shasum": ""
+                },
+                "time": "2025-01-09T08:15:31+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/task/INTINF-12910-iban-validator",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 75
             }
         ]
     }
