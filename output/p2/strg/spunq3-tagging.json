@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 244
+                "uid": 245
             },
             {
                 "name": "strg/spunq3-tagging",
@@ -48,7 +48,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 245
+                "uid": 246
             },
             {
                 "name": "strg/spunq3-tagging",
@@ -71,7 +71,7 @@
                     "source": "https://github.com/strg-at/spunq3-tagging/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-tagging/issues"
                 },
-                "uid": 246
+                "uid": 247
             }
         ]
     }
