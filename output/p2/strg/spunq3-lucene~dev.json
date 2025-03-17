@@ -25,7 +25,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-1639-update-params-syntax",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 178
+                "uid": 179
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -48,7 +48,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 179
+                "uid": 180
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -74,7 +74,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort-php8-upgrade",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 180
+                "uid": 181
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -97,7 +97,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 181
+                "uid": 182
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -120,7 +120,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/legacy/svn-0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 182
+                "uid": 183
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -129,25 +129,25 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "34d1f284891183636971c9ab418c4bf974a821d3"
+                    "reference": "ef2d74d0313580ea207e33dde07faaf4a7dba08b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/34d1f284891183636971c9ab418c4bf974a821d3",
-                    "reference": "34d1f284891183636971c9ab418c4bf974a821d3",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ef2d74d0313580ea207e33dde07faaf4a7dba08b",
+                    "reference": "ef2d74d0313580ea207e33dde07faaf4a7dba08b",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2025-03-13T12:12:30+00:00",
+                "time": "2025-03-16T00:31:45+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 183
+                "uid": 184
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -156,24 +156,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "9c31f4fbd34aa7f6557913aa5285db7edc799c8c"
+                    "reference": "10d7574fda6c7b8ec57ea0224ebeeded6e2f3933"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/9c31f4fbd34aa7f6557913aa5285db7edc799c8c",
-                    "reference": "9c31f4fbd34aa7f6557913aa5285db7edc799c8c",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/10d7574fda6c7b8ec57ea0224ebeeded6e2f3933",
+                    "reference": "10d7574fda6c7b8ec57ea0224ebeeded6e2f3933",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "8.4.4"
+                    "php": "8.4.5"
                 },
-                "time": "2025-03-13T12:14:47+00:00",
+                "time": "2025-03-16T00:32:09+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 184
+                "uid": 185
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -196,7 +196,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 185
+                "uid": 186
             }
         ]
     }
