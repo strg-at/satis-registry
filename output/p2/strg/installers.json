@@ -168,6 +168,48 @@
                     "issues": "https://github.com/strg-at/composer-installers/issues"
                 },
                 "uid": 4
+            },
+            {
+                "name": "strg/installers",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/composer-installers.git",
+                    "reference": "da8c691ec84dbdd32b91554318665c475bcae527"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/composer-installers/zipball/da8c691ec84dbdd32b91554318665c475bcae527",
+                    "reference": "da8c691ec84dbdd32b91554318665c475bcae527",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1|^2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "^2.0.0"
+                },
+                "time": "2025-03-17T14:55:33+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Strg\\Composer\\InstallerPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Strg\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/strg-at/composer-installers/tree/1.3.0",
+                    "issues": "https://github.com/strg-at/composer-installers/issues"
+                },
+                "uid": 5
             }
         ]
     }
