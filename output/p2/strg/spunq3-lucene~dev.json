@@ -31,18 +31,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "e7e088e148e502e80fa245ecf518fc72eb5f6cf9"
+                    "reference": "321b1da02c926322959da67503f0f8f6f6f80a04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/e7e088e148e502e80fa245ecf518fc72eb5f6cf9",
-                    "reference": "e7e088e148e502e80fa245ecf518fc72eb5f6cf9",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/321b1da02c926322959da67503f0f8f6f6f80a04",
+                    "reference": "321b1da02c926322959da67503f0f8f6f6f80a04",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2025-03-18T15:31:20+00:00",
+                "time": "2025-03-24T13:45:59+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort-php8-upgrade",
