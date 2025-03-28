@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/symfony-swagger-codegenerator-bundle.git",
-                    "reference": "893e2035f1953f230ef862229190de8356eb7cbb"
+                    "reference": "cea6cbcfce6b49d13b19e25e05b8ffccd4a5bd9d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/893e2035f1953f230ef862229190de8356eb7cbb",
-                    "reference": "893e2035f1953f230ef862229190de8356eb7cbb",
+                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/cea6cbcfce6b49d13b19e25e05b8ffccd4a5bd9d",
+                    "reference": "cea6cbcfce6b49d13b19e25e05b8ffccd4a5bd9d",
                     "shasum": ""
                 },
                 "require": {
@@ -28,9 +28,9 @@
                 },
                 "require-dev": {
                     "friendsofphp/php-cs-fixer": "^3",
-                    "phpunit/phpunit": "9.5.24"
+                    "phpunit/phpunit": "9.6.22"
                 },
-                "time": "2025-03-26T10:20:31+00:00",
+                "time": "2025-03-28T06:05:13+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-4": {
