@@ -3,17 +3,17 @@
         "strgat/swagger-codegenerator-bundle": [
             {
                 "name": "strgat/swagger-codegenerator-bundle",
-                "version": "dev-feature/FURM-1641-upgrade-to-symfony6",
-                "version_normalized": "dev-feature/FURM-1641-upgrade-to-symfony6",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/symfony-swagger-codegenerator-bundle.git",
-                    "reference": "225a1e3b8207fd55a868a6cf3d1b4b31e3964742"
+                    "reference": "16e5f232d974c8c2e8a8d10722850ffd6f042a35"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/225a1e3b8207fd55a868a6cf3d1b4b31e3964742",
-                    "reference": "225a1e3b8207fd55a868a6cf3d1b4b31e3964742",
+                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/16e5f232d974c8c2e8a8d10722850ffd6f042a35",
+                    "reference": "16e5f232d974c8c2e8a8d10722850ffd6f042a35",
                     "shasum": ""
                 },
                 "require": {
@@ -30,81 +30,7 @@
                     "friendsofphp/php-cs-fixer": "^3",
                     "phpunit/phpunit": "9.6.22"
                 },
-                "time": "2025-03-28T14:03:15+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-4": {
-                        "strgat\\Bundle\\SwaggerCodegeneratorBundle\\": ""
-                    },
-                    "exclude-from-classmap": [
-                        "/Tests/"
-                    ]
-                },
-                "autoload-dev": {
-                    "psr-4": {
-                        "strgat\\SwaggerCodegeneratorBundle\\Tests\\": ""
-                    }
-                },
-                "scripts": {
-                    "test": [
-                        "phpunit"
-                    ],
-                    "php-cs-fixer-dry-run": [
-                        "vendor/bin/php-cs-fixer fix . --dry-run --diff || true"
-                    ],
-                    "lint": [
-                        "@php-cs-fixer-dry-run"
-                    ],
-                    "fix": [
-                        "vendor/bin/php-cs-fixer fix ./"
-                    ]
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Hannes Hofstätter",
-                        "email": "hannes.hofstaetter@strg.at"
-                    }
-                ],
-                "description": "Providing the swagger codegenerator to be used with Symfony.",
-                "support": {
-                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/2.0.0",
-                    "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
-                },
-                "uid": 285
-            },
-            {
-                "name": "strgat/swagger-codegenerator-bundle",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/symfony-swagger-codegenerator-bundle.git",
-                    "reference": "f92335f570a2323051d6d690d0c8f698242442b4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/symfony-swagger-codegenerator-bundle/zipball/f92335f570a2323051d6d690d0c8f698242442b4",
-                    "reference": "f92335f570a2323051d6d690d0c8f698242442b4",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.4",
-                    "symfony/config": "5.4.*",
-                    "symfony/console": "5.4.*",
-                    "symfony/dependency-injection": "5.4.*",
-                    "symfony/framework-bundle": "5.4.*",
-                    "symfony/http-kernel": "5.4.*",
-                    "symfony/process": "5.4.*",
-                    "symfony/yaml": "5.4.*"
-                },
-                "require-dev": {
-                    "friendsofphp/php-cs-fixer": "^3",
-                    "phpunit/phpunit": "9.5.24"
-                },
-                "time": "2024-09-27T10:13:21+00:00",
+                "time": "2025-03-28T14:52:20+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -145,10 +71,10 @@
                 ],
                 "description": "Providing the swagger codegenerator to be used with Symfony.",
                 "support": {
-                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.2",
+                    "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/main",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 286
+                "uid": 285
             }
         ]
     }
