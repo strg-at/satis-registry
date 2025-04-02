@@ -308,18 +308,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "956253dea82d34ee900912924c546fc9a880afc1"
+                    "reference": "53c386c2e47038e95d743b9f25d74c10bf08126c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/956253dea82d34ee900912924c546fc9a880afc1",
-                    "reference": "956253dea82d34ee900912924c546fc9a880afc1",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/53c386c2e47038e95d743b9f25d74c10bf08126c",
+                    "reference": "53c386c2e47038e95d743b9f25d74c10bf08126c",
                     "shasum": ""
                 },
-                "time": "2024-08-01T14:50:46+00:00",
+                "time": "2025-04-02T06:42:56+00:00",
                 "type": "spunq3-core",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/4.1.1",
+                    "source": "https://github.com/strg-at/spunq3/tree/support/4.x",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 76

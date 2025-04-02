@@ -22,32 +22,6 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 179
-            },
-            {
-                "name": "strg/spunq3-lucene",
-                "version": "dev-feature/FURM-8-sort-php8-upgrade",
-                "version_normalized": "dev-feature/FURM-8-sort-php8-upgrade",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "6c9f8fe746d15a4cfcb54438fcc6152e5f96d9e3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/6c9f8fe746d15a4cfcb54438fcc6152e5f96d9e3",
-                    "reference": "6c9f8fe746d15a4cfcb54438fcc6152e5f96d9e3",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.4"
-                },
-                "time": "2025-03-28T14:31:32+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort-php8-upgrade",
-                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
-                },
                 "uid": 180
             },
             {
@@ -103,18 +77,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "07bb5b934c068f068e2f03460ccba07cc624b69e"
+                    "reference": "c547a49f72c49f8486f059c601a357a679f375cb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/07bb5b934c068f068e2f03460ccba07cc624b69e",
-                    "reference": "07bb5b934c068f068e2f03460ccba07cc624b69e",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/c547a49f72c49f8486f059c601a357a679f375cb",
+                    "reference": "c547a49f72c49f8486f059c601a357a679f375cb",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2025-03-23T12:11:48+00:00",
+                "time": "2025-04-02T08:04:52+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
@@ -130,18 +104,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "a54803d8529d8d4194b70fbcac893b73859fe93a"
+                    "reference": "ae15d68f81c18d58ab84717c088267ecd20428e0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/a54803d8529d8d4194b70fbcac893b73859fe93a",
-                    "reference": "a54803d8529d8d4194b70fbcac893b73859fe93a",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ae15d68f81c18d58ab84717c088267ecd20428e0",
+                    "reference": "ae15d68f81c18d58ab84717c088267ecd20428e0",
                     "shasum": ""
                 },
                 "require": {
                     "php": "8.4.5"
                 },
-                "time": "2025-03-23T12:12:14+00:00",
+                "time": "2025-04-02T12:13:06+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
