@@ -111,12 +111,12 @@
             "sha256": "6356bf838234f0360bc2a175feae053ee53f5c7c18b16faaa95cfabb53295a85"
         },
         "strgat/swagger-codegenerator-bundle": {
-            "sha256": "5dae1f39517d66f77ae502e940263897feb4c4f1f11bedb3546257c68bbef92b"
+            "sha256": "6f103d7c8eae6c2fb45c2730e648248feb13d9fdd8c5899a273b644f5a03b5f7"
         }
     },
     "includes": {
-        "include/all$ea00c8ce05c42f6bf54746cdf8fcf3b9372e2ab3.json": {
-            "sha1": "ea00c8ce05c42f6bf54746cdf8fcf3b9372e2ab3"
+        "include/all$7593128f0d2aa67c0b0949a6dfee926c0576ace4.json": {
+            "sha1": "7593128f0d2aa67c0b0949a6dfee926c0576ace4"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
