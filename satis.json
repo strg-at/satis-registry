@@ -24,6 +24,7 @@
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-lucene" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-mail" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-media" },
+    { "type": "vcs", "url": "https://github.com/strg-at/spunq3-magic-methods" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-networking" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-opauth" },
     { "type": "vcs", "url": "https://github.com/strg-at/spunq3-poll" },
