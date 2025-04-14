@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "strg/spunq3-magic-methods": [
+            {
+                "name": "strg/spunq3-magic-methods",
+                "version": "dev-feature/INRPO-2695-magic-repo-for-php8.3",
+                "version_normalized": "dev-feature/INRPO-2695-magic-repo-for-php8.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-magic-methods.git",
+                    "reference": "cbed26c06e7d33e5397e35cbc193396f7763795e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-magic-methods/zipball/cbed26c06e7d33e5397e35cbc193396f7763795e",
+                    "reference": "cbed26c06e7d33e5397e35cbc193396f7763795e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2025-04-14T06:53:37+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-magic-methods/tree/feature/INRPO-2695-magic-repo-for-php8.3",
+                    "issues": "https://github.com/strg-at/spunq3-magic-methods/issues"
+                },
+                "uid": 188
+            }
+        ]
+    }
+}
