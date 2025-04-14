@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.2",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 213
+                "uid": 214
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/fb-3.3",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 214
+                "uid": 215
             },
             {
                 "name": "strg/spunq3-opauth",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-opauth/tree/3.4",
                     "issues": "https://github.com/strg-at/spunq3-opauth/issues"
                 },
-                "uid": 215
+                "uid": 216
             }
         ]
     }

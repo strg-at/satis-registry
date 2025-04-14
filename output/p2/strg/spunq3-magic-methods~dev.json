@@ -22,10 +22,10 @@
                 "time": "2025-04-14T06:53:37+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-magic-methods/tree/feature/INRPO-2695-magic-repo-for-php8.3",
+                    "source": "https://github.com/strg-at/spunq3-magic-methods/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-magic-methods/issues"
                 },
-                "uid": 188
+                "uid": 189
             }
         ]
     }
