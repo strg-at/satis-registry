@@ -1,0 +1,59 @@
+{
+    "packages": {
+        "strg/spunq3-magic-methods": {
+            "1.0.1": {
+                "name": "strg/spunq3-magic-methods",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-magic-methods.git",
+                    "reference": "cbed26c06e7d33e5397e35cbc193396f7763795e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-magic-methods/zipball/cbed26c06e7d33e5397e35cbc193396f7763795e",
+                    "reference": "cbed26c06e7d33e5397e35cbc193396f7763795e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2025-04-14T06:53:37+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-magic-methods/tree/1.0.1",
+                    "issues": "https://github.com/strg-at/spunq3-magic-methods/issues"
+                },
+                "uid": 188
+            },
+            "dev-main": {
+                "name": "strg/spunq3-magic-methods",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-magic-methods.git",
+                    "reference": "5f442c9fcd14f438e80d35f740f4196748eae2c0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-magic-methods/zipball/5f442c9fcd14f438e80d35f740f4196748eae2c0",
+                    "reference": "5f442c9fcd14f438e80d35f740f4196748eae2c0",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2025-04-14T10:33:48+00:00",
+                "default-branch": true,
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-magic-methods/tree/main",
+                    "issues": "https://github.com/strg-at/spunq3-magic-methods/issues"
+                },
+                "uid": 189
+            }
+        }
+    }
+}
