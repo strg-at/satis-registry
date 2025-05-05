@@ -9,7 +9,7 @@
             "sha256": "efeb450e5a3f66ddce8f6a0374aa99ea9b51536f96ba33aa9fa019bb326c8a87"
         },
         "strg/spunq3-ckeditor": {
-            "sha256": "a57b79273dbc80b62d797d5c65501c4551e95d736dccffdc3cbaf1a66f05fbbd"
+            "sha256": "94148884daf8c173588297c36e7a333813d2684b4fcee57dc5be4bf2ae31e6b6"
         },
         "strg/spunq3-comment": {
             "sha256": "d93c95000d7b7624eabd8a4b379d075b417ee2937d094ab0755e6151674c257d"
@@ -54,7 +54,7 @@
             "sha256": "026a66516db0aae526fb0d2560e8aaeaafff5d9ca78f0ff94309b0c73628c325"
         },
         "strg/spunq3-lucene": {
-            "sha256": "50af269e3b787b30b6b1c5250e69b7f1404da1717c604d01d366a2aee0ef7d78"
+            "sha256": "ce29d1606ad2d0c333eb7766c619a101f859c73034817f4f9f1042e0525bc174"
         },
         "strg/spunq3-magic-methods": {
             "sha256": "e9050dc77164ecea246c9a33cf197b14572265ad6e9232c932b85beebecba0ca"
@@ -118,8 +118,8 @@
         }
     },
     "includes": {
-        "include/all$f2bf2f63b197d414178a16916871eb9345f49489.json": {
-            "sha1": "f2bf2f63b197d414178a16916871eb9345f49489"
+        "include/all$a10499df4768ac42464c0d597559a83eb146cdc3.json": {
+            "sha1": "a10499df4768ac42464c0d597559a83eb146cdc3"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",

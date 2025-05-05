@@ -26,23 +26,23 @@
             },
             {
                 "name": "strg/spunq3-ckeditor",
-                "version": "dev-legacy/3.0.1",
-                "version_normalized": "dev-legacy/3.0.1",
+                "version": "dev-legacy/3.0.x",
+                "version_normalized": "dev-legacy/3.0.x",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-ckeditor.git",
-                    "reference": "3fd4358aff7c569840c515adcf1815da0f387b64"
+                    "reference": "7eff51f16a13e746ed4c1f368cd2b51f1f22c8ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/3fd4358aff7c569840c515adcf1815da0f387b64",
-                    "reference": "3fd4358aff7c569840c515adcf1815da0f387b64",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/7eff51f16a13e746ed4c1f368cd2b51f1f22c8ab",
+                    "reference": "7eff51f16a13e746ed4c1f368cd2b51f1f22c8ab",
                     "shasum": ""
                 },
-                "time": "2025-04-30T14:25:46+00:00",
+                "time": "2025-04-30T14:41:33+00:00",
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/3.0.1",
+                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/3.0.x",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
                 "uid": 87
