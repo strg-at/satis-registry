@@ -23,7 +23,7 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 223
+                "uid": 226
             },
             {
                 "name": "strg/spunq3-poll",
@@ -46,7 +46,7 @@
                     "source": "https://github.com/strg-at/spunq3-poll/tree/test",
                     "issues": "https://github.com/strg-at/spunq3-poll/issues"
                 },
-                "uid": 224
+                "uid": 227
             }
         ]
     }

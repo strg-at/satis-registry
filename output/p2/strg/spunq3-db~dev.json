@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/backward-compatibility",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 128
+                "uid": 130
             },
             {
                 "name": "strg/spunq3-db",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/encoding",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 129
+                "uid": 131
             },
             {
                 "name": "strg/spunq3-db",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/feature/id-pre-bigint",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 130
+                "uid": 132
             },
             {
                 "name": "strg/spunq3-db",
@@ -91,7 +91,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 131
+                "uid": 133
             },
             {
                 "name": "strg/spunq3-db",
@@ -114,7 +114,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/legacy/svn-0.2.8",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 132
+                "uid": 134
             },
             {
                 "name": "strg/spunq3-db",
@@ -141,7 +141,7 @@
                     "source": "https://github.com/strg-at/spunq3-db/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-db/issues"
                 },
-                "uid": 133
+                "uid": 135
             }
         ]
     }
