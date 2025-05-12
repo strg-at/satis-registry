@@ -100,15 +100,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-ckeditor.git",
-                    "reference": "07cc0292ef0c9209c4d4bec9df7e1bd4fceb9d02"
+                    "reference": "488e42addf15632101f380e3f10ee215b0dda483"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/07cc0292ef0c9209c4d4bec9df7e1bd4fceb9d02",
-                    "reference": "07cc0292ef0c9209c4d4bec9df7e1bd4fceb9d02",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/488e42addf15632101f380e3f10ee215b0dda483",
+                    "reference": "488e42addf15632101f380e3f10ee215b0dda483",
                     "shasum": ""
                 },
-                "time": "2025-05-09T09:40:15+00:00",
+                "time": "2025-05-09T12:32:29+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/spunq-3.0.2_v4.5.9",
@@ -185,29 +185,6 @@
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
                 "uid": 95
-            },
-            {
-                "name": "strg/spunq3-ckeditor",
-                "version": "dev-release/3.0.3",
-                "version_normalized": "dev-release/3.0.3",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-ckeditor.git",
-                    "reference": "67a98f2896edf579f2fad7178c1b227d200e4036"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-ckeditor/zipball/67a98f2896edf579f2fad7178c1b227d200e4036",
-                    "reference": "67a98f2896edf579f2fad7178c1b227d200e4036",
-                    "shasum": ""
-                },
-                "time": "2025-05-09T10:16:42+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-ckeditor/tree/3.0.3",
-                    "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
-                },
-                "uid": 96
             }
         ]
     }
