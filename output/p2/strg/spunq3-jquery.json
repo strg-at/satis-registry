@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 155
+                "uid": 159
             },
             {
                 "name": "strg/spunq3-jquery",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/1.1.0",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 156
+                "uid": 160
             },
             {
                 "name": "strg/spunq3-jquery",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 157
+                "uid": 161
             }
         ]
     }
