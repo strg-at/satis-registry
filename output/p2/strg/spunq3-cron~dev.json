@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-cron.git",
-                    "reference": "9128aed2d7db57e81d7e82fc5ed0e7a9dc609a1a"
+                    "reference": "128ef2e7f9d7ac0dd1e34c20ffed6cb26d7cc24d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-cron/zipball/9128aed2d7db57e81d7e82fc5ed0e7a9dc609a1a",
-                    "reference": "9128aed2d7db57e81d7e82fc5ed0e7a9dc609a1a",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-cron/zipball/128ef2e7f9d7ac0dd1e34c20ffed6cb26d7cc24d",
+                    "reference": "128ef2e7f9d7ac0dd1e34c20ffed6cb26d7cc24d",
                     "shasum": ""
                 },
-                "time": "2025-05-15T14:17:23+00:00",
+                "time": "2025-05-15T14:41:00+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
@@ -24,29 +24,6 @@
                     "issues": "https://github.com/strg-at/spunq3-cron/issues"
                 },
                 "uid": 117
-            },
-            {
-                "name": "strg/spunq3-cron",
-                "version": "dev-release/1.1.4",
-                "version_normalized": "dev-release/1.1.4",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-cron.git",
-                    "reference": "0fcda4c19f8472b38f34cde3a598d5e72f42e78a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-cron/zipball/0fcda4c19f8472b38f34cde3a598d5e72f42e78a",
-                    "reference": "0fcda4c19f8472b38f34cde3a598d5e72f42e78a",
-                    "shasum": ""
-                },
-                "time": "2025-05-15T14:18:52+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-cron/tree/1.1.4",
-                    "issues": "https://github.com/strg-at/spunq3-cron/issues"
-                },
-                "uid": 118
             }
         ]
     }
