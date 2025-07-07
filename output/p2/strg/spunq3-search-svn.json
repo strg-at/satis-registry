@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.1.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 254
+                "uid": 255
             },
             {
                 "name": "strg/spunq3-search-svn",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.2.0",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 256
+                "uid": 257
             },
             {
                 "name": "strg/spunq3-search-svn",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.2.1",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 257
+                "uid": 258
             },
             {
                 "name": "strg/spunq3-search-svn",
@@ -91,7 +91,7 @@
                     "source": "https://github.com/strg-at/spunq3-svn-search/tree/0.2.2",
                     "issues": "https://github.com/strg-at/spunq3-svn-search/issues"
                 },
-                "uid": 258
+                "uid": 259
             }
         ]
     }

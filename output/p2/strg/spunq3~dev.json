@@ -95,6 +95,29 @@
             },
             {
                 "name": "strg/spunq3",
+                "version": "dev-feature/OEAMTC-1019-input-autocomplete",
+                "version_normalized": "dev-feature/OEAMTC-1019-input-autocomplete",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "437984bf607f74fcf776f818dc4ef0cff388a727"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/437984bf607f74fcf776f818dc4ef0cff388a727",
+                    "reference": "437984bf607f74fcf776f818dc4ef0cff388a727",
+                    "shasum": ""
+                },
+                "time": "2025-07-04T10:51:50+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/OEAMTC-1019-input-autocomplete",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 70
+            },
+            {
+                "name": "strg/spunq3",
                 "version": "dev-feature/hh-repeating-fields-value",
                 "version_normalized": "dev-feature/hh-repeating-fields-value",
                 "source": {
@@ -114,7 +137,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-repeating-fields-value",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 70
+                "uid": 71
             },
             {
                 "name": "strg/spunq3",
@@ -137,7 +160,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-trait-support",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 71
+                "uid": 72
             },
             {
                 "name": "strg/spunq3",
@@ -160,7 +183,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-version0-improvements",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 72
+                "uid": 73
             },
             {
                 "name": "strg/spunq3",
@@ -183,7 +206,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/nb-request-methods",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 73
+                "uid": 74
             },
             {
                 "name": "strg/spunq3",
@@ -206,7 +229,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/rector-updates",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 74
+                "uid": 75
             },
             {
                 "name": "strg/spunq3",
@@ -229,7 +252,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/version-0-slugified-url-manager",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 75
+                "uid": 76
             },
             {
                 "name": "strg/spunq3",
@@ -253,7 +276,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/main",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 76
+                "uid": 77
             },
             {
                 "name": "strg/spunq3",
@@ -276,7 +299,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/master-oe24",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 77
+                "uid": 78
             },
             {
                 "name": "strg/spunq3",
@@ -299,7 +322,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.0.39",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 78
+                "uid": 79
             },
             {
                 "name": "strg/spunq3",
@@ -322,7 +345,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.0.37-RC2",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 79
+                "uid": 80
             },
             {
                 "name": "strg/spunq3",
@@ -345,7 +368,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/4.1.4",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 80
+                "uid": 81
             },
             {
                 "name": "strg/spunq3",
@@ -368,7 +391,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/task/INTINF-12910-iban-validator",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 81
+                "uid": 82
             }
         ]
     }
