@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/3.0.x",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 90
+                "uid": 91
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/4",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 91
+                "uid": 92
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/4.4",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 92
+                "uid": 93
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -91,7 +91,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/spunq-3.0.2",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 93
+                "uid": 94
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -114,7 +114,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/spunq-3.0.2_v4.5.9",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 94
+                "uid": 95
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -137,7 +137,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/legacy/svn-0.2.2",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 95
+                "uid": 96
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -161,7 +161,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 96
+                "uid": 97
             },
             {
                 "name": "strg/spunq3-ckeditor",
@@ -184,7 +184,7 @@
                     "source": "https://github.com/strg-at/spunq3-ckeditor/tree/3.6.6",
                     "issues": "https://github.com/strg-at/spunq3-ckeditor/issues"
                 },
-                "uid": 97
+                "uid": 98
             }
         ]
     }

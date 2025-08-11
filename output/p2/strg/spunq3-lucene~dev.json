@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/FURM-8-sort",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 190
+                "uid": 191
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -48,7 +48,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/feature/INTINF-13404-fix-channel-search",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 191
+                "uid": 192
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -71,7 +71,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.0.1",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 192
+                "uid": 193
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -94,7 +94,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/legacy/svn-0.3.0",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 193
+                "uid": 194
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -121,7 +121,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/main",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 194
+                "uid": 195
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -130,24 +130,50 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "8043d35a9a64a97a15cf9dde824c98d542b24776"
+                    "reference": "ca394f0c4cf45e05ce794ecdaeeb4eeb26fdd992"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/8043d35a9a64a97a15cf9dde824c98d542b24776",
-                    "reference": "8043d35a9a64a97a15cf9dde824c98d542b24776",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ca394f0c4cf45e05ce794ecdaeeb4eeb26fdd992",
+                    "reference": "ca394f0c4cf45e05ce794ecdaeeb4eeb26fdd992",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "8.4.10"
+                    "php": "8.4.11"
                 },
-                "time": "2025-07-24T00:36:12+00:00",
+                "time": "2025-08-05T12:16:08+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 195
+                "uid": 196
+            },
+            {
+                "name": "strg/spunq3-lucene",
+                "version": "dev-renovate/pre-commit-pre-commit-hooks-6.x",
+                "version_normalized": "dev-renovate/pre-commit-pre-commit-hooks-6.x",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "c7da8696cc55ab2a8d8e5ab11fc409a1f118955d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/c7da8696cc55ab2a8d8e5ab11fc409a1f118955d",
+                    "reference": "c7da8696cc55ab2a8d8e5ab11fc409a1f118955d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2025-08-10T00:38:14+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pre-commit-pre-commit-hooks-6.x",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 197
             },
             {
                 "name": "strg/spunq3-lucene",
@@ -170,7 +196,7 @@
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/1.1.2",
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
-                "uid": 196
+                "uid": 198
             }
         ]
     }
