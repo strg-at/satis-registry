@@ -340,6 +340,32 @@
                     "issues": "https://github.com/strg-at/spunq3-lucene/issues"
                 },
                 "uid": 190
+            },
+            {
+                "name": "strg/spunq3-lucene",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-lucene.git",
+                    "reference": "39d185bd471ace66a20ddcc178e79efed4a66653"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/39d185bd471ace66a20ddcc178e79efed4a66653",
+                    "reference": "39d185bd471ace66a20ddcc178e79efed4a66653",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.4"
+                },
+                "time": "2025-09-09T08:51:28+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-lucene/tree/2.4.2",
+                    "issues": "https://github.com/strg-at/spunq3-lucene/issues"
+                },
+                "uid": 191
             }
         ]
     }
