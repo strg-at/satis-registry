@@ -26,6 +26,29 @@
             },
             {
                 "name": "strg/spunq3",
+                "version": "dev-feature/INTINF-13859-fix-rebuild-index",
+                "version_normalized": "dev-feature/INTINF-13859-fix-rebuild-index",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "382197e9c44872b23d30bb2ab0d2512dc8fa4ff8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/382197e9c44872b23d30bb2ab0d2512dc8fa4ff8",
+                    "reference": "382197e9c44872b23d30bb2ab0d2512dc8fa4ff8",
+                    "shasum": ""
+                },
+                "time": "2025-09-24T08:02:16+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/feature/INTINF-13859-fix-rebuild-index",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 69
+            },
+            {
+                "name": "strg/spunq3",
                 "version": "dev-feature/NOENT-4616-improve-logging-for-cronjobs-started-via-http-request",
                 "version_normalized": "dev-feature/NOENT-4616-improve-logging-for-cronjobs-started-via-http-request",
                 "source": {
@@ -45,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/NOENT-4616-improve-logging-for-cronjobs-started-via-http-request",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 69
+                "uid": 70
             },
             {
                 "name": "strg/spunq3",
@@ -68,7 +91,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/NOENT-678-file-delete-problem",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 70
+                "uid": 71
             },
             {
                 "name": "strg/spunq3",
@@ -91,7 +114,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/NOENW-1233653-tmp-file-cleanup",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 71
+                "uid": 72
             },
             {
                 "name": "strg/spunq3",
@@ -114,7 +137,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-repeating-fields-value",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 72
+                "uid": 73
             },
             {
                 "name": "strg/spunq3",
@@ -137,7 +160,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-trait-support",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 73
+                "uid": 74
             },
             {
                 "name": "strg/spunq3",
@@ -160,7 +183,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-version0-improvements",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 74
+                "uid": 75
             },
             {
                 "name": "strg/spunq3",
@@ -183,7 +206,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/nb-request-methods",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 75
+                "uid": 76
             },
             {
                 "name": "strg/spunq3",
@@ -206,7 +229,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/rector-updates",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 76
+                "uid": 77
             },
             {
                 "name": "strg/spunq3",
@@ -229,7 +252,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/version-0-slugified-url-manager",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 77
+                "uid": 78
             },
             {
                 "name": "strg/spunq3",
@@ -253,7 +276,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/main",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 78
+                "uid": 79
             },
             {
                 "name": "strg/spunq3",
@@ -276,7 +299,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/master-oe24",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 79
+                "uid": 80
             },
             {
                 "name": "strg/spunq3",
@@ -299,7 +322,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.0.39",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 80
+                "uid": 81
             },
             {
                 "name": "strg/spunq3",
@@ -322,7 +345,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.0.37-RC2",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 81
+                "uid": 82
             },
             {
                 "name": "strg/spunq3",
@@ -345,7 +368,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/4.2.1",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 82
+                "uid": 83
             },
             {
                 "name": "strg/spunq3",
@@ -368,7 +391,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/task/INTINF-12910-iban-validator",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 83
+                "uid": 84
             }
         ]
     }
