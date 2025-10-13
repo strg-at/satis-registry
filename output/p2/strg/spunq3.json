@@ -1383,6 +1383,29 @@
             },
             {
                 "name": "strg/spunq3",
+                "version": "4.2.2",
+                "version_normalized": "4.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3.git",
+                    "reference": "d879d80e5b0f8a31c3b8cfd47437fd6c566697e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/d879d80e5b0f8a31c3b8cfd47437fd6c566697e2",
+                    "reference": "d879d80e5b0f8a31c3b8cfd47437fd6c566697e2",
+                    "shasum": ""
+                },
+                "time": "2025-10-10T08:48:22+00:00",
+                "type": "spunq3-core",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3/tree/4.2.2",
+                    "issues": "https://github.com/strg-at/spunq3/issues"
+                },
+                "uid": 67
+            },
+            {
+                "name": "strg/spunq3",
                 "version": "5.0.0",
                 "version_normalized": "5.0.0.0",
                 "source": {
@@ -1402,7 +1425,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/5.0.0",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 67
+                "uid": 68
             }
         ]
     }
