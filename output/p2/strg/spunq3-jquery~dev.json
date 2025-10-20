@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 165
+                "uid": 160
             },
             {
                 "name": "strg/spunq3-jquery",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/legacy/svn-0.2.4",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 166
+                "uid": 161
             },
             {
                 "name": "strg/spunq3-jquery",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/legacy/svn-0.2.5",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 167
+                "uid": 162
             },
             {
                 "name": "strg/spunq3-jquery",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/2.0.0",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 168
+                "uid": 163
             },
             {
                 "name": "strg/spunq3-jquery",
@@ -115,7 +115,7 @@
                     "source": "https://github.com/strg-at/spunq3-jquery/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-jquery/issues"
                 },
-                "uid": 169
+                "uid": 164
             }
         ]
     }

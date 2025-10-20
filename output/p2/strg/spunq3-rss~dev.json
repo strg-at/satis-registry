@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/feature/SNW-2779-upgrade-sunpq3-lib",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 249
+                "uid": 244
             },
             {
                 "name": "strg/spunq3-rss",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.0.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 250
+                "uid": 245
             },
             {
                 "name": "strg/spunq3-rss",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/legacy/svn-0.2.4",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 251
+                "uid": 246
             },
             {
                 "name": "strg/spunq3-rss",
@@ -92,7 +92,7 @@
                     "source": "https://github.com/strg-at/spunq3-rss/tree/3.1.0",
                     "issues": "https://github.com/strg-at/spunq3-rss/issues"
                 },
-                "uid": 252
+                "uid": 247
             }
         ]
     }
