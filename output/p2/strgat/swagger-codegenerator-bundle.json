@@ -70,7 +70,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 295
+                "uid": 294
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -141,7 +141,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 296
+                "uid": 295
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -215,7 +215,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.0.2",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 297
+                "uid": 296
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -289,7 +289,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 298
+                "uid": 297
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -363,7 +363,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.1.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 299
+                "uid": 298
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -437,7 +437,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 300
+                "uid": 299
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -511,7 +511,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 301
+                "uid": 300
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -585,7 +585,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/1.2.2",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 302
+                "uid": 301
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -659,7 +659,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/2.0.0",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 303
+                "uid": 302
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -733,7 +733,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/2.0.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 304
+                "uid": 303
             }
         ]
     }
