@@ -54,7 +54,7 @@
             "sha256": "c12698bbcde776358510fd5500719c71874a9e3da3720453fe2b7639042c21de"
         },
         "strg/spunq3-lucene": {
-            "sha256": "aa92f780c4ef37afc11377d6a26af97c3889333c9e76a0c9db30d5c7802a4e86"
+            "sha256": "6f07cf5ab5ec49c24abb8ed34f7dce08d11e798081771d0e650cb3c708d3143a"
         },
         "strg/spunq3-magic-methods": {
             "sha256": "125b1be5ace1c76dd74b0325ed0a3c4abb3892b26a43631232d5e48bef504129"
@@ -118,8 +118,8 @@
         }
     },
     "includes": {
-        "include/all$2ac890f134a158f9895f9d1d1495635f5900f209.json": {
-            "sha1": "2ac890f134a158f9895f9d1d1495635f5900f209"
+        "include/all$d24fbf1da283e4094f61af2e4acd0b0dffb5e15c.json": {
+            "sha1": "d24fbf1da283e4094f61af2e4acd0b0dffb5e15c"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
