@@ -103,18 +103,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "5ac9fa17615760ed17dbb6c6f93e6e13b3370fbb"
+                    "reference": "413bfaedf9ae1fc8fea75d776af58626d21fdfd1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/5ac9fa17615760ed17dbb6c6f93e6e13b3370fbb",
-                    "reference": "5ac9fa17615760ed17dbb6c6f93e6e13b3370fbb",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/413bfaedf9ae1fc8fea75d776af58626d21fdfd1",
+                    "reference": "413bfaedf9ae1fc8fea75d776af58626d21fdfd1",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.4"
                 },
-                "time": "2026-04-10T12:27:10+00:00",
+                "time": "2026-04-16T00:56:25+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
@@ -130,18 +130,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "ff49a14d416432a02a0c38e7a42feb30af2817cb"
+                    "reference": "f1ba80adc57db1981acb8e4a6e1d039d112b185e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/ff49a14d416432a02a0c38e7a42feb30af2817cb",
-                    "reference": "ff49a14d416432a02a0c38e7a42feb30af2817cb",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/f1ba80adc57db1981acb8e4a6e1d039d112b185e",
+                    "reference": "f1ba80adc57db1981acb8e4a6e1d039d112b185e",
                     "shasum": ""
                 },
                 "require": {
                     "php": "8.5.5"
                 },
-                "time": "2026-04-10T12:27:38+00:00",
+                "time": "2026-04-16T00:56:51+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
