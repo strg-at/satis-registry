@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/feature/animated-gifs",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 216
+                "uid": 217
             },
             {
                 "name": "strg/spunq3-media",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/1.0.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 217
+                "uid": 218
             },
             {
                 "name": "strg/spunq3-media",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3-media/tree/0.2.6",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 218
+                "uid": 219
             },
             {
                 "name": "strg/spunq3-media",
@@ -77,25 +77,25 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-media.git",
-                    "reference": "69069e9f01a3784dc096e0dc73dd0da84d304d16"
+                    "reference": "929ba5432b670f8eda7079da2ebc507a0f8b89fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/69069e9f01a3784dc096e0dc73dd0da84d304d16",
-                    "reference": "69069e9f01a3784dc096e0dc73dd0da84d304d16",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/929ba5432b670f8eda7079da2ebc507a0f8b89fd",
+                    "reference": "929ba5432b670f8eda7079da2ebc507a0f8b89fd",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.3"
                 },
-                "time": "2025-10-23T15:20:43+00:00",
+                "time": "2026-06-03T13:24:31+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-media/tree/1.4.1",
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.5.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
-                "uid": 219
+                "uid": 220
             }
         ]
     }

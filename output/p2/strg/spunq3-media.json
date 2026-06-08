@@ -222,6 +222,32 @@
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
                 "uid": 215
+            },
+            {
+                "name": "strg/spunq3-media",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:strg-at/spunq3-media.git",
+                    "reference": "929ba5432b670f8eda7079da2ebc507a0f8b89fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/929ba5432b670f8eda7079da2ebc507a0f8b89fd",
+                    "reference": "929ba5432b670f8eda7079da2ebc507a0f8b89fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2026-06-03T13:24:31+00:00",
+                "type": "spunq3-module",
+                "support": {
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.5.0",
+                    "issues": "https://github.com/strg-at/spunq3-media/issues"
+                },
+                "uid": 216
             }
         ]
     }
