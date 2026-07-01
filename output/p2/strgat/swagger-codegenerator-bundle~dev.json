@@ -74,7 +74,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/main",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 305
+                "uid": 307
             },
             {
                 "name": "strgat/swagger-codegenerator-bundle",
@@ -148,7 +148,7 @@
                     "source": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/tree/release/2025.2.1",
                     "issues": "https://github.com/strg-at/symfony-swagger-codegenerator-bundle/issues"
                 },
-                "uid": 306
+                "uid": 308
             }
         ]
     }
