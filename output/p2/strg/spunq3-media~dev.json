@@ -3,32 +3,6 @@
         "strg/spunq3-media": [
             {
                 "name": "strg/spunq3-media",
-                "version": "dev-feature/INTINF-14586-add-avif-support",
-                "version_normalized": "dev-feature/INTINF-14586-add-avif-support",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3-media.git",
-                    "reference": "f76fa0aa54ee701eab3cf164df751b961eac38a8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/f76fa0aa54ee701eab3cf164df751b961eac38a8",
-                    "reference": "f76fa0aa54ee701eab3cf164df751b961eac38a8",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.3"
-                },
-                "time": "2026-08-26T15:01:08+00:00",
-                "type": "spunq3-module",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3-media/tree/feature/INTINF-14586-add-avif-support",
-                    "issues": "https://github.com/strg-at/spunq3-media/issues"
-                },
-                "uid": 219
-            },
-            {
-                "name": "strg/spunq3-media",
                 "version": "dev-feature/animated-gifs",
                 "version_normalized": "dev-feature/animated-gifs",
                 "source": {
@@ -103,22 +77,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-media.git",
-                    "reference": "929ba5432b670f8eda7079da2ebc507a0f8b89fd"
+                    "reference": "b370bf7f8577b06581692d868a143c38b38077be"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/929ba5432b670f8eda7079da2ebc507a0f8b89fd",
-                    "reference": "929ba5432b670f8eda7079da2ebc507a0f8b89fd",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-media/zipball/b370bf7f8577b06581692d868a143c38b38077be",
+                    "reference": "b370bf7f8577b06581692d868a143c38b38077be",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.3"
                 },
-                "time": "2026-06-03T13:24:31+00:00",
+                "time": "2026-09-04T13:29:18+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-media/tree/1.5.0",
+                    "source": "https://github.com/strg-at/spunq3-media/tree/1.6.0",
                     "issues": "https://github.com/strg-at/spunq3-media/issues"
                 },
                 "uid": 223

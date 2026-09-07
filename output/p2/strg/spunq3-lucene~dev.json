@@ -130,18 +130,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-lucene.git",
-                    "reference": "6972dd090b3946f3199f2c7e8af880cd94867d19"
+                    "reference": "8e17b5658a2b16dc8be1cb8279563c57b46d0fdc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/6972dd090b3946f3199f2c7e8af880cd94867d19",
-                    "reference": "6972dd090b3946f3199f2c7e8af880cd94867d19",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-lucene/zipball/8e17b5658a2b16dc8be1cb8279563c57b46d0fdc",
+                    "reference": "8e17b5658a2b16dc8be1cb8279563c57b46d0fdc",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "8.5.9"
+                    "php": "8.5.10"
                 },
-                "time": "2026-08-11T12:30:44+00:00",
+                "time": "2026-09-01T12:26:55+00:00",
                 "type": "spunq3-module",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3-lucene/tree/renovate/pin-dependencies",
