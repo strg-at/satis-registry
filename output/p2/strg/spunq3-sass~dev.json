@@ -8,22 +8,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3-sass.git",
-                    "reference": "f19c6bb5b0a0f5f6907a0d92184f199583f23abf"
+                    "reference": "9923f642fbd7ec07a0173e8108c7b15214101896"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/f19c6bb5b0a0f5f6907a0d92184f199583f23abf",
-                    "reference": "f19c6bb5b0a0f5f6907a0d92184f199583f23abf",
+                    "url": "https://api.github.com/repos/strg-at/spunq3-sass/zipball/9923f642fbd7ec07a0173e8108c7b15214101896",
+                    "reference": "9923f642fbd7ec07a0173e8108c7b15214101896",
                     "shasum": ""
                 },
-                "time": "2025-04-17T14:25:38+00:00",
+                "time": "2026-10-02T09:18:46+00:00",
                 "default-branch": true,
                 "type": "spunq3-module",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3-sass/tree/2.1.0",
+                    "source": "https://github.com/strg-at/spunq3-sass/tree/2.1.1",
                     "issues": "https://github.com/strg-at/spunq3-sass/issues"
                 },
-                "uid": 261
+                "uid": 270
             }
         ]
     }
