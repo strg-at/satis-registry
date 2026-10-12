@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INPRO-45-gelf-logger",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 71
+                "uid": 72
             },
             {
                 "name": "strg/spunq3",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INTINF-14721_canonical-additional-requirements",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 72
+                "uid": 73
             },
             {
                 "name": "strg/spunq3",
@@ -66,29 +66,6 @@
                 "type": "spunq3-core",
                 "support": {
                     "source": "https://github.com/strg-at/spunq3/tree/feature/OEAMTC-1773-php-8.5-upgrade",
-                    "issues": "https://github.com/strg-at/spunq3/issues"
-                },
-                "uid": 73
-            },
-            {
-                "name": "strg/spunq3",
-                "version": "dev-feature/OEAMTC-1773-php-8.5-upgrade-4.x",
-                "version_normalized": "dev-feature/OEAMTC-1773-php-8.5-upgrade-4.x",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "58c30c2f3013e19f90c3cde4f84de26f7e7c5077"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/58c30c2f3013e19f90c3cde4f84de26f7e7c5077",
-                    "reference": "58c30c2f3013e19f90c3cde4f84de26f7e7c5077",
-                    "shasum": ""
-                },
-                "time": "2026-10-02T10:50:23+00:00",
-                "type": "spunq3-core",
-                "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/feature/OEAMTC-1773-php-8.5-upgrade-4.x",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 74
@@ -331,18 +308,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "e5849fde19c06ba0065d533b3ee051319dcf032b"
+                    "reference": "51dc3dc0444bb9fd97c8420ee730c44d88767303"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/e5849fde19c06ba0065d533b3ee051319dcf032b",
-                    "reference": "e5849fde19c06ba0065d533b3ee051319dcf032b",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/51dc3dc0444bb9fd97c8420ee730c44d88767303",
+                    "reference": "51dc3dc0444bb9fd97c8420ee730c44d88767303",
                     "shasum": ""
                 },
-                "time": "2026-10-02T09:24:29+00:00",
+                "time": "2026-10-05T14:19:59+00:00",
                 "type": "spunq3-core",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/4.3.1",
+                    "source": "https://github.com/strg-at/spunq3/tree/4.3.2",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
                 "uid": 85
