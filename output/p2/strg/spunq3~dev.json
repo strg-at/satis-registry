@@ -22,7 +22,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INPRO-45-gelf-logger",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 72
+                "uid": 73
             },
             {
                 "name": "strg/spunq3",
@@ -45,7 +45,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/INTINF-14721_canonical-additional-requirements",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 73
+                "uid": 74
             },
             {
                 "name": "strg/spunq3",
@@ -68,7 +68,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/OEAMTC-1773-php-8.5-upgrade",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 74
+                "uid": 75
             },
             {
                 "name": "strg/spunq3",
@@ -91,7 +91,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-repeating-fields-value",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 75
+                "uid": 76
             },
             {
                 "name": "strg/spunq3",
@@ -114,7 +114,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-trait-support",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 76
+                "uid": 77
             },
             {
                 "name": "strg/spunq3",
@@ -137,7 +137,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/hh-version0-improvements",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 77
+                "uid": 78
             },
             {
                 "name": "strg/spunq3",
@@ -160,7 +160,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/nb-request-methods",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 78
+                "uid": 79
             },
             {
                 "name": "strg/spunq3",
@@ -183,7 +183,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/rector-updates",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 79
+                "uid": 80
             },
             {
                 "name": "strg/spunq3",
@@ -206,7 +206,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/feature/version-0-slugified-url-manager",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 80
+                "uid": 81
             },
             {
                 "name": "strg/spunq3",
@@ -230,7 +230,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/main",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 81
+                "uid": 82
             },
             {
                 "name": "strg/spunq3",
@@ -253,7 +253,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/master-oe24",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 82
+                "uid": 83
             },
             {
                 "name": "strg/spunq3",
@@ -276,7 +276,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.0.39",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 83
+                "uid": 84
             },
             {
                 "name": "strg/spunq3",
@@ -299,7 +299,7 @@
                     "source": "https://github.com/strg-at/spunq3/tree/3.0.37-RC2",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 84
+                "uid": 85
             },
             {
                 "name": "strg/spunq3",
@@ -308,21 +308,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:strg-at/spunq3.git",
-                    "reference": "51dc3dc0444bb9fd97c8420ee730c44d88767303"
+                    "reference": "123cc6802a79c2ac3a78a44400c38fd8766cb049"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/51dc3dc0444bb9fd97c8420ee730c44d88767303",
-                    "reference": "51dc3dc0444bb9fd97c8420ee730c44d88767303",
+                    "url": "https://api.github.com/repos/strg-at/spunq3/zipball/123cc6802a79c2ac3a78a44400c38fd8766cb049",
+                    "reference": "123cc6802a79c2ac3a78a44400c38fd8766cb049",
                     "shasum": ""
                 },
-                "time": "2026-10-05T14:19:59+00:00",
+                "time": "2026-10-12T11:26:47+00:00",
                 "type": "spunq3-core",
                 "support": {
-                    "source": "https://github.com/strg-at/spunq3/tree/4.3.2",
+                    "source": "https://github.com/strg-at/spunq3/tree/4.3.3",
                     "issues": "https://github.com/strg-at/spunq3/issues"
                 },
-                "uid": 85
+                "uid": 86
             }
         ]
     }
