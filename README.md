@@ -20,12 +20,12 @@ Private static composer registry powered by [composer/satis][satis-url].
 
 <details>
   <summary style="font-size:1.2em;">Table of Contents</summary>
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Automation](#automation)
-  - [satis-build](#satis-build)
-  - [test](#test)
+  - [build and deploy](#build-and-deploy)
 - [Structure](#structure)
 - [Requirements](#requirements)
 - [Development](#development)
@@ -38,18 +38,14 @@ Private static composer registry powered by [composer/satis][satis-url].
 
 ## Automation
 
-### satis-build
+### build and deploy
 
-[![satis-build][satis-build-badge]][satis-build-url]
+[![build-deploy][build-deploy-badge]][build-deploy-url]
 
-- The build can be triggered manual (click the badge for more).
-- The build runs on monday morning
-
-### test
-
-[![satis-test][satis-test-badge]][satis-test-url]
-
-- tests are running each morning (and on pull request)
+- The workflow can be triggered manually (click the badge for more).
+- The workflow runs on Monday morning and on each push to `main` that changes `satis.json`.
+- The `strg-satis` GitHub App token reads the private repositories.
+- The `strg-public-bot` GitHub App token commits the build output to `main`.
 
 ## Structure
 
@@ -116,8 +112,7 @@ task pre-commit:run
 [docker-url]: https://www.docker.com/
 [python-url]: https://www.python.org/
 [gh-pat-url]: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-[satis-build-url]: https://github.com/strg-at/satis-registry/actions/workflows/satis-build.yaml
-[satis-test-url]: https://github.com/strg-at/satis-registry/actions/workflows/satis-test.yaml
+[build-deploy-url]: https://github.com/strg-at/satis-registry/actions/workflows/build-deploy.yaml
 
 <!-- Badges -->
 
@@ -125,5 +120,4 @@ task pre-commit:run
 [pre-commit-url]: https://github.com/pre-commit/pre-commit
 [taskfile-url]: https://taskfile.dev/
 [taskfile-shield]: https://img.shields.io/badge/Taskfile-Enabled-brightgreen?logo=task
-[satis-build-badge]: https://github.com/strg-at/satis-registry/actions/workflows/satis-build.yaml/badge.svg?branch=main
-[satis-test-badge]: https://github.com/strg-at/satis-registry/actions/workflows/satis-test.yaml/badge.svg?branch=main
+[build-deploy-badge]: https://github.com/strg-at/satis-registry/actions/workflows/build-deploy.yaml/badge.svg?branch=main
