@@ -54,7 +54,7 @@
             "sha256": "f1ba0b7c9576dbfeac6194f1fdad1f93ed28852d3397a201b3c281fda5b4c930"
         },
         "strg/spunq3-lucene": {
-            "sha256": "ce7ca23caf720fc3155cbfb85c2e26a698427d882ce566b4eea00c35ca7c75bc"
+            "sha256": "2498afb755b8c8194e178e271ca4a5c823f5ca026ed2ba149a9bd785773b4f47"
         },
         "strg/spunq3-magic-methods": {
             "sha256": "44b8b88de0dc7c9122a04559bbe544754a004d56917b8d7df983ff3cba6d2e5b"
@@ -114,12 +114,12 @@
             "sha256": "718d690c2dfdfcd407987711e6e03ca6db28bfbd5bd7a93c83eb8e328bb5b0dc"
         },
         "strgat/swagger-codegenerator-bundle": {
-            "sha256": "661bac1a02d398712cbaedc77752e6cbdb4c2decc103008527d04d18b592acd1"
+            "sha256": "2846f404500ebd4aa25881b6f31dbe9751702d8600fbbb1437d53904f1e7469c"
         }
     },
     "includes": {
-        "include/all$7e61248f590b6e91de5d1980bb858d3e3282b45b.json": {
-            "sha1": "7e61248f590b6e91de5d1980bb858d3e3282b45b"
+        "include/all$d41cfd501bfd9c281e88e54c880d9464c91e5c21.json": {
+            "sha1": "d41cfd501bfd9c281e88e54c880d9464c91e5c21"
         }
     },
     "metadata-url": "/satis-registry/output/p2/%package%.json",
