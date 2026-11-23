@@ -13,12 +13,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: false
 
 jobs:
@@ -28,21 +26,35 @@ jobs:
       # https://github.com/marketplace/actions/checkout
       - name: checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
 
       # https://github.com/marketplace/actions/create-github-app-token
       - name: generate token
         id: generate-token
         uses: actions/create-github-app-token@f418cff399f7aef4c2f0ad47e25ca7a6abbdd6fc # v3.4.0
         with:
-          app-id: ${{ secrets.STRG_SATIS_GITHUB_APP_ID }}
-          private-key: ${{ secrets.STRG_SATIS_GITHUB_PEM }}
+          client-id: ${{ secrets.STRG_SATIS_CLIENT_ID }}
+          private-key: ${{ secrets.STRG_SATIS_PEM }}
           owner: ${{ github.repository_owner }}
+          permission-contents: read
 
       # https://github.com/marketplace/actions/satis-build-composer-repository
       - name: satis build
-        uses: tyriis/satis-build@c73209ab6b0b46440a31f6b5776e122fa650a463 # v1.6
+        uses: dev-this/satis-build@63f74ee0f73fafc91531aca49473b82521d09fb5 # master
         with:
           token: ${{ steps.generate-token.outputs.token }}
+
+      # https://github.com/marketplace/actions/create-github-app-token
+      - name: generate commit token
+        id: generate-commit-token
+        uses: actions/create-github-app-token@f418cff399f7aef4c2f0ad47e25ca7a6abbdd6fc # v3.4.0
+        with:
+          client-id: ${{ secrets.STRG_PUBLIC_BOT_CLIENT_ID }}
+          private-key: ${{ secrets.STRG_PUBLIC_BOT_PEM }}
+          owner: ${{ github.repository_owner }}
+          repositories: ${{ github.event.repository.name }}
+          permission-contents: write
 
       - name: git add changes
         run: git add .
@@ -52,12 +64,16 @@ jobs:
         id: multi-file-commit
         uses: tyriis/multi-file-commit@7bf613b8f7c63daf815d5e4d9eb68b8dead5e6a3 # v1.2.0
         with:
-          token: ${{ github.token }}
+          token: ${{ steps.generate-commit-token.outputs.token }}
           ref: main
           message: "chore: satis build"
 
   deploy:
     needs: [build]
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -68,6 +84,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: main
+          persist-credentials: false
 
       # https://github.com/marketplace/actions/configure-github-pages
       - name: setup pages
@@ -77,8 +94,8 @@ jobs:
       - name: upload artifact
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
-          # Upload entire repository
-          path: "."
+          # upload entire repository
+          path: .
 
       # https://github.com/marketplace/actions/deploy-github-pages-site
       - name: deploy to gh pages
